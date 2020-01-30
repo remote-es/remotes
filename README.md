@@ -41,6 +41,7 @@ list (in alphabetical order).
 * BMAT [Open positions](https://bmat.bamboohr.com/jobs/)
 * Cloudbees [Open positions](https://www.cloudbees.com/careers/job)
 * Ebury [Open positions](https://careers.ebury.com/)
+* Elastic [Open positions](https://www.elastic.co/about/careers/)
 * Fastly [Open positions](https://www.fastly.com/about/careers)
 * Form3 [Open positions](https://form3.tech/careers)
 * GitHub [Open positions](https://github.com/about/careers)
