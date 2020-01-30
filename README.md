@@ -36,6 +36,7 @@ list (in alphabetical order).
 
 # Companies
 
+* BeBanjo [Open positions](https://bebanjo.com/careers)
 * Belvo [Open positions](https://angel.co/company/belvo/jobs)
 * BMAT [Open positions](https://bmat.bamboohr.com/jobs/)
 * Cloudbees [Open positions](https://www.cloudbees.com/careers/job)
