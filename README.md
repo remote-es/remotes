@@ -39,6 +39,7 @@ list (in alphabetical order).
 * BeBanjo [Open positions](https://bebanjo.com/careers)
 * Belvo [Open positions](https://angel.co/company/belvo/jobs)
 * BMAT [Open positions](https://bmat.bamboohr.com/jobs/)
+* Carve [Open positions](https://angel.co/company/carve-2/jobs)
 * Cloudbees [Open positions](https://www.cloudbees.com/careers/job)
 * Ebury [Open positions](https://careers.ebury.com/)
 * Elastic [Open positions](https://www.elastic.co/about/careers/)
