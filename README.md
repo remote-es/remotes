@@ -40,6 +40,7 @@ list (in alphabetical order).
 * BMAT [Open positions](https://bmat.bamboohr.com/jobs/)
 * Cloudbees [Open positions](https://www.cloudbees.com/careers/job)
 * Ebury [Open positions](https://careers.ebury.com/)
+* Form3 [Open positions](https://form3.tech/careers)
 * Lingokids [Open positions](https://hire.withgoogle.com/public/jobs/lingokidscom)
 * Redhat [Open positions](https://global-redhat.icims.com/jobs/search?ss=1&searchLocation=13549--Remote)
 * reply.ai [Open positions](https://replyai.bamboohr.com/jobs/)
