@@ -42,6 +42,7 @@ list (in alphabetical order).
 * Carve [Open positions](https://angel.co/company/carve-2/jobs)
 * Cloudbees [Open positions](https://www.cloudbees.com/careers/job)
 * Codegram [Open positions](https://www.codegram.com/careers)
+* Crisp Studio [Open positions](https://weworkremotely.com/company/crisp-studio)
 * Ebury [Open positions](https://careers.ebury.com/)
 * Elastic [Open positions](https://www.elastic.co/about/careers/)
 * Fastly [Open positions](https://www.fastly.com/about/careers)
