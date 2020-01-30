@@ -52,6 +52,7 @@ list (in alphabetical order).
 * Igalia [Open positions](https://www.igalia.com/jobs/)
 * jobandtalent [Open positions](https://jobandtalent.bamboohr.com/jobs/)
 * Lingokids [Open positions](https://hire.withgoogle.com/public/jobs/lingokidscom)
+* Learnlife [Open positions](https://learnlife.com/work-with-us)
 * Marsbased [Open positions](https://marsbased.com/es/jobs/)
 * Noddus [Open positions](https://www.enterprise.noddus.com/careers)
 * Redhat [Open positions](https://global-redhat.icims.com/jobs/search?ss=1&searchLocation=13549--Remote)
