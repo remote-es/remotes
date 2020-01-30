@@ -49,6 +49,7 @@ list (in alphabetical order).
 * GuideSmiths [Open positions](https://www.guidesmiths.com/careers)
 * GitHub [Open positions](https://github.com/about/careers)
 * Lingokids [Open positions](https://hire.withgoogle.com/public/jobs/lingokidscom)
+* Marsbased [Open positions](https://marsbased.com/es/jobs/)
 * Redhat [Open positions](https://global-redhat.icims.com/jobs/search?ss=1&searchLocation=13549--Remote)
 * reply.ai [Open positions](https://replyai.bamboohr.com/jobs/)
 * Splice Machine [Open positions](https://jobs.lever.co/splicemachine/)
