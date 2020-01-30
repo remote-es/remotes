@@ -49,6 +49,7 @@ list (in alphabetical order).
 * Form3 [Open positions](https://form3.tech/careers)
 * GuideSmiths [Open positions](https://www.guidesmiths.com/careers)
 * GitHub [Open positions](https://github.com/about/careers)
+* Igalia [Open positions](https://www.igalia.com/jobs/)
 * jobandtalent [Open positions](https://jobandtalent.bamboohr.com/jobs/)
 * Lingokids [Open positions](https://hire.withgoogle.com/public/jobs/lingokidscom)
 * Marsbased [Open positions](https://marsbased.com/es/jobs/)
