@@ -46,6 +46,7 @@ list (in alphabetical order).
 * Elastic [Open positions](https://www.elastic.co/about/careers/)
 * Fastly [Open positions](https://www.fastly.com/about/careers)
 * Form3 [Open positions](https://form3.tech/careers)
+* GuideSmiths [Open positions](https://www.guidesmiths.com/careers)
 * GitHub [Open positions](https://github.com/about/careers)
 * Lingokids [Open positions](https://hire.withgoogle.com/public/jobs/lingokidscom)
 * Redhat [Open positions](https://global-redhat.icims.com/jobs/search?ss=1&searchLocation=13549--Remote)
