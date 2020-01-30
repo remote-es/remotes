@@ -55,3 +55,4 @@ list (in alphabetical order).
 * Twilio [Open positions](https://boards.greenhouse.io/twilio/)
 * Vizzuality [Open positions](https://vizzuality.bamboohr.com/jobs/)
 * XING (occasional travels to the offices in Barcelona or Valencia) [Open positions](https://www.xing.com/jobs/search?page=1&utf8=%E2%9C%93&nrs=1&sc_o=jobs_search_button&keywords=xing&location=barcelona&radius=)
+* Z1 [Open positions](https://z1.digital/careers)
