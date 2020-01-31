@@ -51,6 +51,7 @@ list (in alphabetical order).
 * GitHub [Open positions](https://github.com/about/careers)
 * Igalia [Open positions](https://www.igalia.com/jobs/)
 * jobandtalent [Open positions](https://jobandtalent.bamboohr.com/jobs/)
+* Lana [Open positions](https://boards.greenhouse.io/lana/)
 * Lingokids [Open positions](https://hire.withgoogle.com/public/jobs/lingokidscom)
 * Learnlife [Open positions](https://learnlife.com/work-with-us)
 * Marsbased [Open positions](https://marsbased.com/es/jobs/)
