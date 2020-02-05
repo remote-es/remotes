@@ -59,6 +59,7 @@ list (in alphabetical order).
 * Marsbased [Open positions](https://marsbased.com/es/jobs/)
 * Nexiona (monthly travels to the HQ in Barcelona) [Open positions](https://angel.co/company/nexiona/jobs)
 * Nextail [Open positions](https://nextaillabs.recruitee.com/)
+* ninety nine [Open positions](https://www.notion.so/Open-positions-6f9c67b1a7364caa80579d3cf3a55081)
 * Noddus [Open positions](https://www.enterprise.noddus.com/careers)
 * Redhat [Open positions](https://global-redhat.icims.com/jobs/search?ss=1&searchLocation=13549--Remote)
 * reply.ai [Open positions](https://replyai.bamboohr.com/jobs/)
