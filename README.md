@@ -57,6 +57,7 @@ list (in alphabetical order).
 * Lingokids [Open positions](https://hire.withgoogle.com/public/jobs/lingokidscom)
 * Learnlife [Open positions](https://learnlife.com/work-with-us)
 * Marsbased [Open positions](https://marsbased.com/es/jobs/)
+* Nexiona (monthly travels to the HQ in Barcelona) [Open positions](https://angel.co/company/nexiona/jobs)
 * Nextail [Open positions](https://nextaillabs.recruitee.com/)
 * Noddus [Open positions](https://www.enterprise.noddus.com/careers)
 * Redhat [Open positions](https://global-redhat.icims.com/jobs/search?ss=1&searchLocation=13549--Remote)
