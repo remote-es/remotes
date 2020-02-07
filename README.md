@@ -29,10 +29,21 @@ don't want to). Some occasional travelling for onboarding, team building or
 similar purposes is fine. Also the companies must also hire people using
 Spanish full-time contracts (i.e. not self-employment).
 
+Please make a note in the offer if:
+
+* You have work schedule requirements which deviate significantly from Spanish
+  normal office hours
+* You have specific travel requirements (monthly onsites, etc.) which happen
+  more than 3 times a year
+* You require language knowledge other than Spanish and/or medium English
+
+or anything you feel might be important to users of the list, especially if
+this is not clearly stated in the offers in your listings.
+
 # Adding a company
 
 If you are a company or an individual, send a PR which adds the company to the
-list (in alphabetical order).
+list (in alphabetical order). Try to be brief to keep the list manageable.
 
 # Companies
 
