@@ -76,6 +76,7 @@ list (in alphabetical order). Try to be brief to keep the list manageable.
 * Nucoro [Open positions](https://careers.nucoro.com/)
 * Redhat [Open positions](https://global-redhat.icims.com/jobs/search?ss=1&searchLocation=13549--Remote)
 * reply.ai [Open positions](https://replyai.bamboohr.com/jobs/)
+* Rindus [Open positions](https://rindus-jobs.personio.de/search?language=en&query=remote)
 * Splice Machine [Open positions](https://jobs.lever.co/splicemachine/)
 * Twilio [Open positions](https://boards.greenhouse.io/twilio/)
 * Vizzuality [Open positions](https://vizzuality.bamboohr.com/jobs/)
