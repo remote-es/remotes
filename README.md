@@ -74,7 +74,7 @@ list (in alphabetical order). Try to be brief to keep the list manageable.
 * ninety nine [Open positions](https://www.notion.so/Open-positions-6f9c67b1a7364caa80579d3cf3a55081)
 * Noddus [Open positions](https://www.enterprise.noddus.com/careers)
 * Nucoro [Open positions](https://careers.nucoro.com/)
-* Redhat [Open positions](https://global-redhat.icims.com/jobs/search?ss=1&searchLocation=13549--Remote)
+* Red Hat [Open positions](https://global-redhat.icims.com/jobs/search?ss=1&searchLocation=13549--Remote)
 * reply.ai [Open positions](https://replyai.bamboohr.com/jobs/)
 * Rindus [Open positions](https://rindus-jobs.personio.de/search?language=en&query=remote)
 * Splice Machine [Open positions](https://jobs.lever.co/splicemachine/)
