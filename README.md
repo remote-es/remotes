@@ -82,3 +82,9 @@ list (in alphabetical order). Try to be brief to keep the list manageable.
 * Vizzuality [Open positions](https://vizzuality.bamboohr.com/jobs/)
 * XING (occasional travels to the offices in Barcelona or Valencia) [Open positions](https://www.xing.com/jobs/search?page=1&utf8=%E2%9C%93&nrs=1&sc_o=jobs_search_button&keywords=xing&location=barcelona&radius=)
 * Z1 [Open positions](https://z1.digital/careers)
+
+# Others
+
+* Manfred [Open positions](https://github.com/getmanfred/offers/wiki) Manfred is
+  a recruiting company. Offers marked as `FULL REMOTE` and with a salary in euro
+  comply with the conditions stated above.
