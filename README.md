@@ -58,6 +58,7 @@ list (in alphabetical order). Try to be brief to keep the list manageable.
 * Ebury [Open positions](https://careers.ebury.com/)
 * Elastic [Open positions](https://www.elastic.co/about/careers/)
 * Electromaps [Open positions](https://www.electromaps.com/articulo/unete-al-equipo-electromaps-full-stack-web-developer)
+* Factorial [Open positions](https://factorialhr.com/join-factorial)
 * Fastly [Open positions](https://www.fastly.com/about/careers)
 * Form3 [Open positions](https://form3.tech/careers)
 * GuideSmiths [Open positions](https://www.guidesmiths.com/careers)
