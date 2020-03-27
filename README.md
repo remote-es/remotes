@@ -54,6 +54,7 @@ list (in alphabetical order). Try to be brief to keep the list manageable.
 * Carve [Open positions](https://angel.co/company/carve-2/jobs)
 * Cloudbees [Open positions](https://www.cloudbees.com/careers/job)
 * Codegram [Open positions](https://www.codegram.com/careers)
+* Continuum Security [Open positions](https://iriusrisk.com/resources/careers/)
 * Crisp Studio [Open positions](https://weworkremotely.com/company/crisp-studio)
 * Ebury [Open positions](https://careers.ebury.com/)
 * Elastic [Open positions](https://www.elastic.co/about/careers/)
