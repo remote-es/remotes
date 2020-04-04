@@ -64,6 +64,7 @@ list (in alphabetical order). Try to be brief to keep the list manageable.
 * Form3 [Open positions](https://form3.tech/careers)
 * GuideSmiths [Open positions](https://www.guidesmiths.com/careers)
 * GitHub [Open positions](https://github.com/about/careers)
+* iContainers [Open positions](https://www.notion.so/Open-Positions-in-iContainers-a3f291c528bd4e60969b7206b09a3d0b)
 * Igalia [Open positions](https://www.igalia.com/jobs/)
 * jobandtalent [Open positions](https://jobandtalent.bamboohr.com/jobs/)
 * Lana [Open positions](https://boards.greenhouse.io/lana/)
