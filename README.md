@@ -46,7 +46,7 @@ If you are a company or an individual, send a PR which adds the company to the
 list (in alphabetical order). Try to be brief to keep the list manageable.
 
 # Companies
-
+* Audiense [Open positions](http://aboutus.audiense.com/careers)
 * BeBanjo [Open positions](https://bebanjo.com/careers)
 * Belvo [Open positions](https://angel.co/company/belvo/jobs)
 * BMAT [Open positions](https://bmat.bamboohr.com/jobs/)
