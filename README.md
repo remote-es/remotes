@@ -105,6 +105,7 @@ with a justification) or open an issue.
 * reply.ai [Open positions](https://replyai.bamboohr.com/jobs/)
 * Rindus [Open positions](https://rindus-jobs.personio.de/search?language=en&query=remote)
 * Splice Machine [Open positions](https://jobs.lever.co/splicemachine/)
+* Stuart [Open positions](https://stuart.com/careers/)
 * Twilio [Open positions](https://boards.greenhouse.io/twilio/)
 * Vizzuality [Open positions](https://vizzuality.bamboohr.com/jobs/)
 * XING (occasional travels to the offices in Barcelona or Valencia) [Open positions](https://www.xing.com/jobs/search?page=1&utf8=%E2%9C%93&nrs=1&sc_o=jobs_search_button&keywords=xing&location=barcelona&radius=)
