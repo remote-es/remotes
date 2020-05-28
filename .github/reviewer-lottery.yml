@@ -1,0 +1,7 @@
+groups:
+  - name: maintainers
+    reviewers: 1
+    usernames:
+      - alexpdp7
+      - acroca
+      - uesteibar
