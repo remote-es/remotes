@@ -23,6 +23,8 @@ and look for open positions.
 
 # Conditions
 
+## Remote
+
 We will only list companies which allow working fully remotely (e.g. you can
 work from anywhere in Spain and you do not have to set foot in an office if you
 don't want to). Some occasional travelling for onboarding, team building or
@@ -40,12 +42,33 @@ Please make a note in the offer if:
 or anything you feel might be important to users of the list, especially if
 this is not clearly stated in the offers in your listings.
 
+## Offers
+
+Please provide a stable URL which lists all offers that meet the conditions
+for being listed in this page (or a simple way to filter/locate them).
+
+We recommend:
+
+* Not using an URL or page that seems to be for a specific offer (e.g.
+  `/blog/backend_python_dev`). People browsing the list might not feel
+  confident that the offer is still available and up to date
+* Showing clearly when offers were posted
+
 # Adding a company
 
 If you are a company or an individual, send a PR which adds the company to the
 list (in alphabetical order). Try to be brief to keep the list manageable.
 
+# Support
+
+It is our objective for this list to remain useful and effective for job
+searchers. If you use this list and notice that a company listed below is no
+longer useful (broken URL, not clearly listing remote offers which fulfill
+the criteria for the listing, etc.), please send a PR removing it (along
+with a justification) or open an issue.
+
 # Companies
+
 * Audiense [Open positions](http://aboutus.audiense.com/careers)
 * BeBanjo [Open positions](https://bebanjo.com/careers)
 * Belvo [Open positions](https://angel.co/company/belvo/jobs)
