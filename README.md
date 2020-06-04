@@ -72,6 +72,7 @@ with a justification) or open an issue.
 * Audiense [Open positions](http://aboutus.audiense.com/careers)
 * BeBanjo [Open positions](https://bebanjo.com/careers)
 * Belvo [Open positions](https://angel.co/company/belvo/jobs)
+* Blarlo [Open positions](https://github.com/blarlo/remote-job-offers)
 * BMAT [Open positions](https://bmat.bamboohr.com/jobs/)
 * Cabify [Open positions](https://cabify.com/es/jobs)
 * Carve [Open positions](https://angel.co/company/carve-2/jobs)
