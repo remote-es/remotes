@@ -93,6 +93,7 @@ with a justification) or open an issue.
 * jobandtalent [Open positions](https://jobandtalent.bamboohr.com/jobs/)
 * Lana [Open positions](https://boards.greenhouse.io/lana/)
 * Liferay [Open positions](https://jobs.jobvite.com/careers/liferay)
+* Lightbend [Open positions](https://www.lightbend.com/company/careers)
 * Lingokids [Open positions](https://hire.withgoogle.com/public/jobs/lingokidscom)
 * Learnlife [Open positions](https://learnlife.com/work-with-us)
 * Marsbased [Open positions](https://marsbased.com/es/jobs/)
