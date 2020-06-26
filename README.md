@@ -9,11 +9,11 @@ When considering a remote job, it's natural to think that you can work for any
 company in the world. However, if you live in Spain, working for companies
 abroad means becoming self-employed, which has several drawbacks:
 
--   Your employer can end your contract at any time
--   You need to do extra paperwork compared to a regular full-time job
--   There is no clear legal framework. Apparently it is not OK to be self-employed
-    and work for a single Spanish company. There seems to be no clear messaging
-    from the government that doing the same for a foreign company is OK
+* Your employer can end your contract at any time
+* You need to do extra paperwork compared to a regular full-time job
+* There is no clear legal framework. Apparently it is not OK to be self-employed
+  and work for a single Spanish company. There seems to be no clear messaging
+  from the government that doing the same for a foreign company is OK
 
 There is a significant amount of resources to find a remote job, but we have
 found none targetting people living in Spain. As we believe that the number of
@@ -33,11 +33,11 @@ Spanish full-time contracts (i.e. not self-employment).
 
 Please make a note in the offer if:
 
--   You have work schedule requirements which deviate significantly from Spanish
-    normal office hours
--   You have specific travel requirements (monthly onsites, etc.) which happen
-    more than 3 times a year
--   You require language knowledge other than Spanish and/or medium English
+* You have work schedule requirements which deviate significantly from Spanish
+  normal office hours
+* You have specific travel requirements (monthly onsites, etc.) which happen
+  more than 3 times a year
+* You require language knowledge other than Spanish and/or medium English
 
 or anything you feel might be important to users of the list, especially if
 this is not clearly stated in the offers in your listings.
@@ -49,10 +49,10 @@ for being listed in this page (or a simple way to filter/locate them).
 
 We recommend:
 
--   Not using an URL or page that seems to be for a specific offer (e.g.
-    `/blog/backend_python_dev`). People browsing the list might not feel
-    confident that the offer is still available and up to date
--   Showing clearly when offers were posted
+* Not using an URL or page that seems to be for a specific offer (e.g.
+  `/blog/backend_python_dev`). People browsing the list might not feel
+  confident that the offer is still available and up to date
+* Showing clearly when offers were posted
 
 # Adding a company
 
@@ -69,54 +69,54 @@ with a justification) or open an issue.
 
 # Companies
 
--   Audiense [Open positions](http://aboutus.audiense.com/careers)
--   BeBanjo [Open positions](https://bebanjo.com/careers)
--   Belvo [Open positions](https://angel.co/company/belvo/jobs)
--   Blarlo [Open positions](https://github.com/blarlo/remote-job-offers)
--   BMAT [Open positions](https://bmat.bamboohr.com/jobs/)
--   Cabify [Open positions](https://cabify.com/es/jobs)
--   Carve [Open positions](https://angel.co/company/carve-2/jobs)
--   Cloudbees [Open positions](https://www.cloudbees.com/careers/job)
--   Codegram [Open positions](https://www.codegram.com/careers)
--   Continuum Security [Open positions](https://iriusrisk.com/resources/careers/)
--   Crisp Studio [Open positions](https://weworkremotely.com/company/crisp-studio)
--   Ebury [Open positions](https://careers.ebury.com/)
--   Elastic [Open positions](https://www.elastic.co/about/careers/)
--   Electromaps [Open positions](https://www.electromaps.com/articulo/unete-al-equipo-electromaps-full-stack-web-developer)
--   Factorial [Open positions](https://factorialhr.com/join-factorial)
--   Fastly [Open positions](https://www.fastly.com/about/careers)
--   Form3 [Open positions](https://form3.tech/careers)
--   GuideSmiths [Open positions](https://www.guidesmiths.com/careers)
--   GitHub [Open positions](https://github.com/about/careers)
--   iContainers [Open positions](https://www.notion.so/Open-Positions-in-iContainers-a3f291c528bd4e60969b7206b09a3d0b)
--   Igalia [Open positions](https://www.igalia.com/jobs/)
--   jobandtalent [Open positions](https://jobandtalent.bamboohr.com/jobs/)
--   Lana [Open positions](https://boards.greenhouse.io/lana/)
--   Liferay [Open positions](https://jobs.jobvite.com/careers/liferay)
--   Lightbend [Open positions](https://www.lightbend.com/company/careers)
--   Lingokids [Open positions](https://hire.withgoogle.com/public/jobs/lingokidscom)
--   Learnlife [Open positions](https://learnlife.com/work-with-us)
--   Marsbased [Open positions](https://marsbased.com/es/jobs/)
--   Nexiona (monthly travels to the HQ in Barcelona) [Open positions](https://angel.co/company/nexiona/jobs)
--   Nextail [Open positions](https://nextaillabs.recruitee.com/)
--   ninety nine [Open positions](https://www.notion.so/Open-positions-6f9c67b1a7364caa80579d3cf3a55081)
--   Noddus [Open positions](https://www.enterprise.noddus.com/careers)
--   Nucoro [Open positions](https://careers.nucoro.com/)
--   Red Hat [Open positions](https://global-redhat.icims.com/jobs/search?ss=1&searchLocation=13549--Remote)
--   reply.ai [Open positions](https://replyai.bamboohr.com/jobs/)
--   Rindus [Open positions](https://rindus-jobs.personio.de/search?language=en&query=remote)
--   Splash [Open positions](https://splashthat.com/careers)
--   Splice Machine [Open positions](https://jobs.lever.co/splicemachine/)
--   Stuart [Open positions](https://stuart.com/careers/)
--   Twilio [Open positions](https://boards.greenhouse.io/twilio/)
--   Vizzuality [Open positions](https://vizzuality.bamboohr.com/jobs/)
--   XING (occasional travels to the offices in Barcelona or Valencia) [Open positions](https://www.xing.com/jobs/search?page=1&utf8=%E2%9C%93&nrs=1&sc_o=jobs_search_button&keywords=xing&location=barcelona&radius=)
--   YouGov [Open positions](https://jobs.yougov.com/jobs)
--   Z1 [Open positions](https://z1.digital/careers)
--   Tot-em [Open positions](https://www.linkedin.com/jobs/view/1921295220/)
+* Audiense [Open positions](http://aboutus.audiense.com/careers)
+* BeBanjo [Open positions](https://bebanjo.com/careers)
+* Belvo [Open positions](https://angel.co/company/belvo/jobs)
+* Blarlo [Open positions](https://github.com/blarlo/remote-job-offers)
+* BMAT [Open positions](https://bmat.bamboohr.com/jobs/)
+* Cabify [Open positions](https://cabify.com/es/jobs)
+* Carve [Open positions](https://angel.co/company/carve-2/jobs)
+* Cloudbees [Open positions](https://www.cloudbees.com/careers/job)
+* Codegram [Open positions](https://www.codegram.com/careers)
+* Continuum Security [Open positions](https://iriusrisk.com/resources/careers/)
+* Crisp Studio [Open positions](https://weworkremotely.com/company/crisp-studio)
+* Ebury [Open positions](https://careers.ebury.com/)
+* Elastic [Open positions](https://www.elastic.co/about/careers/)
+* Electromaps [Open positions](https://www.electromaps.com/articulo/unete-al-equipo-electromaps-full-stack-web-developer)
+* Factorial [Open positions](https://factorialhr.com/join-factorial)
+* Fastly [Open positions](https://www.fastly.com/about/careers)
+* Form3 [Open positions](https://form3.tech/careers)
+* GuideSmiths [Open positions](https://www.guidesmiths.com/careers)
+* GitHub [Open positions](https://github.com/about/careers)
+* iContainers [Open positions](https://www.notion.so/Open-Positions-in-iContainers-a3f291c528bd4e60969b7206b09a3d0b)
+* Igalia [Open positions](https://www.igalia.com/jobs/)
+* jobandtalent [Open positions](https://jobandtalent.bamboohr.com/jobs/)
+* Lana [Open positions](https://boards.greenhouse.io/lana/)
+* Liferay [Open positions](https://jobs.jobvite.com/careers/liferay)
+* Lightbend [Open positions](https://www.lightbend.com/company/careers)
+* Lingokids [Open positions](https://hire.withgoogle.com/public/jobs/lingokidscom)
+* Learnlife [Open positions](https://learnlife.com/work-with-us)
+* Marsbased [Open positions](https://marsbased.com/es/jobs/)
+* Nexiona (monthly travels to the HQ in Barcelona) [Open positions](https://angel.co/company/nexiona/jobs)
+* Nextail [Open positions](https://nextaillabs.recruitee.com/)
+* ninety nine [Open positions](https://www.notion.so/Open-positions-6f9c67b1a7364caa80579d3cf3a55081)
+* Noddus [Open positions](https://www.enterprise.noddus.com/careers)
+* Nucoro [Open positions](https://careers.nucoro.com/)
+* Red Hat [Open positions](https://global-redhat.icims.com/jobs/search?ss=1&searchLocation=13549--Remote)
+* reply.ai [Open positions](https://replyai.bamboohr.com/jobs/)
+* Rindus [Open positions](https://rindus-jobs.personio.de/search?language=en&query=remote)
+* Splash [Open positions](https://splashthat.com/careers)
+* Splice Machine [Open positions](https://jobs.lever.co/splicemachine/)
+* Stuart [Open positions](https://stuart.com/careers/)
+* Twilio [Open positions](https://boards.greenhouse.io/twilio/)
+* Vizzuality [Open positions](https://vizzuality.bamboohr.com/jobs/)
+* XING (occasional travels to the offices in Barcelona or Valencia) [Open positions](https://www.xing.com/jobs/search?page=1&utf8=%E2%9C%93&nrs=1&sc_o=jobs_search_button&keywords=xing&location=barcelona&radius=)
+* YouGov [Open positions](https://jobs.yougov.com/jobs)
+* Z1 [Open positions](https://z1.digital/careers)
+* Tot-em [Open positions](https://www.linkedin.com/jobs/view/1921295220/)
 
 # Others
 
--   Manfred [Open positions](https://github.com/getmanfred/offers/wiki) Manfred is
-    a recruiting company. Offers marked as `FULL REMOTE` and with a salary in euro
-    comply with the conditions stated above.
+* Manfred [Open positions](https://github.com/getmanfred/offers/wiki) Manfred is
+  a recruiting company. Offers marked as `FULL REMOTE` and with a salary in euro
+  comply with the conditions stated above.
