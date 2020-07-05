@@ -78,6 +78,7 @@ with a justification) or open an issue.
 * Carve [Open positions](https://angel.co/company/carve-2/jobs)
 * Cloudbees [Open positions](https://www.cloudbees.com/careers/job)
 * Codegram [Open positions](https://www.codegram.com/careers)
+* Colvin [Open positions](https://www.linkedin.com/company/colvin/jobs/)
 * Continuum Security [Open positions](https://iriusrisk.com/resources/careers/)
 * Crisp Studio [Open positions](https://weworkremotely.com/company/crisp-studio)
 * Ebury [Open positions](https://careers.ebury.com/)
