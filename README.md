@@ -94,6 +94,7 @@ with a justification) or open an issue.
 * Igalia [Open positions](https://www.igalia.com/jobs/)
 * jobandtalent [Open positions](https://jobandtalent.bamboohr.com/jobs/)
 * Lana [Open positions](https://boards.greenhouse.io/lana/)
+* Landbot [Open positions](https://jobs.landbot.io/)
 * Liferay [Open positions](https://jobs.jobvite.com/careers/liferay)
 * Lightbend [Open positions](https://www.lightbend.com/company/careers)
 * Lingokids [Open positions](https://hire.withgoogle.com/public/jobs/lingokidscom)
