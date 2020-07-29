@@ -109,6 +109,7 @@ with a justification) or open an issue.
 * Red Hat [Open positions](https://global-redhat.icims.com/jobs/search?ss=1&searchLocation=13549--Remote)
 * reply.ai [Open positions](https://replyai.bamboohr.com/jobs/)
 * Rindus [Open positions](https://rindus-jobs.personio.de/search?language=en&query=remote)
+* Seqera [Open positions](https://seqera.io/jobs/)
 * Splash [Open positions](https://splashthat.com/careers)
 * Splice Machine [Open positions](https://jobs.lever.co/splicemachine/)
 * Stuart [Open positions](https://stuart.com/careers/)
