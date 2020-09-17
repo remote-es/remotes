@@ -84,7 +84,7 @@ with a justification) or open an issue.
 * Crisp Studio [Open positions](https://weworkremotely.com/company/crisp-studio)
 * Ebury [Open positions](https://careers.ebury.com/)
 * Elastic [Open positions](https://www.elastic.co/about/careers/)
-* Electromaps [Open positions](https://www.electromaps.com/articulo/unete-al-equipo-electromaps-full-stack-web-developer)
+* Electromaps [Open positions](https://www.electromaps.com/articulo/unete-al-equipo-electromaps)
 * Factorial [Open positions](https://factorialhr.com/join-factorial)
 * Fastly [Open positions](https://www.fastly.com/about/careers)
 * Form3 [Open positions](https://form3.tech/careers)
