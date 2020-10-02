@@ -85,6 +85,7 @@ with a justification) or open an issue.
 * Ebury [Open positions](https://careers.ebury.com/)
 * Elastic [Open positions](https://www.elastic.co/about/careers/)
 * Electromaps [Open positions](https://www.electromaps.com/articulo/unete-al-equipo-electromaps)
+* Eventbrite [Open positions](https://www.eventbritecareers.com/jobs/search?page=1&country_codes%5B%5D=ES&cities%5B%5D=Remote&query=)
 * Factorial [Open positions](https://factorialhr.com/join-factorial)
 * Fastly [Open positions](https://www.fastly.com/about/careers)
 * Form3 [Open positions](https://form3.tech/careers)
