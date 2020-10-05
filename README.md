@@ -53,6 +53,9 @@ We recommend:
   `/blog/backend_python_dev`). People browsing the list might not feel
   confident that the offer is still available and up to date
 * Showing clearly when offers were posted
+* Highlight clearly which offers fulfill the criteria for this listing
+  or that all offers do. For instance, indicate clearly which offers
+  are remote, etc.
 
 # Adding a company
 
