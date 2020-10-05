@@ -101,6 +101,7 @@ with a justification) or open an issue.
 * Lightbend [Open positions](https://www.lightbend.com/company/careers)
 * Lingokids [Open positions](https://hire.withgoogle.com/public/jobs/lingokidscom)
 * Learnlife [Open positions](https://learnlife.com/work-with-us)
+* Localistico [Open positions](https://angel.co/company/localistico)
 * Marsbased [Open positions](https://marsbased.com/es/jobs/)
 * Nexiona (monthly travels to the HQ in Barcelona) [Open positions](https://angel.co/company/nexiona/jobs)
 * Nextail [Open positions](https://nextaillabs.recruitee.com/)
