@@ -122,6 +122,7 @@ with a justification) or open an issue.
 * Splash [Open positions](https://splashthat.com/careers)
 * Splice Machine [Open positions](https://jobs.lever.co/splicemachine/)
 * Stuart [Open positions](https://stuart.com/careers/)
+* The Hotels Network (not all teams remote, remote job postings are clearly stated as such) [Open positions](https://info.thehotelsnetwork.com/en/careers)
 * Tot-em [Open positions](https://www.linkedin.com/jobs/view/1921295220/)
 * Twilio [Open positions](https://boards.greenhouse.io/twilio/)
 * Vizzuality [Open positions](https://vizzuality.bamboohr.com/jobs/)
