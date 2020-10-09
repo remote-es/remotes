@@ -106,6 +106,7 @@ with a justification) or open an issue.
 * Learnlife [Open positions](https://learnlife.com/work-with-us)
 * Localistico [Open positions](https://angel.co/company/localistico)
 * Marsbased [Open positions](https://marsbased.com/es/jobs/)
+* mediasmart [Open positions](https://info.mediasmart.io/careers)
 * Nexiona (monthly travels to the HQ in Barcelona) [Open positions](https://angel.co/company/nexiona/jobs)
 * Nextail [Open positions](https://nextaillabs.recruitee.com/)
 * New Work SE [Open positions](https://www.new-work.se/en/career/vacancies)
