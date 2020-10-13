@@ -78,6 +78,7 @@ with a justification) or open an issue.
 * Blarlo [Open positions](https://github.com/blarlo/remote-job-offers)
 * BMAT [Open positions](https://bmat.bamboohr.com/jobs/)
 * Cabify [Open positions](https://cabify.com/es/jobs)
+* Capchase [Open positions](https://www.notion.so/9b9e8dbcc5a2415f9da69f1e00617f94?v=cdd6935b11024b68aba4375714c7cc00)
 * CARTO [Open positions](https://carto.com/careers/)
 * Carve [Open positions](https://angel.co/company/carve-2/jobs)
 * Cloudbees [Open positions](https://www.cloudbees.com/careers/job)
