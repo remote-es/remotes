@@ -95,6 +95,7 @@ with a justification) or open an issue.
 * Form3 [Open positions](https://form3.tech/careers)
 * GuideSmiths [Open positions](https://www.guidesmiths.com/careers)
 * GitHub [Open positions](https://github.com/about/careers)
+* Habitissimo [Open positions](https://www.linkedin.com/company/habitissimo/jobs/)
 * Hector Kitchen [Open positions](https://hectorkitchen.recruitee.com/#section-121611)
 * iContainers [Open positions](https://www.notion.so/Open-Positions-in-iContainers-a3f291c528bd4e60969b7206b09a3d0b)
 * Igalia [Open positions](https://www.igalia.com/jobs/)
