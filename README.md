@@ -85,6 +85,7 @@ with a justification) or open an issue.
 * Codegram [Open positions](https://www.codegram.com/careers)
 * Colvin [Open positions](https://www.linkedin.com/company/colvin/jobs/)
 * Continuum Security [Open positions](https://iriusrisk.com/resources/careers/)
+* Coopdevs [Open positions](https://coopdevs.org/treballa-amb-nosaltres/)
 * Crisp Studio [Open positions](https://weworkremotely.com/company/crisp-studio)
 * Ebury [Open positions](https://careers.ebury.com/)
 * Elastic [Open positions](https://www.elastic.co/about/careers/)
