@@ -123,6 +123,7 @@ with a justification) or open an issue.
 * reply.ai [Open positions](https://replyai.bamboohr.com/jobs/)
 * Rindus [Open positions](https://rindus-jobs.personio.de/search?language=en&query=remote)
 * Seqera [Open positions](https://seqera.io/jobs/)
+* Sketch [Open positions](https://www.sketch.com/jobs/)
 * SMART Technologies [Open positions](https://smarttechnologies.recruiterbox.com/?country=Spain&q=&limit=25)
 * Splash [Open positions](https://splashthat.com/careers)
 * Splice Machine [Open positions](https://jobs.lever.co/splicemachine/)
