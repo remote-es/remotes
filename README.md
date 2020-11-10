@@ -79,6 +79,7 @@ with a justification) or open an issue.
 * Blarlo [Open positions](https://github.com/blarlo/remote-job-offers)
 * Bravo Studio [Open positions](https://www.bravostudio.app/careers)
 * BMAT [Open positions](https://bmat.bamboohr.com/jobs/)
+* BotXO [Open positions](https://www.botxo.ai/careers/)
 * Cabify [Open positions](https://cabify.com/es/jobs)
 * Capchase [Open positions](https://www.notion.so/9b9e8dbcc5a2415f9da69f1e00617f94?v=cdd6935b11024b68aba4375714c7cc00)
 * CARTO [Open positions](https://carto.com/careers/)
