@@ -73,6 +73,7 @@ with a justification) or open an issue.
 # Companies
 
 * Audiense [Open positions](http://aboutus.audiense.com/careers)
+* Auth0 [Open positions](https://auth0.com/careers/positions?locations=Remote)
 * BeBanjo [Open positions](https://bebanjo.com/careers)
 * Belvo [Open positions](https://angel.co/company/belvo/jobs)
 * Blarlo [Open positions](https://github.com/blarlo/remote-job-offers)
