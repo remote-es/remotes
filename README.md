@@ -124,6 +124,7 @@ with a justification) or open an issue.
 * Pagantis [Open positions](https://apply.workable.com/pagantis/) (filter for Remote only)
 * PayFit [Open positions](https://payfit.com/en/careers/)
 * PcComponentes [Open positions](https://www.pccomponentes.com/trabaja-con-nosotros)
+* Rankia [Open positions](https://www.rankia.com/empleo/trabaja-en-rankia)
 * Red Hat [Open positions](https://global-redhat.icims.com/jobs/search?ss=1&searchLocation=13549--Remote)
 * reply.ai [Open positions](https://replyai.bamboohr.com/jobs/)
 * Rindus [Open positions](https://rindus-jobs.personio.de/search?language=en&query=remote)
