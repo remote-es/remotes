@@ -72,6 +72,7 @@ with a justification) or open an issue.
 
 # Companies
 
+* Aplanet [Open positions](https://aplanet.org/careers/)
 * Audiense [Open positions](http://aboutus.audiense.com/careers)
 * Auth0 [Open positions](https://auth0.com/careers/positions?locations=Remote)
 * BeBanjo [Open positions](https://bebanjo.com/careers)
