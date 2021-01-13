@@ -149,6 +149,7 @@ with a justification) or open an issue.
 * Typeform [Open positions](https://www.typeform.com/careers/)
 * Verbio [Open positions](https://www.verbio.com/company/)
 * Vizzuality [Open positions](https://vizzuality.bamboohr.com/jobs/)
+* Xceed [Open positions](https://angel.co/company/xceed/jobs)
 * XING (occasional travels to the offices in Barcelona or Valencia) [Open positions](https://www.xing.com/jobs/search?page=1&utf8=%E2%9C%93&nrs=1&sc_o=jobs_search_button&keywords=xing&location=barcelona&radius=)
 * YouGov [Open positions](https://jobs.yougov.com/jobs)
 * Z1 [Open positions](https://z1.digital/careers)
