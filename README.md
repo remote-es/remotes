@@ -127,6 +127,7 @@ with a justification) or open an issue.
 * Noddus [Open positions](https://www.enterprise.noddus.com/careers)
 * Nucoro [Open positions](https://careers.nucoro.com/)
 * Pagantis [Open positions](https://apply.workable.com/pagantis/) (filter for Remote only)
+* Parkimeter [Open positions](https://parkimeter.factorialhr.com/#jobs)
 * PayFit [Open positions](https://payfit.com/en/careers/)
 * PcComponentes [Open positions](https://www.pccomponentes.com/trabaja-con-nosotros)
 * Rankia [Open positions](https://www.rankia.com/empleo/trabaja-en-rankia)
