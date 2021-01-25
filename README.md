@@ -89,6 +89,7 @@ with a justification) or open an issue.
 * Carve [Open positions](https://angel.co/company/carve-2/jobs)
 * Cloudbees [Open positions](https://www.cloudbees.com/careers/job)
 * Codegram [Open positions](https://www.codegram.com/careers)
+* codi cooperatiu [Open positions](https://codicoop.github.io/busquem-socia/)
 * Colvin [Open positions](https://www.linkedin.com/company/colvin/jobs/)
 * Continuum Security [Open positions](https://iriusrisk.com/resources/careers/)
 * Coopdevs [Open positions](https://coopdevs.org/treballa-amb-nosaltres/)
