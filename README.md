@@ -132,6 +132,7 @@ with a justification) or open an issue.
 * Parkimeter [Open positions](https://parkimeter.factorialhr.com/#jobs)
 * PayFit [Open positions](https://payfit.com/en/careers/)
 * PcComponentes [Open positions](https://www.pccomponentes.com/trabaja-con-nosotros)
+* Picker [Open positions](https://www.notion.so/We-are-looking-for-Talent-7033e2f2f9534f54b4627b41157c00ec)
 * Rankia [Open positions](https://www.rankia.com/empleo/trabaja-en-rankia)
 * Red Hat [Open positions](https://global-redhat.icims.com/jobs/search?ss=1&searchLocation=13549--Remote)
 * Red Points [Open positions](https://www.redpoints.com/jobs/)
