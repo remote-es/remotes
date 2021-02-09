@@ -120,6 +120,7 @@ with a justification) or open an issue.
 * Lingokids [Open positions](https://hire.withgoogle.com/public/jobs/lingokidscom)
 * Learnlife [Open positions](https://learnlife.com/work-with-us)
 * Localistico [Open positions](https://angel.co/company/localistico)
+* Mailtrack [Open positions](https://mailtrack.io/blog/tag/jobs/)
 * Marsbased [Open positions](https://marsbased.com/es/jobs/)
 * mediasmart [Open positions](https://info.mediasmart.io/careers)
 * Nexiona (monthly travels to the HQ in Barcelona) [Open positions](https://angel.co/company/nexiona/jobs)
