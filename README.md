@@ -103,6 +103,7 @@ with a justification) or open an issue.
 * Exoticca [Open positions](https://apply.workable.com/exoticca/)
 * Factorial [Open positions](https://factorialhr.com/join-factorial)
 * Fastly [Open positions](https://www.fastly.com/about/careers)
+* Flywire [Open positions](https://www.flywire.com/company/careers)
 * Form3 [Open positions](https://form3.tech/careers)
 * GuideSmiths [Open positions](https://www.guidesmiths.com/careers)
 * GitHub [Open positions](https://github.com/about/careers)
