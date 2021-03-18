@@ -127,6 +127,7 @@ with a justification) or open an issue.
 * Mailtrack [Open positions](https://mailtrack.io/blog/tag/jobs/)
 * Marsbased [Open positions](https://marsbased.com/es/jobs/)
 * mediasmart [Open positions](https://info.mediasmart.io/careers)
+* modo [Open positions](https://doc.clickup.com/p/h/4aw7y-533/ff8c70b304156ba/4aw7y-533)
 * Nexiona (monthly travels to the HQ in Barcelona) [Open positions](https://angel.co/company/nexiona/jobs)
 * Nextail [Open positions](https://nextaillabs.recruitee.com/)
 * New Work SE [Open positions](https://www.new-work.se/en/career/vacancies)
