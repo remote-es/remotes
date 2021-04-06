@@ -153,6 +153,7 @@ with a justification) or open an issue.
 * Splice Machine [Open positions](https://jobs.lever.co/splicemachine/)
 * Stayforlong [Open positions](https://www.linkedin.com/company/stayforlong/jobs/)
 * Streamloots [Open positions](https://streamloots.recruitee.com/)
+* Sysdig [Open positions](https://sysdig.com/jobs/)
 * TBSCG [Open positions](https://www.linkedin.com/company/tbscg/jobs/)
 * Stuart [Open positions](https://stuart.com/careers/)
 * The Hotels Network (not all teams remote, remote job postings are clearly stated as such) [Open positions](https://info.thehotelsnetwork.com/en/careers)
