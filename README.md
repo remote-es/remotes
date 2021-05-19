@@ -119,6 +119,7 @@ with a justification) or open an issue.
 * Hopin [Open positions](https://hopin.com/careers)
 * iContainers [Open positions](https://www.notion.so/Open-Positions-in-iContainers-a3f291c528bd4e60969b7206b09a3d0b)
 * Igalia [Open positions](https://www.igalia.com/jobs/)
+* Iomobo [Open positions](https://angel.co/company/iomob/jobs)
 * jobandtalent [Open positions](https://jobandtalent.bamboohr.com/jobs/)
 * Justo Seguros [Open positions](https://www.notion.so/justoseguros/Open-Positions-574be9f0ca1a4251bfa179efc37dfcb9)
 * Kodify [Open positions](https://kodify.recruitee.com/#section-26652)
