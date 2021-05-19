@@ -101,6 +101,7 @@ with a justification) or open an issue.
 * Crisp Studio [Open positions](https://weworkremotely.com/company/crisp-studio)
 * Datadog [Open positions](https://www.datadoghq.com/careers/)
 * DocPlanner [Open positions](https://apply.workable.com/docplanner/)
+* Dragonfly [Open positions](https://www.wearedragonfly.co/careers)
 * Ebury [Open positions](https://careers.ebury.com/)
 * Elastic [Open positions](https://www.elastic.co/about/careers/)
 * Electromaps [Open positions](https://www.electromaps.com/articulo/unete-al-equipo-electromaps)
