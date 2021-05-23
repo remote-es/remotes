@@ -100,6 +100,7 @@ with a justification) or open an issue.
 * Criptan [Open positions](https://www.criptan.es/jobs)
 * Crisp Studio [Open positions](https://weworkremotely.com/company/crisp-studio)
 * Datadog [Open positions](https://www.datadoghq.com/careers/)
+* DeWocracy [Open positions](https://github.com/dewocracy/careers)
 * DocPlanner [Open positions](https://apply.workable.com/docplanner/)
 * Dragonfly [Open positions](https://www.wearedragonfly.co/careers)
 * Ebury [Open positions](https://careers.ebury.com/)
