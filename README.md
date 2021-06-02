@@ -99,6 +99,7 @@ with a justification) or open an issue.
 * Couragium [Open positions](https://www.linkedin.com/company/couragium-solutions/jobs/)
 * Criptan [Open positions](https://www.criptan.es/jobs)
 * Crisp Studio [Open positions](https://weworkremotely.com/company/crisp-studio)
+* Cubyn [Open positions](https://www.welcometothejungle.com/fr/companies/cubyn/jobs)
 * Datadog [Open positions](https://www.datadoghq.com/careers/)
 * DeWocracy [Open positions](https://github.com/dewocracy/careers)
 * DocPlanner [Open positions](https://apply.workable.com/docplanner/)
