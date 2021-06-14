@@ -159,6 +159,7 @@ with a justification) or open an issue.
 * Ritmo [Open positions](https://www.linkedin.com/company/ritmo-capital/jobs/)
 * reply.ai [Open positions](https://replyai.bamboohr.com/jobs/)
 * Rindus [Open positions](https://rindus.jobs.personio.de/)
+* SEAT:CODE [Open positions](https://www.linkedin.com/company/seatcode/jobs/)
 * Seqera [Open positions](https://seqera.io/careers/)
 * Sketch [Open positions](https://www.sketch.com/jobs/)
 * SMART Technologies [Open positions](https://smarttechnologies.recruiterbox.com/?country=Spain&q=&limit=25)
