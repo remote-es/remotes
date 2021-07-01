@@ -62,7 +62,7 @@ list (in alphabetical order). Try to be brief to keep the list manageable.
 * Factorial [Open positions](https://factorialhr.com/join-factorial)
 * Fastly [Open positions](https://www.fastly.com/about/careers)
 * Form3 [Open positions](https://form3.tech/careers)
-* Genially [Open positions](https://blog.genial.ly/en/job-nodejs-developer)
+* Genially [Open positions](https://www.linkedin.com/company/geniallyofficial/jobs)
 * GuideSmiths [Open positions](https://www.guidesmiths.com/careers)
 * GitHub [Open positions](https://github.com/about/careers)
 * iContainers [Open positions](https://www.notion.so/Open-Positions-in-iContainers-a3f291c528bd4e60969b7206b09a3d0b)
