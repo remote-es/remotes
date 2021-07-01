@@ -115,7 +115,7 @@ with a justification) or open an issue.
 * Fastly [Open positions](https://www.fastly.com/about/careers)
 * Flywire [Open positions](https://www.flywire.com/company/careers)
 * Form3 [Open positions](https://form3.tech/careers)
-* Genially [Open positions](https://blog.genial.ly/en/job-nodejs-developer)
+* Genially [Open positions](https://www.linkedin.com/company/geniallyofficial/jobs)
 * GuideSmiths [Open positions](https://www.guidesmiths.com/careers)
 * GitHub [Open positions](https://github.com/about/careers)
 * Habitissimo [Open positions](https://www.linkedin.com/company/habitissimo/jobs/)
