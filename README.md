@@ -29,7 +29,15 @@ We will only list companies which allow working fully remotely (e.g. you can
 work from anywhere in Spain and you do not have to set foot in an office if you
 don't want to). Some occasional travelling for onboarding, team building or
 similar purposes is fine. Also the companies must also hire people using
-Spanish full-time contracts (i.e. not self-employment).
+Spanish full-time contracts (i.e. not self-employment). For example, the
+following scenarios are OK:
+
+* A completely Spanish company that hires in Spain with regular, non
+  self-employed contracts people living in Spain
+* A foreign company, with a Spanish legal entity to be able to hire people
+  living in Spain, using regular, non-self employed contracts
+* A foreign company, using an intermediary to hire people living in Spain, but
+  the contract must also be Spanish, not requiring self-employment.
 
 Please make a note in the offer if:
 
