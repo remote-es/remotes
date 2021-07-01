@@ -154,6 +154,7 @@ with a justification) or open an issue.
 * PcComponentes [Open positions](https://www.pccomponentes.com/trabaja-con-nosotros)
 * Picker [Open positions](https://www.notion.so/We-are-looking-for-Talent-7033e2f2f9534f54b4627b41157c00ec)
 * Plytix [Open positions](https://www.plytix.com/careers)
+* Postman [Open positions](https://www.postman.com/company/careers/open-positions/)
 * Rankia [Open positions](https://www.rankia.com/empleo/trabaja-en-rankia)
 * Red Hat [Open positions](https://global-redhat.icims.com/jobs/search?ss=1&searchLocation=13549--Remote)
 * Red Points [Open positions](https://www.redpoints.com/jobs/)
