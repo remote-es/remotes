@@ -166,6 +166,7 @@ with a justification) or open an issue.
 * SMART Technologies [Open positions](https://smarttechnologies.recruiterbox.com/?country=Spain&q=&limit=25)
 * Splash [Open positions](https://splashthat.com/careers)
 * Splice Machine [Open positions](https://jobs.lever.co/splicemachine/)
+* Spotahome [Open positions](https://rent.spotahome.com/work-with-us)
 * Stayforlong [Open positions](https://www.linkedin.com/company/stayforlong/jobs/)
 * Streamloots [Open positions](https://careers.streamloots.com/)
 * Sysdig [Open positions](https://sysdig.com/jobs/)
