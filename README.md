@@ -35,7 +35,7 @@ following scenarios are OK:
 * A completely Spanish company that hires in Spain with regular, non
   self-employed contracts people living in Spain
 * A foreign company, with a Spanish legal entity to be able to hire people
-  living in Spain, using regular, non-self employed contracts
+  living in Spain, using regular, non self-employed contracts
 * A foreign company, using an intermediary to hire people living in Spain, but
   the contract must also be Spanish, not requiring self-employment.
 
