@@ -98,6 +98,7 @@ with a justification) or open an issue.
 * Continuum Security [Open positions](https://iriusrisk.com/resources/careers/)
 * Coopdevs [Open positions](https://coopdevs.org/treballa-amb-nosaltres/)
 * Couragium [Open positions](https://www.linkedin.com/company/couragium-solutions/jobs/)
+* Crealsa (possible visits every two months to HQ in Valencia) [Open positions](https://crealsa.es/empleo/) 
 * Criptan [Open positions](https://www.criptan.es/jobs)
 * Crisp Studio [Open positions](https://weworkremotely.com/company/crisp-studio)
 * Cubyn [Open positions](https://www.welcometothejungle.com/fr/companies/cubyn/jobs)
