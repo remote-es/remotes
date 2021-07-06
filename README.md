@@ -187,6 +187,7 @@ with a justification) or open an issue.
 * XpertAI [Open positions](https://xpertai.factorialhr.es/#jobs)
 * YouGov [Open positions](https://jobs.yougov.com/jobs)
 * Z1 [Open positions](https://z1.digital/careers)
+* Voxel [Open positions](https://www.voxelgroup.net/people/en/home-eng/#page6)
 
 # Others
 
