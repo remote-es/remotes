@@ -131,7 +131,7 @@ with a justification) or open an issue.
 * Liferay [Open positions](https://jobs.jobvite.com/liferay/search?q=&r=&l=Remote%20-%20Spain&c=)
 * LIFULL Connect [Open positions](https://www.lifullconnect.com/careers/)
 * Lightbend [Open positions](https://www.lightbend.com/company/careers)
-* Lingokids [Open positions](https://lingokids.com/jobs)
+* Lingokids [Open positions](https://jobs.lingokids.com/)
 * Learnlife [Open positions](https://learnlife.com/work-with-us)
 * Localistico [Open positions](https://angel.co/company/localistico)
 * Mailtrack [Open positions](https://mailtrack.io/blog/tag/jobs/)
