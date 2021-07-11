@@ -128,7 +128,7 @@ with a justification) or open an issue.
 * Kodify [Open positions](https://kodify.recruitee.com/#section-26652)
 * Lana [Open positions](https://boards.greenhouse.io/lana/)
 * Landbot [Open positions](https://jobs.landbot.io/)
-* Liferay [Open positions](https://jobs.jobvite.com/careers/liferay)
+* Liferay [Open positions](https://jobs.jobvite.com/liferay/search?q=&r=&l=Remote%20-%20Spain&c=)
 * LIFULL Connect [Open positions](https://www.lifullconnect.com/careers/)
 * Lightbend [Open positions](https://www.lightbend.com/company/careers)
 * Lingokids [Open positions](https://lingokids.com/jobs)
