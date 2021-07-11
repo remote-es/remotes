@@ -143,7 +143,7 @@ with a justification) or open an issue.
 * Nexiona (monthly travels to the HQ in Barcelona) [Open positions](https://angel.co/company/nexiona/jobs)
 * Nextail [Open positions](https://nextaillabs.recruitee.com/)
 * New Work SE [Open positions](https://www.new-work.se/en/career/vacancies)
-* ninety nine [Open positions](https://www.notion.so/Open-positions-6f9c67b1a7364caa80579d3cf3a55081)
+* ninety nine [Open positions](https://ninetynine.com/unete-al-equipo)
 * Noddus [Open positions](https://www.enterprise.noddus.com/careers)
 * Nucoro [Open positions](https://www.nucoro.com/careers)
 * Parkimeter [Open positions](https://parkimeter.factorialhr.com/#jobs)
