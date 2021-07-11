@@ -88,7 +88,6 @@ with a justification) or open an issue.
 * Cabify [Open positions](https://cabify.com/es/jobs)
 * Capchase [Open positions](https://jobs.lever.co/capchase?commitment=Full%20-%20Time%20Remote&location=EU)
 * CARTO [Open positions](https://carto.com/careers/)
-* Carve [Open positions](https://angel.co/company/carve-2/jobs)
 * Clearpay EU [Open positions](https://apply.workable.com/clearpayeu/)
 * Cloudbees [Open positions](https://www.cloudbees.com/careers/job)
 * Codegram [Open positions](https://www.codegram.com/careers)
