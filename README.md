@@ -175,6 +175,7 @@ with a justification) or open an issue.
 * Typeform [Open positions](https://www.typeform.com/careers/)
 * Verbio [Open positions](https://www.verbio.com/company/)
 * Vizzuality [Open positions](https://vizzuality.bamboohr.com/jobs/)
+* Voxel (occasional travels to the office in Barcelona. Only the IT jobs are remote.) [Open positions](https://www.voxelgroup.net/people/en/home-eng/#page6)
 * Wallbox [Open positions](https://apply.workable.com/wallbox/)
 * Xceed [Open positions](https://angel.co/company/xceed/jobs)
 * XpertAI [Open positions](https://xpertai.factorialhr.es/#jobs)
