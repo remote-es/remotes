@@ -76,6 +76,7 @@ with a justification) or open an issue.
 * Andjaro [Open positions](https://www.welcometothejungle.com/en/companies/andjaro/jobs)
 * Aplanet [Open positions](https://aplanet.org/careers/)
 * Aplazame [Open positions](https://www.linkedin.com/company/aplazame/jobs/)
+* AREX Markets [Open positions](https://www.linkedin.com/company/arex/jobs/)
 * Audiense [Open positions](http://aboutus.audiense.com/careers)
 * Auth0 [Open positions](https://auth0.com/careers/positions?locations=Remote)
 * BeBanjo [Open positions](https://bebanjo.com/careers)
