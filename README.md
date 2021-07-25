@@ -99,6 +99,7 @@ with a justification) or open an issue.
 * Crealsa (possible visits every two months to HQ in Valencia) [Open positions](https://crealsa.es/empleo/) 
 * Crisp Studio [Open positions](https://www.linkedin.com/company/crispstudio/jobs/)
 * Cubyn [Open positions](https://www.welcometothejungle.com/fr/companies/cubyn/jobs)
+* Cyberdelia [Open positions](https://www.linkedin.com/company/cyberdeliafactory/jobs/)
 * Datadog [Open positions](https://www.datadoghq.com/careers/)
 * DeWocracy [Open positions](https://github.com/dewocracy/careers)
 * DocPlanner [Open positions](https://apply.workable.com/docplanner/)
