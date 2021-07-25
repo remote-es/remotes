@@ -75,6 +75,9 @@ Tag your offer with:
 * (All offers are remote) if the job listing does not offer any indication
   that all offers are remote, nor marks clearly remote offers, but all jobs
   are remote.
+* (All technical offers are remote) if the job listing does not offer any
+  indication that all offers are remote, nor marks clearly remote offers,
+  but all technical offers are remote.
 
 # Support
 
@@ -139,7 +142,7 @@ with a justification) or open an issue.
 * Igalia [Open positions](https://www.igalia.com/jobs/)
 * Intelygenz [Open positions](https://intelygenz.com/join-us/#careers)
 * Iomob [Open positions](https://angel.co/company/iomob/jobs)
-* jobandtalent [Open positions](https://jobandtalent.bamboohr.com/jobs/)
+* jobandtalent (All technical offers are remote) [Open positions](https://jobandtalent.bamboohr.com/jobs/)
 * Justo Seguros (All offers are remote) [Open positions](https://www.notion.so/justoseguros/Open-Positions-574be9f0ca1a4251bfa179efc37dfcb9)
 * Kodify [Open positions](https://kodify.recruitee.com/#section-26652)
 * Lana [Open positions](https://boards.greenhouse.io/lana/)
@@ -159,7 +162,7 @@ with a justification) or open an issue.
 * Nexiona (monthly travels to the HQ in Barcelona) [Open positions](https://angel.co/company/nexiona/jobs)
 * Nextail [Open positions](https://nextaillabs.recruitee.com/)
 * New Work SE (All offers are remote) [Open positions](https://www.new-work.se/en/career/vacancies)
-* ninety nine [Open positions](https://ninetynine.com/unete-al-equipo)
+* ninety nine (All technical offers are remote) [Open positions](https://ninetynine.com/unete-al-equipo)
 * Noddus [Open positions](https://www.enterprise.noddus.com/careers)
 * Nucoro [Open positions](https://www.nucoro.com/careers)
 * Parkimeter [Open positions](https://parkimeter.factorialhr.com/#jobs)
@@ -192,7 +195,7 @@ with a justification) or open an issue.
 * Typeform [Open positions](https://www.typeform.com/careers/)
 * Verbio [Open positions](https://www.verbio.com/company/)
 * Vizzuality (All offers are remote) [Open positions](https://vizzuality.bamboohr.com/jobs/)
-* Voxel (occasional travels to the office in Barcelona. Only the IT jobs are remote.) [Open positions](https://www.voxelgroup.net/people/en/home-eng/#page6)
+* Voxel (occasional travels to the office in Barcelona) (All technical offers are remote) [Open positions](https://www.voxelgroup.net/people/en/home-eng/#page6)
 * Wallbox [Open positions](https://apply.workable.com/wallbox/)
 * Xceed [Open positions](https://angel.co/company/xceed/jobs)
 * XpertAI (All offers are remote) [Open positions](https://xpertai.factorialhr.es/#jobs)
