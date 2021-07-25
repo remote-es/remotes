@@ -39,17 +39,6 @@ following scenarios are OK:
 * A foreign company, using an intermediary to hire people living in Spain, but
   the contract must also be Spanish, not requiring self-employment.
 
-Please make a note in the offer if:
-
-* You have work schedule requirements which deviate significantly from Spanish
-  normal office hours
-* You have specific travel requirements (monthly onsites, etc.) which happen
-  more than 3 times a year
-* You require language knowledge other than Spanish and/or medium English
-
-or anything you feel might be important to users of the list, especially if
-this is not clearly stated in the offers in your listings.
-
 ## Offers
 
 Please provide a stable URL which lists all offers that meet the conditions
@@ -69,6 +58,17 @@ We recommend:
 
 If you are a company or an individual, send a PR which adds the company to the
 list (in alphabetical order). Try to be brief to keep the list manageable.
+
+Please make a note in the offer if:
+
+* You have work schedule requirements which deviate significantly from Spanish
+  normal office hours
+* You have specific travel requirements (monthly onsites, etc.) which happen
+  more than 3 times a year
+* You require language knowledge other than Spanish and/or medium English
+
+or anything you feel might be important to users of the list, especially if
+this is not clearly stated in the offers in your listings.
 
 # Support
 
