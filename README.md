@@ -78,6 +78,10 @@ Tag your offer with:
 * (All technical offers are remote) if the job listing does not offer any
   indication that all offers are remote, nor marks clearly remote offers,
   but all technical offers are remote.
+* (View individual job offers to check for remote) if the job listing does
+  not offer any indication that all offers are remote, nor marks clearly
+  remote offers, so you need to check individual offers to see if the
+  position is remote.
 
 # Support
 
@@ -113,7 +117,7 @@ with a justification) or open an issue.
 * Colvin (All offers are remote) [Open positions](https://www.linkedin.com/company/colvin/jobs/)
 * Coopdevs (All offers are remote) [Open positions](https://coopdevs.org/treballa-amb-nosaltres/)
 * Couragium [Open positions](https://www.linkedin.com/company/couragium-solutions/jobs/)
-* Crealsa (possible visits every two months to HQ in Valencia) [Open positions](https://crealsa.es/empleo/) 
+* Crealsa (possible visits every two months to HQ in Valencia) (View individual job offers to check for remote) [Open positions](https://crealsa.es/empleo/) 
 * Crisp Studio [Open positions](https://www.linkedin.com/company/crispstudio/jobs/)
 * Cubyn [Open positions](https://www.welcometothejungle.com/fr/companies/cubyn/jobs)
 * Cyberdelia (All offers are remote) [Open positions](https://www.linkedin.com/company/cyberdeliafactory/jobs/)
@@ -140,7 +144,7 @@ with a justification) or open an issue.
 * Hopin [Open positions](https://hopin.com/careers)
 * iContainers [Open positions](https://www.notion.so/Open-Positions-in-iContainers-a3f291c528bd4e60969b7206b09a3d0b)
 * Igalia [Open positions](https://www.igalia.com/jobs/)
-* Intelygenz [Open positions](https://intelygenz.com/join-us/#careers)
+* Intelygenz (View individual job offers to check for remote) [Open positions](https://intelygenz.com/join-us/#careers)
 * Iomob [Open positions](https://angel.co/company/iomob/jobs)
 * jobandtalent (All technical offers are remote) [Open positions](https://jobandtalent.bamboohr.com/jobs/)
 * Justo Seguros (All offers are remote) [Open positions](https://www.notion.so/justoseguros/Open-Positions-574be9f0ca1a4251bfa179efc37dfcb9)
@@ -175,7 +179,7 @@ with a justification) or open an issue.
 * Rankia [Open positions](https://www.rankia.com/empleo/trabaja-en-rankia)
 * Red Hat [Open positions](https://global-redhat.icims.com/jobs/search?ss=1&searchLocation=13549--Remote)
 * Red Points [Open positions](https://www.redpoints.com/jobs/)
-* Redradix [Open positions](https://www.linkedin.com/jobs/redradix-jobs-worldwide/)
+* Redradix (View individual job offers to check for remote) [Open positions](https://www.linkedin.com/jobs/redradix-jobs-worldwide/)
 * Ritmo (All offers are remote) [Open positions](https://www.linkedin.com/company/ritmo-capital/jobs/)
 * SEAT:CODE [Open positions](https://www.linkedin.com/company/seatcode/jobs/)
 * Seqera [Open positions](https://seqera.io/careers/)
@@ -189,11 +193,11 @@ with a justification) or open an issue.
 * Sysdig [Open positions](https://sysdig.com/jobs/)
 * TBSCG [Open positions](https://www.linkedin.com/company/tbscg/jobs/)
 * Stuart [Open positions](https://stuart.com/careers/)
-* The Hotels Network (not all teams remote, remote job postings are clearly stated as such) [Open positions](https://info.thehotelsnetwork.com/en/careers)
+* The Hotels Network (View individual job offers to check for remote) [Open positions](https://info.thehotelsnetwork.com/en/careers)
 * Tot-em [Open positions](https://www.linkedin.com/company/tot-em/jobs/)
-* Twilio [Open positions](https://boards.greenhouse.io/twilio/)
-* Typeform [Open positions](https://www.typeform.com/careers/)
-* Verbio [Open positions](https://www.verbio.com/company/)
+* Twilio (View individual job offers to check for remote) [Open positions](https://boards.greenhouse.io/twilio/)
+* Typeform (View individual job offers to check for remote) [Open positions](https://www.typeform.com/careers/)
+* Verbio (View individual job offers to check for remote) [Open positions](https://www.verbio.com/company/)
 * Vizzuality (All offers are remote) [Open positions](https://vizzuality.bamboohr.com/jobs/)
 * Voxel (occasional travels to the office in Barcelona) (All technical offers are remote) [Open positions](https://www.voxelgroup.net/people/en/home-eng/#page6)
 * Wallbox [Open positions](https://apply.workable.com/wallbox/)
