@@ -169,6 +169,7 @@ with a justification) or open an issue.
 * ninety nine (All technical offers are remote) [Open positions](https://ninetynine.com/unete-al-equipo)
 * Noddus [Open positions](https://www.enterprise.noddus.com/careers)
 * Nucoro [Open positions](https://www.nucoro.com/careers)
+* Onna (All offers are remote) [Open positions](https://boards.greenhouse.io/onna)
 * Parkimeter [Open positions](https://parkimeter.factorialhr.com/#jobs)
 * PayFit (All offers are remote) [Open positions](https://payfit.com/en/careers/)
 * PcComponentes [Open positions](https://www.pccomponentes.com/trabaja-con-nosotros)
