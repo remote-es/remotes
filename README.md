@@ -197,6 +197,7 @@ with a justification) or open an issue.
 * Stuart [Open positions](https://stuart.com/careers/)
 * The Hotels Network (View individual job offers to check for remote) [Open positions](https://info.thehotelsnetwork.com/en/careers)
 * Tot-em [Open positions](https://www.linkedin.com/company/tot-em/jobs/)
+* Tribaldata [Open positions](https://www.linkedin.com/company/tribaldata/jobs/)
 * Twilio (View individual job offers to check for remote) [Open positions](https://boards.greenhouse.io/twilio/)
 * Typeform (View individual job offers to check for remote) [Open positions](https://www.typeform.com/careers/)
 * Verbio (View individual job offers to check for remote) [Open positions](https://www.verbio.com/company/)
