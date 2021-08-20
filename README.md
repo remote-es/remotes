@@ -204,7 +204,7 @@ with a justification) or open an issue.
 * Voxel (occasional travels to the office in Barcelona) (All technical offers are remote) [Open positions](https://www.voxelgroup.net/people/en/home-eng/#page6)
 * Wallbox [Open positions](https://apply.workable.com/wallbox/)
 * Xceed [Open positions](https://angel.co/company/xceed/jobs)
-* XpertAI (All offers are remote) [Open positions](https://xpertai.factorialhr.es/#jobs)
+* XpertAI (All offers are remote) [Open positions](https://xpertai.teamtailor.com/jobs)
 * YouGov [Open positions](https://jobs.yougov.com/jobs)
 * Z1 [Open positions](https://z1.digital/careers)
 
