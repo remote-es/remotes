@@ -122,6 +122,7 @@ with a justification) or open an issue.
 * Cubyn [Open positions](https://www.welcometothejungle.com/fr/companies/cubyn/jobs)
 * Cyberdelia (All offers are remote) [Open positions](https://www.linkedin.com/company/cyberdeliafactory/jobs/)
 * Datadog [Open positions](https://www.datadoghq.com/careers/)
+* Delitbee (All offers are remote) [Open positions](https://delitbee.com/empleo)
 * DeWocracy (All offers are remote) [Open positions](https://github.com/dewocracy/careers)
 * DocPlanner [Open positions](https://apply.workable.com/docplanner/)
 * Dragonfly [Open positions](https://www.wearedragonfly.co/careers)
