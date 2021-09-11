@@ -171,6 +171,7 @@ with a justification) or open an issue.
 * Noddus [Open positions](https://www.enterprise.noddus.com/careers)
 * Nucoro [Open positions](https://www.nucoro.com/careers)
 * Onna (All offers are remote) [Open positions](https://boards.greenhouse.io/onna)
+* Osoigo (All offers are remote) [Open positions](https://www.linkedin.com/company/osoigo/jobs/)
 * Parkimeter [Open positions](https://parkimeter.factorialhr.com/#jobs)
 * PayFit (All offers are remote) [Open positions](https://payfit.com/en/careers/)
 * PcComponentes [Open positions](https://www.pccomponentes.com/trabaja-con-nosotros)
