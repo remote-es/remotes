@@ -151,6 +151,7 @@ with a justification) or open an issue.
 * Hopin [Open positions](https://hopin.com/careers)
 * Hotjar (All offers are remote) [Open positions](https://careers.hotjar.com/)
 * iContainers [Open positions](https://www.notion.so/Open-Positions-in-iContainers-a3f291c528bd4e60969b7206b09a3d0b)
+* ING (All offers are remote) [Open positions](https://www.ing.jobs/Espana/Home.htm)
 * Igalia [Open positions](https://www.igalia.com/jobs/)
 * Intelygenz (View individual job offers to check for remote) [Open positions](https://intelygenz.com/join-us/#careers)
 * Iomob [Open positions](https://angel.co/company/iomob/jobs)
