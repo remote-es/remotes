@@ -136,6 +136,7 @@ with a justification) or open an issue.
 * Fastly [Open positions](https://www.fastly.com/about/careers)
 * Flywire [Open positions](https://www.flywire.com/company/careers)
 * Form3 [Open positions](https://form3.tech/careers)
+* fotograf.de [Open positions](https://angel.co/company/fotograf-de-1/jobs)
 * Genially (All offers are remote) [Open positions](https://www.linkedin.com/company/geniallyofficial/jobs)
 * GuideSmiths [Open positions](https://www.guidesmiths.com/careers)
 * GitHub [Open positions](https://github.com/about/careers)
