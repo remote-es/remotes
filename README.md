@@ -108,6 +108,7 @@ with a justification) or open an issue.
 * BMAT [Open positions](https://bmat.bamboohr.com/jobs/)
 * Bulevip [Open positions](https://adventures.freshpeople.team/jobs?department=Bulevip&remote=true)
 * Cabify [Open positions](https://cabify.com/es/jobs)
+* Camaloon [Open positions](https://apply.workable.com/camaloon/)
 * Capchase [Open positions](https://jobs.lever.co/capchase?commitment=Full%20-%20Time%20Remote&location=EU)
 * CARTO [Open positions](https://carto.com/careers/)
 * Clearpay EU [Open positions](https://apply.workable.com/clearpayeu/)
