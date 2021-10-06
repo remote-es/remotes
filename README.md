@@ -197,6 +197,7 @@ with a justification) or open an issue.
 * Splice Machine [Open positions](https://jobs.lever.co/splicemachine/)
 * Spotahome (All offers are remote) [Open positions](https://rent.spotahome.com/work-with-us)
 * Stayforlong (All offers are remote) [Open positions](https://www.linkedin.com/company/stayforlong/jobs/)
+* Stream [Open positions](https://grnh.se/b7d3076c3us)
 * Streamloots [Open positions](https://careers.streamloots.com/)
 * Sysdig [Open positions](https://sysdig.com/jobs/)
 * TBSCG [Open positions](https://www.linkedin.com/company/tbscg/jobs/)
