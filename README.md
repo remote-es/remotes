@@ -102,6 +102,7 @@ with a justification) or open an issue.
 * Auth0 [Open positions](https://auth0.com/careers/positions?locations=Remote)
 * BeBanjo [Open positions](https://bebanjo.com/careers)
 * Belvo [Open positions](https://angel.co/company/belvo/jobs)
+* BestSecret [Open positions](https://jobs.bestsecret.com/en/jobs.html?location=Granada)
 * Big Blue Analytics (All offers are remote) [Open positions](https://bigblueanalytics.com/hiring/)
 * Blarlo [Open positions](https://github.com/blarlo/remote-job-offers)
 * Bravo Studio [Open positions](https://www.bravostudio.app/careers)
