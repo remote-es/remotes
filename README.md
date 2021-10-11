@@ -142,6 +142,7 @@ with a justification) or open an issue.
 * Genially (All offers are remote) [Open positions](https://www.linkedin.com/company/geniallyofficial/jobs)
 * GuideSmiths [Open positions](https://www.guidesmiths.com/careers)
 * GitHub [Open positions](https://github.com/about/careers)
+* Gofore (monthly travels to Madrid) (View individual job offers to check for remote) [Open positions](https://gofore.com/en/careers)
 * Habitissimo (All offers are remote) [Open positions](https://www.linkedin.com/company/habitissimo/jobs/)
 * Hector Kitchen [Open positions](https://hectorkitchen.recruitee.com/#section-121611)
 * humanITcare [Open positions](https://www.linkedin.com/company/humanitcare/jobs/)
