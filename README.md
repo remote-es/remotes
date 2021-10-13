@@ -117,6 +117,7 @@ with a justification) or open an issue.
 * Codegram [Open positions](https://www.codegram.com/careers)
 * codi cooperatiu [Open positions](https://codicoop.github.io/busquem-socia/)
 * Colvin (All offers are remote) [Open positions](https://www.linkedin.com/company/colvin/jobs/)
+* Confluent (All offers are remote) [Open positions] (https://www.confluent.io/careers/)
 * Coopdevs (All offers are remote) [Open positions](https://coopdevs.org/treballa-amb-nosaltres/)
 * Couragium [Open positions](https://www.linkedin.com/company/couragium-solutions/jobs/)
 * Crealsa (possible visits every two months to HQ in Valencia) (View individual job offers to check for remote) [Open positions](https://crealsa.es/empleo/) 
