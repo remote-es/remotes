@@ -100,6 +100,7 @@ with a justification) or open an issue.
 * AREX Markets (All offers are remote) [Open positions](https://www.linkedin.com/company/arex/jobs/)
 * Audiense [Open positions](http://aboutus.audiense.com/careers)
 * Auth0 [Open positions](https://auth0.com/careers/positions?locations=Remote)
+* Bankflip (All offers are remote) [Open positions](https://www.linkedin.com/company/bankflip/jobs/)
 * BeBanjo [Open positions](https://bebanjo.com/careers)
 * Belvo [Open positions](https://angel.co/company/belvo/jobs)
 * BestSecret [Open positions](https://jobs.bestsecret.com/en/jobs.html?location=Granada)
