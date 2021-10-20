@@ -217,6 +217,7 @@ with a justification) or open an issue.
 * Vizzuality (All offers are remote) [Open positions](https://vizzuality.bamboohr.com/jobs/)
 * Voxel (occasional travels to the office in Barcelona) (All technical offers are remote) [Open positions](https://www.voxelgroup.net/people/en/home-eng/#page6)
 * Wallbox [Open positions](https://apply.workable.com/wallbox/)
+* World Mobile [Open positions](https://careers.worldmobile.io/?&location=Barcelona%2C%20ES#positions)
 * Xceed [Open positions](https://angel.co/company/xceed/jobs)
 * XpertAI (All offers are remote) [Open positions](https://xpertai.teamtailor.com/jobs)
 * YouGov [Open positions](https://jobs.yougov.com/jobs)
