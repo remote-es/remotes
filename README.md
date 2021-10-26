@@ -147,6 +147,7 @@ with a justification) or open an issue.
 * Gofore (monthly travels to Madrid) (View individual job offers to check for remote) [Open positions](https://gofore.com/en/careers)
 * Habitissimo (All offers are remote) [Open positions](https://www.linkedin.com/company/habitissimo/jobs/)
 * Hector Kitchen [Open positions](https://hectorkitchen.recruitee.com/#section-121611)
+* Honeypot (All tech offers are remote) [Open positions](https://jobs.lever.co/honeypot)
 * humanITcare [Open positions](https://www.linkedin.com/company/humanitcare/jobs/)
 * Hopin [Open positions](https://hopin.com/careers)
 * Hotjar (All offers are remote) [Open positions](https://careers.hotjar.com/)
