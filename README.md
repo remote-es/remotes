@@ -140,6 +140,7 @@ with a justification) or open an issue.
 * Factorial [Open positions](https://factorialhr.com/join-factorial)
 * Fastly [Open positions](https://www.fastly.com/about/careers)
 * Flywire [Open positions](https://www.flywire.com/company/careers)
+* ForceManager [Open positions](https://forcemanager.bamboohr.com/jobs/)
 * Form3 [Open positions](https://form3.tech/careers)
 * fotograf.de [Open positions](https://angel.co/company/fotograf-de-1/jobs)
 * Genially (All offers are remote) [Open positions](https://www.linkedin.com/company/geniallyofficial/jobs)
