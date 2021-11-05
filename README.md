@@ -168,7 +168,7 @@ with a justification) or open an issue.
 * Learnlife [Open positions](https://learnlife.com/work-with-us)
 * Localistico [Open positions](https://angel.co/company/localistico)
 * Mailtrack [Open positions](https://mailtrack.io/blog/tag/jobs/)
-* ManoMano [Open positions](https://jobs.lever.co/manomano?location=Barcelona)
+* ManoMano (All technical offers are remote) [Open positions](https://jobs.lever.co/manomano?location=Barcelona)
 * Marsbased [Open positions](https://marsbased.com/es/jobs/)
 * mediasmart [Open positions](https://info.mediasmart.io/careers)
 * MONEI [Open positions](https://monei.com/page/we-are-hiring/)
