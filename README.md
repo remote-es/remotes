@@ -137,6 +137,7 @@ with a justification) or open an issue.
 * Eventbrite [Open positions](https://www.eventbritecareers.com/jobs/search?page=1&country_codes%5B%5D=ES&cities%5B%5D=Remote&query=)
 * Exoticca [Open positions](https://apply.workable.com/exoticca/)
 * Factorial [Open positions](https://factorialhr.com/join-factorial)
+* Facebook (View individual job offers to check for remote) [Open positions](https://www.facebookcareers.com/jobs/?offices[0]=Remote%2C%20Spain) 
 * Fastly [Open positions](https://www.fastly.com/about/careers)
 * Flywire [Open positions](https://www.flywire.com/company/careers)
 * Form3 [Open positions](https://form3.tech/careers)
