@@ -171,6 +171,7 @@ with a justification) or open an issue.
 * ManoMano (All technical offers are remote) [Open positions](https://jobs.lever.co/manomano?location=Barcelona)
 * Marsbased [Open positions](https://marsbased.com/es/jobs/)
 * mediasmart [Open positions](https://info.mediasmart.io/careers)
+* Meta [Open positions](https://www.facebookcareers.com/jobs/?offices[0]=Remote%2C%20Spain)
 * MONEI [Open positions](https://monei.com/page/we-are-hiring/)
 * modo [Open positions](https://doc.clickup.com/p/h/4aw7y-533/ff8c70b304156ba/4aw7y-533)
 * Neutroon [Open positions](https://www.neutroon.com/career)
