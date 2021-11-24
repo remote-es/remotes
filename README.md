@@ -221,6 +221,7 @@ with a justification) or open an issue.
 * Verbio (View individual job offers to check for remote) [Open positions](https://www.verbio.com/company/)
 * Vistaprint (All offers are remote) [Open positions](https://jobs.vistaprint.com/Vistaprint/go/Barcelona%2C-Spain/7789500/)
 * Vizzuality (All offers are remote) [Open positions](https://vizzuality.bamboohr.com/jobs/)
+* VMware (All technical offers are remote) [Open positions](https://careers.vmware.com/location/jobs?country=ESP%7CSpain)
 * Voxel (occasional travels to the office in Barcelona) (All technical offers are remote) [Open positions](https://www.voxelgroup.net/people/en/home-eng/#page6)
 * Wallbox [Open positions](https://apply.workable.com/wallbox/)
 * World Mobile [Open positions](https://careers.worldmobile.io/?&location=Barcelona%2C%20ES#positions)
