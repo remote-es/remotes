@@ -143,6 +143,7 @@ with a justification) or open an issue.
 * ForceManager [Open positions](https://forcemanager.bamboohr.com/jobs/)
 * Form3 [Open positions](https://form3.tech/careers)
 * fotograf.de [Open positions](https://angel.co/company/fotograf-de-1/jobs)
+* FounderNest [Open positions](https://careers.foundernest.com/jobs)
 * Genially (All offers are remote) [Open positions](https://www.linkedin.com/company/geniallyofficial/jobs)
 * GuideSmiths [Open positions](https://www.guidesmiths.com/careers)
 * GitHub [Open positions](https://github.com/about/careers)
