@@ -191,6 +191,7 @@ with a justification) or open an issue.
 * PayFit (All offers are remote) [Open positions](https://payfit.com/en/careers/)
 * PcComponentes [Open positions](https://www.pccomponentes.com/trabaja-con-nosotros)
 * Picker [Open positions](https://www.notion.so/We-are-looking-for-Talent-7033e2f2f9534f54b4627b41157c00ec)
+* Plain Concepts [Open positions](https://www.plainconcepts.com/careers/)
 * Playtomic [Open positions](https://playtomic.jobs.personio.com)
 * Plytix [Open positions](https://www.plytix.com/careers)
 * Postman [Open positions](https://www.postman.com/company/careers/open-positions/)
