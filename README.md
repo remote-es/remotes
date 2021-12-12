@@ -153,6 +153,7 @@ with a justification) or open an issue.
 * Honeypot (All tech offers are remote) [Open positions](https://jobs.lever.co/honeypot)
 * Hopin [Open positions](https://hopin.com/careers)
 * Hotjar (All offers are remote) [Open positions](https://careers.hotjar.com/)
+* HUBUC [Open positions](https://careers.hubuc.com/)
 * humanITcare [Open positions](https://www.linkedin.com/company/humanitcare/jobs/)
 * iContainers [Open positions](https://www.notion.so/Open-Positions-in-iContainers-a3f291c528bd4e60969b7206b09a3d0b)
 * ING (All offers are remote) [Open positions](https://www.ing.jobs/Espana/Home.htm)
