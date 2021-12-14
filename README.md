@@ -120,6 +120,7 @@ with a justification) or open an issue.
 * Colvin (All offers are remote) [Open positions](https://www.linkedin.com/company/colvin/jobs/)
 * Confluent (All offers are remote) [Open positions](https://www.confluent.io/careers/)
 * Coopdevs (All offers are remote) [Open positions](https://coopdevs.org/treballa-amb-nosaltres/)
+* Copado [Open positions](https://www.copado.com/careers/#openpositions)
 * Couragium [Open positions](https://www.linkedin.com/company/couragium-solutions/jobs/)
 * Crealsa (possible visits every two months to HQ in Valencia) (View individual job offers to check for remote) [Open positions](https://crealsa.es/empleo/) 
 * Crisp Studio [Open positions](https://www.linkedin.com/company/crispstudio/jobs/)
