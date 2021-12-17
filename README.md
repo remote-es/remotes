@@ -180,6 +180,7 @@ with a justification) or open an issue.
 * Mixmax [Open positions](https://www.mixmax.com/careers)
 * MONEI [Open positions](https://monei.com/page/we-are-hiring/)
 * modo [Open positions](https://doc.clickup.com/p/h/4aw7y-533/ff8c70b304156ba/4aw7y-533)
+* nc43|tech [Open positions](https://jobs.nc43tech.com/#jobs)
 * Neutroon [Open positions](https://www.neutroon.com/career)
 * Nexiona (monthly travels to the HQ in Barcelona) [Open positions](https://angel.co/company/nexiona/jobs)
 * Nextail [Open positions](https://nextaillabs.recruitee.com/)
