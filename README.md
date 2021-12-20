@@ -199,6 +199,7 @@ with a justification) or open an issue.
 * Plytix [Open positions](https://www.plytix.com/careers)
 * Postman [Open positions](https://www.postman.com/company/careers/open-positions/)
 * Psonrie [Open positions](https://www.linkedin.com/company/psonrie/jobs/) (all technical jobs are remote)
+* Pulpo [Open positions](https://pulpomatic.teamtailor.com/jobs) (tech jobs are remote in Spain)
 * Qatium [Open positions](https://qatium.recruitee.com/)
 * Rankia [Open positions](https://www.rankia.com/empleo/trabaja-en-rankia)
 * Red Hat [Open positions](https://global-redhat.icims.com/jobs/search?ss=1&searchLocation=13549--Remote)
