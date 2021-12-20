@@ -106,6 +106,7 @@ with a justification) or open an issue.
 * BestSecret [Open positions](https://jobs.bestsecret.com/en/jobs.html?location=Granada)
 * Big Blue Analytics (All offers are remote) [Open positions](https://bigblueanalytics.com/hiring/)
 * Blarlo [Open positions](https://github.com/blarlo/remote-job-offers)
+* Brainly (All offers are remote) [Open positions](https://careers.brainly.com/open-positions/)
 * Bravo Studio [Open positions](https://www.bravostudio.app/careers)
 * BMAT [Open positions](https://bmat.bamboohr.com/jobs/)
 * Bulevip [Open positions](https://adventures.freshpeople.team/jobs?department=Bulevip&remote=true)
