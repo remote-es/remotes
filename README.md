@@ -93,6 +93,7 @@ with a justification) or open an issue.
 
 # Companies
 
+* 11Onze [Open positions](https://11onze.breezy.hr/)
 * ABA English [Open positions](https://www.linkedin.com/school/aba-english/jobs/)
 * Andjaro [Open positions](https://www.welcometothejungle.com/en/companies/andjaro/jobs)
 * Aplanet [Open positions](https://aplanet.org/careers/)
