@@ -134,6 +134,7 @@ with a justification) or open an issue.
 * DocPlanner [Open positions](https://apply.workable.com/docplanner/)
 * Dragonfly [Open positions](https://www.wearedragonfly.co/careers)
 * Ebury [Open positions](https://careers.ebury.com/)
+* Edge Impulse [Open positions](https://www.edgeimpulse.com/careers#open-roles)
 * Elastic [Open positions](https://www.elastic.co/about/careers/)
 * Electromaps [Open positions](https://www.electromaps.com/articulo/unete-al-equipo-electromaps)
 * Element [Open positions](https://element.io/careers)
