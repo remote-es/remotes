@@ -191,6 +191,7 @@ with a justification) or open an issue.
 * ninety nine (All technical offers are remote) [Open positions](https://ninetynine.com/unete-al-equipo)
 * Noddus [Open positions](https://www.enterprise.noddus.com/careers)
 * Nucoro [Open positions](https://www.nucoro.com/careers)
+* Oliva [Open positions](https://apply.workable.com/oliva1/)
 * Onna (All offers are remote) [Open positions](https://boards.greenhouse.io/onna)
 * Osoigo (All offers are remote) [Open positions](https://www.linkedin.com/company/osoigo/jobs/)
 * Parkimeter [Open positions](https://parkimeter.factorialhr.com/#jobs)
