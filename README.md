@@ -224,6 +224,7 @@ with a justification) or open an issue.
 * Streamloots [Open positions](https://careers.streamloots.com/)
 * Stuart [Open positions](https://stuart.com/careers/)
 * Sysdig [Open positions](https://sysdig.com/jobs/)
+* TaxScouts (All offers are remote) [Open positions](https://taxscouts.es/unete-al-equipo/)
 * TBSCG [Open positions](https://www.linkedin.com/company/tbscg/jobs/)
 * The Hotels Network (View individual job offers to check for remote) [Open positions](https://info.thehotelsnetwork.com/en/careers)
 * Tinybird [Open positions](https://www.tinybird.co/about#join-us)
