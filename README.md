@@ -115,6 +115,7 @@ with a justification) or open an issue.
 * Camaloon [Open positions](https://apply.workable.com/camaloon/)
 * Capchase [Open positions](https://jobs.lever.co/capchase?commitment=Full%20-%20Time%20Remote&location=EU)
 * CARTO [Open positions](https://carto.com/careers/)
+* Clarity AI [Open positions](https://apply.workable.com/clarity-ai/)
 * Clearpay EU [Open positions](https://apply.workable.com/clearpayeu/)
 * Cloudbees [Open positions](https://www.cloudbees.com/careers/job)
 * Codegram [Open positions](https://www.codegram.com/careers)
