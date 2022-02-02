@@ -106,6 +106,7 @@ with a justification) or open an issue.
 * Belvo [Open positions](https://angel.co/company/belvo/jobs)
 * BestSecret [Open positions](https://jobs.bestsecret.com/en/jobs.html?location=Granada)
 * Big Blue Analytics (All offers are remote) [Open positions](https://bigblueanalytics.com/hiring/)
+* Blacklane [Open positions](https://boards.greenhouse.io/blacklane)
 * Blarlo [Open positions](https://github.com/blarlo/remote-job-offers)
 * Brainly (All offers are remote) [Open positions](https://careers.brainly.com/open-positions/)
 * Bravo Studio [Open positions](https://www.bravostudio.app/careers)
