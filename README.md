@@ -152,6 +152,7 @@ with a justification) or open an issue.
 * fotograf.de [Open positions](https://angel.co/company/fotograf-de-1/jobs)
 * FounderNest [Open positions](https://careers.foundernest.com/jobs)
 * Genially (All offers are remote) [Open positions](https://www.linkedin.com/company/geniallyofficial/jobs)
+* Giant Swarm [Open positions](https://www.giantswarm.io/careers)
 * GuideSmiths [Open positions](https://www.guidesmiths.com/careers)
 * GitHub [Open positions](https://github.com/about/careers)
 * Gofore (monthly travels to Madrid) (View individual job offers to check for remote) [Open positions](https://gofore.com/en/careers)
