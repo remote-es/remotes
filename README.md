@@ -121,7 +121,7 @@ with a justification) or open an issue.
 * Clearpay EU [Open positions](https://apply.workable.com/clearpayeu/)
 * Cloudbees [Open positions](https://www.cloudbees.com/careers/job)
 * Codegram [Open positions](https://www.codegram.com/careers)
-* codi cooperatiu [Open positions](https://codicoop.github.io/busquem-socia/)
+* codi cooperatiu [Open positions](https://codi.coop/en/about-us/busquem-socies/)
 * Colvin (All offers are remote) [Open positions](https://www.linkedin.com/company/colvin/jobs/)
 * Confluent (All offers are remote) [Open positions](https://www.confluent.io/careers/)
 * Coopdevs (All offers are remote) [Open positions](https://coopdevs.org/treballa-amb-nosaltres/)
