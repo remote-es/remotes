@@ -95,6 +95,7 @@ with a justification) or open an issue.
 
 * 11Onze [Open positions](https://11onze.breezy.hr/)
 * ABA English [Open positions](https://www.linkedin.com/school/aba-english/jobs/)
+* Alfred Smart Systems (View individual job offers to check for remote) [Open positions](https://static.assets.alfredsmartdata.com/jobs/)
 * Andjaro [Open positions](https://www.welcometothejungle.com/en/companies/andjaro/jobs)
 * Aplanet [Open positions](https://aplanet.org/careers/)
 * Aplazame (All offers are remote) [Open positions](https://www.linkedin.com/company/aplazame/jobs/)
