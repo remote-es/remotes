@@ -174,6 +174,7 @@ with a justification) or open an issue.
 * Justo Seguros (All offers are remote) [Open positions](https://www.notion.so/justoseguros/Open-Positions-574be9f0ca1a4251bfa179efc37dfcb9)
 * Kodify [Open positions](https://kodify.recruitee.com/#section-26652)
 * Lana [Open positions](https://boards.greenhouse.io/lana/)
+* Lang.ai [Open positions](https://www.linkedin.com/company/lang-ai/jobs/)
 * Landbot (All offers are remote) [Open positions](https://jobs.landbot.io/)
 * Liferay [Open positions](https://jobs.jobvite.com/liferay/search?q=&r=&l=Remote%20-%20Spain&c=)
 * LIFULL Connect [Open positions](https://www.lifullconnect.com/careers/)
