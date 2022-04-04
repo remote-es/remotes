@@ -220,6 +220,7 @@ with a justification) or open an issue.
 * Ritmo (All offers are remote) [Open positions](https://www.linkedin.com/company/ritmo-capital/jobs/)
 * SEAT:CODE [Open positions](https://www.linkedin.com/company/seatcode/jobs/)
 * Seqera [Open positions](https://seqera.io/careers/)
+* Shopery [Open positions](https://www.shopery.com/jobs)
 * Sketch [Open positions](https://www.sketch.com/jobs/)
 * Slite [Open positions](https://webflow-production.slite.com/jobs)
 * SMART Technologies [Open positions](https://smarttechnologies.recruiterbox.com/?country=Spain&q=&limit=25)
