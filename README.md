@@ -238,6 +238,7 @@ with a justification) or open an issue.
 * TBSCG [Open positions](https://www.linkedin.com/company/tbscg/jobs/)
 * Teamwire [Open positions](https://www.linkedin.com/jobs/search/?f_C=1487350&f_CR=105646813&f_WT=2&geoId=92000000&sortBy=R)
 * The Hotels Network (View individual job offers to check for remote) [Open positions](https://info.thehotelsnetwork.com/en/careers)
+* The Knot Worldwide [Open positions](https://www.theknotww.com/careers-view-all-jobs/)
 * Tinybird [Open positions](https://www.tinybird.co/about#join-us)
 * Tot-em [Open positions](https://www.linkedin.com/company/tot-em/jobs/)
 * Tribaldata [Open positions](https://www.linkedin.com/company/tribaldata/jobs/)
