@@ -241,6 +241,7 @@ with a justification) or open an issue.
 * The Knot Worldwide [Open positions](https://www.theknotww.com/careers-view-all-jobs/)
 * Tinybird [Open positions](https://www.tinybird.co/about#join-us)
 * Tot-em [Open positions](https://www.linkedin.com/company/tot-em/jobs/)
+* Trialing (View individual job offers to check for remote) [Open positions](https://www.linkedin.com/company/trialing/jobs/)
 * Tribaldata [Open positions](https://www.linkedin.com/company/tribaldata/jobs/)
 * Twilio (View individual job offers to check for remote) [Open positions](https://boards.greenhouse.io/twilio/)
 * Typeform (View individual job offers to check for remote) [Open positions](https://www.typeform.com/careers/)
