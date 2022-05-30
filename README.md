@@ -220,7 +220,7 @@ with a justification) or open an issue.
 * Redradix (View individual job offers to check for remote) [Open positions](https://www.linkedin.com/jobs/redradix-jobs-worldwide/)
 * Ritmo (All offers are remote) [Open positions](https://www.linkedin.com/company/ritmo-capital/jobs/)
 * SEAT:CODE [Open positions](https://www.linkedin.com/company/seatcode/jobs/)
-* Seedtag:CODE [Open positions](https://seedtag.breezy.hr/)
+* Seedtag [Open positions](https://seedtag.breezy.hr/)
 * Seqera [Open positions](https://seqera.io/careers/)
 * Shopery [Open positions](https://www.shopery.com/jobs)
 * SIGNA Sports United [Open positions](https://www.linkedin.com/company/signa-sports-united/jobs/)
