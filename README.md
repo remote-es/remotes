@@ -148,6 +148,7 @@ with a justification) or open an issue.
 * Exoticca [Open positions](https://apply.workable.com/exoticca/)
 * Factorial [Open positions](https://factorialhr.com/join-factorial)
 * Fastly [Open positions](https://www.fastly.com/about/careers)
+* Fever [Open positions](https://careers.feverup.com/apply)
 * Flywire [Open positions](https://www.flywire.com/company/careers)
 * ForceManager [Open positions](https://forcemanager.bamboohr.com/jobs/)
 * Form3 [Open positions](https://form3.tech/careers)
