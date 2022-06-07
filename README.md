@@ -227,6 +227,7 @@ with a justification) or open an issue.
 * Seqera [Open positions](https://seqera.io/careers/)
 * Shopery [Open positions](https://www.shopery.com/jobs)
 * SIGNA Sports United [Open positions](https://www.linkedin.com/company/signa-sports-united/jobs/)
+* Silt [Open positions](https://silt.notion.site/silt/Job-Board-f831b4a649e0498bbd2f67863f93cb1e)
 * Sketch [Open positions](https://www.sketch.com/jobs/)
 * Slite [Open positions](https://webflow-production.slite.com/jobs)
 * SMART Technologies [Open positions](https://smarttechnologies.recruiterbox.com/?country=Spain&q=&limit=25)
