@@ -226,7 +226,7 @@ with a justification) or open an issue.
 * Sketch [Open positions](https://www.sketch.com/jobs/)
 * Slite [Open positions](https://webflow-production.slite.com/jobs)
 * SMART Technologies [Open positions](https://smarttechnologies.recruiterbox.com/?country=Spain&q=&limit=25)
-* Sngular [Open positions](https://www.sngular.com/es/ofertas/espana/all/)
+* Sngular (View individual job offers to check for remote) [Open positions](https://www.sngular.com/es/ofertas/espana/all/)
 * Sololearn [Open positions](https://sololearn.bamboohr.com/jobs/)
 * Splash [Open positions](https://splashthat.com/careers)
 * Splice Machine [Open positions](https://jobs.lever.co/splicemachine/)
