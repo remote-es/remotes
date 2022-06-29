@@ -176,6 +176,7 @@ with a justification) or open an issue.
 * jobandtalent (All technical offers are remote) [Open positions](https://jobandtalent.bamboohr.com/jobs/)
 * Justo Seguros (All offers are remote) [Open positions](https://www.notion.so/justoseguros/Open-Positions-574be9f0ca1a4251bfa179efc37dfcb9)
 * Kodify [Open positions](https://kodify.recruitee.com/#section-26652)
+* LambdaLoopers [Open positions](https://www.linkedin.com/company/lambdaloopers/jobs/)
 * Lana [Open positions](https://boards.greenhouse.io/lana/)
 * Lang.ai [Open positions](https://www.linkedin.com/company/lang-ai/jobs/)
 * Landbot (All offers are remote) [Open positions](https://jobs.landbot.io/)
