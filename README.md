@@ -220,6 +220,7 @@ with a justification) or open an issue.
 * Psonrie [Open positions](https://www.linkedin.com/company/psonrie/jobs/) (all technical jobs are remote)
 * Pulpo [Open positions](https://pulpomatic.teamtailor.com/jobs) (tech jobs are remote in Spain)
 * Qatium [Open positions](https://qatium.recruitee.com/)
+* QuestDB [Open positions](https://questdb.io/careers/)
 * Rankia [Open positions](https://www.rankia.com/empleo/trabaja-en-rankia)
 * Red Hat [Open positions](https://global-redhat.icims.com/jobs/search?ss=1&searchLocation=13549--Remote)
 * Red Points [Open positions](https://www.redpoints.com/jobs/)
