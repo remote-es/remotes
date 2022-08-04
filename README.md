@@ -240,6 +240,7 @@ with a justification) or open an issue.
 * Splash [Open positions](https://splashthat.com/careers)
 * Splice Machine [Open positions](https://jobs.lever.co/splicemachine/)
 * Spotahome (All offers are remote) [Open positions](https://rent.spotahome.com/work-with-us)
+* Spotify [Open positions](https://www.lifeatspotify.com/jobs?l=remote-emea)
 * Stayforlong (All offers are remote) [Open positions](https://www.linkedin.com/company/stayforlong/jobs/)
 * Stream [Open positions](https://grnh.se/b7d3076c3us)
 * Streamloots [Open positions](https://careers.streamloots.com/)
