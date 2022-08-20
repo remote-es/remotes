@@ -21,6 +21,9 @@ companies allowing remote work in Spain are limited, a list seems a good
 approach for those seeking a remote work; they can simply go through the list
 and look for open positions.
 
+We would also like to be useful for workers residing majoritarily in Spain, but
+who would like to work for extended periods of time in foreign countries too.
+
 # Conditions
 
 ## Remote
@@ -61,8 +64,6 @@ list (in alphabetical order). Try to be brief to keep the list manageable.
 
 Please make a note in the offer if:
 
-* You have work schedule requirements which deviate significantly from Spanish
-  normal office hours
 * You have specific travel requirements (monthly onsites, etc.) which happen
   more than 3 times a year
 * You require language knowledge other than Spanish and/or medium English
@@ -82,6 +83,12 @@ Tag your offer with:
   not offer any indication that all offers are remote, nor marks clearly
   remote offers, so you need to check individual offers to see if the
   position is remote.
+* (Async friendly)/(Async first) if you do not have specific availability
+  requirements. This is especially interesting for workers who might be
+  interested in working abroad for extended periods of time. You can also
+  add details like (Preferred overlap of 3 hours with US Eastern office
+  hours), (Night shift every 4 weeks), (4 day week), or (Requires
+  availability 8-9 Europe/Madrid).
 
 # Support
 
