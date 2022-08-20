@@ -95,6 +95,8 @@ longer useful (broken URL, not clearly listing remote offers which fulfill
 the criteria for the listing, etc.), please send a PR removing it (along
 with a justification) or open an issue.
 
+See [OWNERS](OWNERS.md) for details about the maintenance of the project.
+
 # Companies
 
 * 11Onze [Open positions](https://11onze.breezy.hr/)
