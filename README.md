@@ -82,7 +82,7 @@ Tag your offer with:
   position is remote.
 * (Async friendly)/(Async first) if you do not have specific availability
   requirements. This is especially interesting for workers who might be
-  interested in working on a different scheduoe or timezone. You can also
+  interested in working on a different schedule or timezone. You can also
   add details like (Preferred overlap of 3 hours with US Eastern office
   hours), (Night shift every 4 weeks), (4 day week), or (Requires
   availability 8-9 Europe/Madrid).
