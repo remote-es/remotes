@@ -130,6 +130,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Clarity AI [Open positions](https://apply.workable.com/clarity-ai/)
 * Clearpay EU [Open positions](https://apply.workable.com/clearpayeu/)
 * Cloudbees [Open positions](https://www.cloudbees.com/careers/job)
+* Clovr Labs [Open positions](https://clovrlabs.teamtailor.com/#section-jobs)
 * Codegram [Open positions](https://www.codegram.com/careers)
 * codi cooperatiu [Open positions](https://codi.coop/en/about-us/busquem-socies/)
 * Colvin (All offers are remote) [Open positions](https://www.linkedin.com/company/colvin/jobs/)
