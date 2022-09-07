@@ -172,6 +172,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * GitHub [Open positions](https://github.com/about/careers)
 * Gofore (monthly travels to Madrid) (View individual job offers to check for remote) [Open positions](https://gofore.com/en/careers)
 * Habitissimo (All offers are remote) [Open positions](https://www.linkedin.com/company/habitissimo/jobs/)
+* haddock [Open positions](https://jobs.haddock.app/)
 * Hector Kitchen [Open positions](https://hectorkitchen.recruitee.com/#section-121611)
 * Honeypot (All tech offers are remote) [Open positions](https://jobs.lever.co/honeypot)
 * Hopin [Open positions](https://hopin.com/careers)
