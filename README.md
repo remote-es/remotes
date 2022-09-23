@@ -183,6 +183,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Igalia [Open positions](https://www.igalia.com/jobs/)
 * Intelygenz (View individual job offers to check for remote) [Open positions](https://intelygenz.com/join-us/#careers)
 * Iomob [Open positions](https://angel.co/company/iomob/jobs)
+* Jeff [Open positions](https://careers.wearejeff.com/)
 * jobandtalent (All technical offers are remote) [Open positions](https://jobandtalent.bamboohr.com/jobs/)
 * Justo Seguros (All offers are remote) [Open positions](https://www.notion.so/justoseguros/Open-Positions-574be9f0ca1a4251bfa179efc37dfcb9)
 * Kahoot! [Open positions](https://apply.workable.com/kahoot/)
