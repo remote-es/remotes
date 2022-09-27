@@ -240,6 +240,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Ritmo (All offers are remote) [Open positions](https://www.linkedin.com/company/ritmo-capital/jobs/)
 * SEAT:CODE [Open positions](https://www.linkedin.com/company/seatcode/jobs/)
 * Seedtag [Open positions](https://seedtag.breezy.hr/)
+* Sensor Tower [Open positions](https://jobs.lever.co/sensortower)
 * Seqera [Open positions](https://seqera.io/careers/)
 * Shopery [Open positions](https://www.shopery.com/jobs)
 * SIGNA Sports United [Open positions](https://www.linkedin.com/company/signa-sports-united/jobs/)
