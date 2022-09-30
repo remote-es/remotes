@@ -231,6 +231,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Plytix [Open positions](https://www.plytix.com/careers)
 * Postman [Open positions](https://www.postman.com/company/careers/open-positions/)
 * Psonrie [Open positions](https://www.linkedin.com/company/psonrie/jobs/) (all technical jobs are remote)
+* PSPDFKit [Open positions](https://pspdfkit.com/company/careers/)
 * Pulpo [Open positions](https://pulpomatic.teamtailor.com/jobs) (tech jobs are remote in Spain)
 * Qatium [Open positions](https://qatium.recruitee.com/)
 * QuestDB [Open positions](https://questdb.io/careers/)
