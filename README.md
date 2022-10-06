@@ -129,6 +129,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Chartboost [Open positions](https://boards.greenhouse.io/chartboost)
 * CitNOW [Open positions](https://www.citnow.com/about/careers/)
 * Clarity AI [Open positions](https://apply.workable.com/clarity-ai/)
+* Clarivate [Open positions](https://www.linkedin.com/jobs/search/?keywords=clarivate)
 * Clearpay EU [Open positions](https://apply.workable.com/clearpayeu/)
 * Cloudbees [Open positions](https://www.cloudbees.com/careers/job)
 * Clovr Labs [Open positions](https://clovrlabs.teamtailor.com/#section-jobs)
