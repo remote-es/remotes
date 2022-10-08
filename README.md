@@ -144,6 +144,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Crisp Studio [Open positions](https://www.linkedin.com/company/crispstudio/jobs/)
 * Cubyn [Open positions](https://www.welcometothejungle.com/fr/companies/cubyn/jobs)
 * Cyberdelia (All offers are remote) [Open positions](https://www.linkedin.com/company/cyberdeliafactory/jobs/)
+* Darwinex [Open positions](https://www.linkedin.com/jobs/search/?f_C=2775433)
 * Datadog [Open positions](https://www.datadoghq.com/careers/)
 * Delitbee (All offers are remote) [Open positions](https://delitbee.com/empleo)
 * DeWocracy (All offers are remote) [Open positions](https://github.com/dewocracy/careers)
