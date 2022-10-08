@@ -274,6 +274,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Tribaldata [Open positions](https://www.linkedin.com/company/tribaldata/jobs/)
 * Twilio (View individual job offers to check for remote) [Open positions](https://boards.greenhouse.io/twilio/)
 * Typeform (View individual job offers to check for remote) [Open positions](https://www.typeform.com/careers/)
+* Unimedia Technology [Open positions](https://www.linkedin.com/jobs/search/?f_C=13029092)
 * Verbio (View individual job offers to check for remote) [Open positions](https://www.verbio.com/company/)
 * Vistaprint (All offers are remote) [Open positions](https://jobs.vistaprint.com/Vistaprint/go/Barcelona%2C-Spain/7789500/)
 * Vitaance (Monthly trips to Barcelona/Madrid) [Open positions](https://vitaance.jobs.personio.com/)
