@@ -195,6 +195,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Lana [Open positions](https://boards.greenhouse.io/lana/)
 * Lang.ai [Open positions](https://www.linkedin.com/company/lang-ai/jobs/)
 * Landbot (All offers are remote) [Open positions](https://jobs.landbot.io/)
+* Leadtech [Open positions](https://leadtech.com/work-with-us)
 * Liferay [Open positions](https://jobs.jobvite.com/liferay/search?q=&r=&l=Remote%20-%20Spain&c=)
 * LIFULL Connect [Open positions](https://www.lifullconnect.com/careers/)
 * Lightbend [Open positions](https://www.lightbend.com/company/careers)
