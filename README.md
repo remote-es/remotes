@@ -141,6 +141,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Copado [Open positions](https://www.copado.com/careers/#openpositions)
 * Couragium [Open positions](https://www.linkedin.com/company/couragium-solutions/jobs/)
 * Crealsa (possible visits every two months to HQ in Valencia) (View individual job offers to check for remote) [Open positions](https://crealsa.es/empleo/) 
+* Crisis Text Line [Open positions](https://boards.greenhouse.io/crisistextline86)
 * Crisp Studio [Open positions](https://www.linkedin.com/company/crispstudio/jobs/)
 * Cubyn [Open positions](https://www.welcometothejungle.com/fr/companies/cubyn/jobs)
 * Cyberdelia (All offers are remote) [Open positions](https://www.linkedin.com/company/cyberdeliafactory/jobs/)
