@@ -104,6 +104,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Alfred Smart Systems (View individual job offers to check for remote) [Open positions](https://static.assets.alfredsmartdata.com/jobs/)
 * Akamai [Open positions](https://akamaicareers.inflightcloud.com/)
 * Andjaro [Open positions](https://www.welcometothejungle.com/en/companies/andjaro/jobs)
+* Apiumhub [Open positions](https://careers.apiumhub.com/jobs)
 * Aplanet [Open positions](https://aplanet.org/careers/)
 * Aplazame (All offers are remote) [Open positions](https://www.linkedin.com/company/aplazame/jobs/)
 * AREX Markets (All offers are remote) [Open positions](https://www.linkedin.com/company/arex/jobs/)
