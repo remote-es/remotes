@@ -107,6 +107,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Apiumhub [Open positions](https://careers.apiumhub.com/jobs)
 * Aplanet [Open positions](https://aplanet.org/careers/)
 * Aplazame (All offers are remote) [Open positions](https://www.linkedin.com/company/aplazame/jobs/)
+* Aratech [Open positions](https://aratech.viterbit.site/#jobs-OUTc)
 * AREX Markets (All offers are remote) [Open positions](https://www.linkedin.com/company/arex/jobs/)
 * AtomicJar [Open positions](https://www.atomicjar.com/careers/)
 * Audiense [Open positions](http://aboutus.audiense.com/careers)
