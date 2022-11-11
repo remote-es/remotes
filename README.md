@@ -274,6 +274,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Teamwire [Open positions](https://www.linkedin.com/jobs/search/?f_C=1487350&f_CR=105646813&f_WT=2&geoId=92000000&sortBy=R)
 * The Hotels Network (View individual job offers to check for remote) [Open positions](https://info.thehotelsnetwork.com/en/careers)
 * The Knot Worldwide [Open positions](https://www.theknotww.com/careers-view-all-jobs/)
+* TheyDo [Open positions](https://jobs.theydo.io/)
 * Tinybird [Open positions](https://www.tinybird.co/about#join-us)
 * Tot-em [Open positions](https://www.linkedin.com/company/tot-em/jobs/)
 * Trialing (View individual job offers to check for remote) [Open positions](https://www.linkedin.com/company/trialing/jobs/)
