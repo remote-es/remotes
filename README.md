@@ -124,6 +124,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Bravo Studio [Open positions](https://www.bravostudio.app/careers)
 * BMAT [Open positions](https://bmat.bamboohr.com/jobs/)
 * Bulevip [Open positions](https://adventures.freshpeople.team/jobs?department=Bulevip&remote=true)
+* BRYTER [Open positions](https://bryter.com/careers/)
 * Cabify [Open positions](https://cabify.com/es/jobs)
 * Camaloon [Open positions](https://apply.workable.com/camaloon/)
 * Capchase [Open positions](https://jobs.lever.co/capchase?commitment=Full%20-%20Time%20Remote&location=EU)
