@@ -177,6 +177,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * GuideSmiths [Open positions](https://www.guidesmiths.com/careers)
 * GitHub [Open positions](https://github.com/about/careers)
 * Gofore (monthly travels to Madrid) (View individual job offers to check for remote) [Open positions](https://gofore.com/en/careers)
+* GoTrendier [Open positions](https://gotrendier.notion.site/Te-gustar-a-trabajar-en-GoTrendier-7d5199e5dcb348b4af2f61ddad2d73bf)
 * Habitissimo (All offers are remote) [Open positions](https://www.linkedin.com/company/habitissimo/jobs/)
 * haddock [Open positions](https://jobs.haddock.app/)
 * Hector Kitchen [Open positions](https://hectorkitchen.recruitee.com/#section-121611)
