@@ -244,6 +244,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * PSPDFKit [Open positions](https://pspdfkit.com/company/careers/)
 * Pulpo [Open positions](https://pulpomatic.teamtailor.com/jobs) (tech jobs are remote in Spain)
 * Qatium [Open positions](https://qatium.recruitee.com/)
+* Qonto [Open positions](https://jobs.lever.co/qonto?workplaceType=remote)
 * QuestDB [Open positions](https://questdb.io/careers/)
 * Rankia [Open positions](https://www.rankia.com/empleo/trabaja-en-rankia)
 * Red Hat [Open positions](https://global-redhat.icims.com/jobs/search?ss=1&searchLocation=13549--Remote)
