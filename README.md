@@ -295,6 +295,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Volcanic Internet [Open positions](https://volcanicinternet.com/en/work-with-us/)
 * Voxel (occasional travels to the office in Barcelona) (All technical offers are remote) [Open positions](https://www.voxelgroup.net/people/en/home-eng/#page6)
 * Wallbox [Open positions](https://apply.workable.com/wallbox/)
+* Wizeline [Open positions](https://www.wizeline.com/careers/open-roles/?locations=spain-based-remote)
 * World Mobile [Open positions](https://careers.worldmobile.io/?&location=Barcelona%2C%20ES#positions)
 * Wuolah (All offers are remote) [Open positions](https://wuolah.notion.site/Posiciones-abiertas-fbabecec44474f099d2f6f09d38d1282)
 * Xceed [Open positions](https://angel.co/company/xceed/jobs)
