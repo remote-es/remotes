@@ -216,6 +216,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Meta [Open positions](https://www.facebookcareers.com/jobs/?offices[0]=Remote%2C%20Spain)
 * Mitek [Open positions](https://jobs.lever.co/miteksystems-2)
 * Mixmax [Open positions](https://www.mixmax.com/careers)
+* mlean [Open positions](https://mlean.jobs.personio.com/)
 * MONEI [Open positions](https://monei.com/page/we-are-hiring/)
 * modo [Open positions](https://doc.clickup.com/p/h/4aw7y-533/ff8c70b304156ba/4aw7y-533)
 * MURAL [Open positions](https://www.mural.co/careers/open-roles)
