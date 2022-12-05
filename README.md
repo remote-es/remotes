@@ -134,6 +134,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Clarity AI [Open positions](https://apply.workable.com/clarity-ai/)
 * Clarivate [Open positions](https://www.linkedin.com/jobs/search/?keywords=clarivate)
 * Clearpay EU [Open positions](https://apply.workable.com/clearpayeu/)
+* Clibank (All technical offers are remote) [Open positions](https://clibank.jobs.personio.com/)
 * Cloudbees [Open positions](https://www.cloudbees.com/careers/job)
 * Clovr Labs [Open positions](https://clovrlabs.teamtailor.com/#section-jobs)
 * Codegram [Open positions](https://www.codegram.com/careers)
