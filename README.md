@@ -305,6 +305,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * XpertAI (All offers are remote) [Open positions](https://xpertai.teamtailor.com/jobs)
 * YouGov [Open positions](https://jobs.yougov.com/jobs)
 * Z1 [Open positions](https://z1.digital/careers)
+* Zubi Group [Open positions](https://apply.workable.com/zubi-group/)
 
 # Others
 
