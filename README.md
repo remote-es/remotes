@@ -158,7 +158,6 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Ebury [Open positions](https://careers.ebury.com/)
 * Edge Impulse [Open positions](https://www.edgeimpulse.com/careers#open-roles)
 * Elastic [Open positions](https://www.elastic.co/about/careers/)
-* Electromaps [Open positions](https://www.electromaps.com/articulo/unete-al-equipo-electromaps)
 * Element [Open positions](https://element.io/careers)
 * Empathy.co [Open positions](https://www.empathy.co/company/careers/)
 * Eventbrite [Open positions](https://www.eventbritecareers.com/jobs/search?page=1&country_codes%5B%5D=ES&cities%5B%5D=Remote&query=)
