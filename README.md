@@ -190,6 +190,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Immfly [Open positions](https://immfly.viterbit.site/)
 * ING (All offers are remote) [Open positions](https://www.ing.jobs/Espana/Home.htm)
 * Igalia [Open positions](https://www.igalia.com/jobs/)
+* Intellias [Open positions](https://career.intellias.com/?filter=spain%20(remote))
 * Intelygenz (View individual job offers to check for remote) [Open positions](https://intelygenz.com/join-us/#careers)
 * Iomob [Open positions](https://angel.co/company/iomob/jobs)
 * Jeff [Open positions](https://careers.wearejeff.com/)
