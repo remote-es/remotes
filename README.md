@@ -154,6 +154,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Datadog [Open positions](https://www.datadoghq.com/careers/)
 * Delitbee (All offers are remote) [Open positions](https://delitbee.com/empleo)
 * DeWocracy (All offers are remote) [Open positions](https://github.com/dewocracy/careers)
+* Docker [Open positions](https://www.docker.com/career-openings/)
 * DocPlanner [Open positions](https://apply.workable.com/docplanner/)
 * Dragonfly [Open positions](https://www.wearedragonfly.co/careers)
 * Ebury [Open positions](https://careers.ebury.com/)
