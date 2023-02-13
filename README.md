@@ -262,6 +262,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Sensor Tower [Open positions](https://jobs.lever.co/sensortower)
 * Seqera [Open positions](https://seqera.io/careers/)
 * Shopery [Open positions](https://www.shopery.com/jobs)
+* Shopify (Async friendly) [Open positions](https://www.shopify.com/careers)
 * SIGNA Sports United [Open positions](https://www.linkedin.com/company/signa-sports-united/jobs/)
 * Silt [Open positions](https://silt.notion.site/silt/Job-Board-f831b4a649e0498bbd2f67863f93cb1e)
 * Sketch [Open positions](https://www.sketch.com/jobs/)
