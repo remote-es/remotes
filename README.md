@@ -159,6 +159,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Dragonfly [Open positions](https://www.wearedragonfly.co/careers)
 * Ebury [Open positions](https://careers.ebury.com/)
 * Edge Impulse [Open positions](https://www.edgeimpulse.com/careers#open-roles)
+* Edpuzzle [Open positions](https://jobs.lever.co/edpuzzle)
 * Elastic [Open positions](https://www.elastic.co/about/careers/)
 * Element [Open positions](https://element.io/careers)
 * Empathy.co [Open positions](https://www.empathy.co/company/careers/)
