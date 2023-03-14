@@ -242,6 +242,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Parkimeter [Open positions](https://parkimeter.factorialhr.com/#jobs)
 * PayFit (All offers are remote) [Open positions](https://payfit.com/en/careers/)
 * PcComponentes [Open positions](https://www.pccomponentes.com/trabaja-con-nosotros)
+* Phiture [Open positions](https://boards.eu.greenhouse.io/phiture)
 * Picker [Open positions](https://www.notion.so/We-are-looking-for-Talent-7033e2f2f9534f54b4627b41157c00ec)
 * Plain Concepts [Open positions](https://www.plainconcepts.com/careers/)
 * Playtomic [Open positions](https://playtomic.jobs.personio.com)
