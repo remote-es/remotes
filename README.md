@@ -130,6 +130,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Camaloon [Open positions](https://apply.workable.com/camaloon/)
 * Capchase [Open positions](https://jobs.lever.co/capchase?commitment=Full%20-%20Time%20Remote&location=EU)
 * CARTO [Open positions](https://carto.com/careers/)
+* cdmon [Open positions](https://www.cdmon.com/en/about-us/work-with-us)
 * Chartboost [Open positions](https://boards.greenhouse.io/chartboost)
 * CitNOW [Open positions](https://www.citnow.com/about/careers/)
 * Clarity AI [Open positions](https://apply.workable.com/clarity-ai/)
