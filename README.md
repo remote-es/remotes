@@ -247,6 +247,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Picker [Open positions](https://www.notion.so/We-are-looking-for-Talent-7033e2f2f9534f54b4627b41157c00ec)
 * Plain Concepts [Open positions](https://www.plainconcepts.com/careers/)
 * Playtomic [Open positions](https://playtomic.jobs.personio.com)
+* Plexus Tech [Open positions](https://www.plexus.es/en/join-the-team/)
 * Plytix [Open positions](https://www.plytix.com/careers)
 * Postman [Open positions](https://www.postman.com/company/careers/open-positions/)
 * Psonrie [Open positions](https://www.linkedin.com/company/psonrie/jobs/) (all technical jobs are remote)
