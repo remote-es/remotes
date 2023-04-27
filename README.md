@@ -141,6 +141,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Clovr Labs [Open positions](https://clovrlabs.teamtailor.com/#section-jobs)
 * Codegram [Open positions](https://www.codegram.com/careers)
 * codi cooperatiu [Open positions](https://codi.coop/en/about-us/busquem-socies/)
+* Codurance (View individual job offers to check for remote) (Core office hours/overlap between 10:00 and 17:00 CEST) [Open positions](https://www.codurance.com/careers/current-roles?hsCtaTracking=fd7530a4-dec7-4756-a255-81b5624a506b%7Ca53de7f3-e646-4f7b-997a-28f786445c95)
 * Colvin (All offers are remote) [Open positions](https://www.linkedin.com/company/colvin/jobs/)
 * Confluent (All offers are remote) [Open positions](https://www.confluent.io/careers/)
 * Coopdevs (All offers are remote) [Open positions](https://coopdevs.org/treballa-amb-nosaltres/)
