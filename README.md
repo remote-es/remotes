@@ -101,6 +101,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 
 * 11Onze [Open positions](https://11onze.breezy.hr/)
 * ABA English [Open positions](https://www.linkedin.com/school/aba-english/jobs/)
+* Affirm [Open positions](https://boards.greenhouse.io/affirm/)
 * Alfred Smart Systems (View individual job offers to check for remote) [Open positions](https://static.assets.alfredsmartdata.com/jobs/)
 * Akamai [Open positions](https://akamaicareers.inflightcloud.com/)
 * Andjaro [Open positions](https://www.welcometothejungle.com/en/companies/andjaro/jobs)
