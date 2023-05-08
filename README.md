@@ -298,6 +298,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Tot-em [Open positions](https://www.linkedin.com/company/tot-em/jobs/)
 * Trialing (View individual job offers to check for remote) [Open positions](https://www.linkedin.com/company/trialing/jobs/)
 * Tribaldata [Open positions](https://www.linkedin.com/company/tribaldata/jobs/)
+* TROOP [Open positions](https://apply.workable.com/troop-1/)
 * Twilio (View individual job offers to check for remote) [Open positions](https://boards.greenhouse.io/twilio/)
 * Typeform (View individual job offers to check for remote) [Open positions](https://www.typeform.com/careers/)
 * Unimedia Technology [Open positions](https://www.linkedin.com/jobs/search/?f_C=13029092)
