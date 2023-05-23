@@ -266,6 +266,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Redradix (View individual job offers to check for remote) [Open positions](https://www.linkedin.com/jobs/redradix-jobs-worldwide/)
 * Ritmo (All offers are remote) [Open positions](https://www.linkedin.com/company/ritmo-capital/jobs/)
 * SEAT:CODE [Open positions](https://www.linkedin.com/company/seatcode/jobs/)
+* Science4Tech (All offers are remote) [Open positions](https://www.linkedin.com/company/science4tech/jobs/)
 * Seedtag [Open positions](https://seedtag.breezy.hr/)
 * Sensor Tower [Open positions](https://jobs.lever.co/sensortower)
 * Seqera [Open positions](https://seqera.io/careers/)
