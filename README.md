@@ -243,6 +243,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Onna (All offers are remote) [Open positions](https://boards.greenhouse.io/onna)
 * Osoigo (All offers are remote) [Open positions](https://www.linkedin.com/company/osoigo/jobs/)
 * Parkimeter [Open positions](https://parkimeter.factorialhr.com/#jobs)
+* Parkos [Open positions](https://jobs.parkos.com/jobs?remote_status_id=fully&query=)
 * PayFit (All offers are remote) [Open positions](https://payfit.com/en/careers/)
 * PcComponentes [Open positions](https://www.pccomponentes.com/trabaja-con-nosotros)
 * Phiture [Open positions](https://boards.eu.greenhouse.io/phiture)
