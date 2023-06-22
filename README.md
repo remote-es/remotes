@@ -179,6 +179,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Genially (All offers are remote) [Open positions](https://www.linkedin.com/company/geniallyofficial/jobs)
 * Genie [Open positions](https://www.linkedin.com/company/geniecorp/jobs/)
 * Giant Swarm [Open positions](https://www.giantswarm.io/careers)
+* GiG [Open positions](https://apply.workable.com/gig-6/#jobs)
 * GuideSmiths [Open positions](https://www.guidesmiths.com/careers)
 * GitHub [Open positions](https://github.com/about/careers)
 * Gofore (monthly travels to Madrid) (View individual job offers to check for remote) [Open positions](https://gofore.com/en/careers)
