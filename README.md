@@ -215,6 +215,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * LIFULL Connect [Open positions](https://www.lifullconnect.com/careers/)
 * Lightbend [Open positions](https://www.lightbend.com/company/careers)
 * Lingokids [Open positions](https://jobs.lingokids.com/)
+* Linux Foundation [Open positions](https://www.linuxfoundation.org/careers#positions)
 * Learnlife [Open positions](https://learnlife.com/work-with-us)
 * Localistico [Open positions](https://angel.co/company/localistico)
 * Mailtrack [Open positions](https://mailtrack.io/blog/tag/jobs/)
