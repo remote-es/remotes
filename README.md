@@ -187,7 +187,6 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Habitissimo (All offers are remote) [Open positions](https://www.linkedin.com/company/habitissimo/jobs/)
 * haddock [Open positions](https://jobs.haddock.app/)
 * Hector Kitchen [Open positions](https://hectorkitchen.recruitee.com/#section-121611)
-* Honeypot (All tech offers are remote) [Open positions](https://jobs.lever.co/honeypot)
 * Hopin [Open positions](https://hopin.com/careers)
 * Hotjar (All offers are remote) [Open positions](https://careers.hotjar.com/)
 * HUBUC [Open positions](https://careers.hubuc.com/)
