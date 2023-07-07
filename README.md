@@ -309,7 +309,6 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * World Mobile [Open positions](https://careers.worldmobile.io/?&location=Barcelona%2C%20ES#positions)
 * Wuolah (All offers are remote) [Open positions](https://wuolah.notion.site/Posiciones-abiertas-fbabecec44474f099d2f6f09d38d1282)
 * Xceed [Open positions](https://angel.co/company/xceed/jobs)
-* XpertAI (All offers are remote) [Open positions](https://xpertai.teamtailor.com/jobs)
 * YouGov [Open positions](https://jobs.yougov.com/jobs)
 * Z1 [Open positions](https://z1.digital/careers)
 * Zubi Group [Open positions](https://apply.workable.com/zubi-group/)
