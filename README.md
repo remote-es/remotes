@@ -256,7 +256,6 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * QCentroid [Open positions](https://www.linkedin.com/company/qcentroidlab/jobs/)
 * Qonto [Open positions](https://jobs.lever.co/qonto?workplaceType=remote)
 * QuestDB [Open positions](https://questdb.io/careers/)
-* Rankia [Open positions](https://www.rankia.com/empleo/trabaja-en-rankia)
 * RatedPower [Open positions](https://ratedpower.com/careers/)
 * Red Hat [Open positions](https://global-redhat.icims.com/jobs/search?ss=1&searchLocation=13549--Remote)
 * Red Points [Open positions](https://www.redpoints.com/jobs/)
