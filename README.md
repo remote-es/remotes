@@ -258,7 +258,6 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * RatedPower [Open positions](https://ratedpower.com/careers/)
 * Red Hat [Open positions](https://global-redhat.icims.com/jobs/search?ss=1&searchLocation=13549--Remote)
 * Red Points [Open positions](https://www.redpoints.com/jobs/)
-* Redradix (View individual job offers to check for remote) [Open positions](https://www.linkedin.com/jobs/redradix-jobs-worldwide/)
 * Ritmo (All offers are remote) [Open positions](https://www.linkedin.com/company/ritmo-capital/jobs/)
 * SEAT:CODE [Open positions](https://www.linkedin.com/company/seatcode/jobs/)
 * Science4Tech (All offers are remote) [Open positions](https://www.linkedin.com/company/science4tech/jobs/)
