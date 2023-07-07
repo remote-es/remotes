@@ -274,7 +274,6 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Sngular (View individual job offers to check for remote) [Open positions](https://www.sngular.com/es/ofertas/espana/all/)
 * Sololearn [Open positions](https://sololearn.bamboohr.com/jobs/)
 * Splash [Open positions](https://splashthat.com/careers)
-* Splice Machine [Open positions](https://jobs.lever.co/splicemachine/)
 * Spotahome (All offers are remote) [Open positions](https://rent.spotahome.com/work-with-us)
 * Spotify [Open positions](https://www.lifeatspotify.com/jobs?l=remote-emea)
 * Stayforlong (All offers are remote) [Open positions](https://www.linkedin.com/company/stayforlong/jobs/)
