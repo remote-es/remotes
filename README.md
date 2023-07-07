@@ -226,7 +226,6 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * MONEI [Open positions](https://monei.com/page/we-are-hiring/)
 * modo [Open positions](https://doc.clickup.com/p/h/4aw7y-533/ff8c70b304156ba/4aw7y-533)
 * MURAL [Open positions](https://www.mural.co/careers/open-roles)
-* nc43|tech [Open positions](https://jobs.nc43tech.com/#jobs)
 * Neutroon [Open positions](https://www.neutroon.com/career)
 * Nexiona (monthly travels to the HQ in Barcelona) [Open positions](https://angel.co/company/nexiona/jobs)
 * Nextail [Open positions](https://nextaillabs.recruitee.com/)
