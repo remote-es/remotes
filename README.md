@@ -278,7 +278,6 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Spotify [Open positions](https://www.lifeatspotify.com/jobs?l=remote-emea)
 * Stayforlong (All offers are remote) [Open positions](https://www.linkedin.com/company/stayforlong/jobs/)
 * Stream [Open positions](https://grnh.se/b7d3076c3us)
-* Streamloots [Open positions](https://careers.streamloots.com/)
 * Stuart [Open positions](https://stuart.com/careers/)
 * Syntax Information Technology [Open positions](https://www.linkedin.com/jobs/search/?currentJobId=3272272809&f_C=2978930&geoId=92000000)
 * Sysdig [Open positions](https://sysdig.com/jobs/)
