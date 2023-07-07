@@ -270,7 +270,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Silt [Open positions](https://silt.notion.site/silt/Job-Board-f831b4a649e0498bbd2f67863f93cb1e)
 * Sketch [Open positions](https://www.sketch.com/jobs/)
 * Slite [Open positions](https://webflow-production.slite.com/jobs)
-* SMART Technologies [Open positions](https://smarttechnologies.recruiterbox.com/?country=Spain&q=&limit=25)
+* SMART Technologies [Open positions](https://smarttechnologies.hire.trakstar.com/)
 * Sngular (View individual job offers to check for remote) [Open positions](https://www.sngular.com/es/ofertas/espana/all/)
 * Sololearn [Open positions](https://sololearn.bamboohr.com/jobs/)
 * Splash [Open positions](https://splashthat.com/careers)
