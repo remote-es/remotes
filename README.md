@@ -165,6 +165,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Elastic [Open positions](https://www.elastic.co/about/careers/)
 * Element [Open positions](https://element.io/careers)
 * Empathy.co [Open positions](https://www.empathy.co/company/careers/)
+* Ensemble IP [Open positions](https://ensembleip.bamboohr.com/careers)
 * Eventbrite [Open positions](https://www.eventbritecareers.com/jobs/search?page=1&country_codes%5B%5D=ES&cities%5B%5D=Remote&query=)
 * Exoticca [Open positions](https://apply.workable.com/exoticca/)
 * Factorial [Open positions](https://factorialhr.com/join-factorial)
