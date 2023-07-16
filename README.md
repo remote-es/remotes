@@ -248,6 +248,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Plexus Tech [Open positions](https://www.plexus.es/en/join-the-team/)
 * Plytix [Open positions](https://www.plytix.com/careers)
 * Postman [Open positions](https://www.postman.com/company/careers/open-positions/)
+* Product Hackers (All offers are remote) [Open positions](https://producthackers.recruitee.com/)
 * Psonrie [Open positions](https://www.linkedin.com/company/psonrie/jobs/) (all technical jobs are remote)
 * PSPDFKit [Open positions](https://pspdfkit.com/company/careers/)
 * Qatium [Open positions](https://qatium.recruitee.com/)
