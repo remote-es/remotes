@@ -99,7 +99,6 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 
 # Companies
 
-* 11Onze [Open positions](https://11onze.breezy.hr/)
 * ABA English [Open positions](https://www.linkedin.com/school/aba-english/jobs/)
 * Affirm [Open positions](https://boards.greenhouse.io/affirm/)
 * Alfred Smart Systems (View individual job offers to check for remote) [Open positions](https://static.assets.alfredsmartdata.com/jobs/)
