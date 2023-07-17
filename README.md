@@ -261,6 +261,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * SEAT:CODE [Open positions](https://www.linkedin.com/company/seatcode/jobs/)
 * Science4Tech (All offers are remote) [Open positions](https://www.linkedin.com/company/science4tech/jobs/)
 * Seedtag [Open positions](https://seedtag.breezy.hr/)
+* sennder (All technical offers are remote) [Open positions](https://www.sennder.com/open-positions?gh_src=04e6eaae2us)
 * Sensor Tower [Open positions](https://jobs.lever.co/sensortower)
 * Seqera [Open positions](https://seqera.io/careers/)
 * Shopery [Open positions](https://www.shopery.com/jobs)
