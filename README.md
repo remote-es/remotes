@@ -129,7 +129,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * BRYTER [Open positions](https://bryter.com/careers/)
 * Cabify [Open positions](https://cabify.com/es/jobs)
 * Camaloon [Open positions](https://apply.workable.com/camaloon/)
-* Canonical [Open positions](https://canonical.com/careers/all)
+* Canonical [Open positions](https://canonical.com/careers/all?location=emea)
 * Capchase [Open positions](https://jobs.lever.co/capchase?commitment=Full%20-%20Time%20Remote&location=EU)
 * CARTO [Open positions](https://carto.com/careers/)
 * cdmon [Open positions](https://www.cdmon.com/en/about-us/work-with-us)
