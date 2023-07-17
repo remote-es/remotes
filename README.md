@@ -175,6 +175,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Form3 [Open positions](https://form3.tech/careers)
 * fotograf.de [Open positions](https://angel.co/company/fotograf-de-1/jobs)
 * FounderNest [Open positions](https://careers.foundernest.com/jobs)
+* Fresco [Open positions](https://frescocooks.com/careers#open-jobs)
 * Genially (All offers are remote) [Open positions](https://genial.ly/es/unete-al-equipo/#wearehiring)
 * Genie [Open positions](https://www.linkedin.com/company/geniecorp/jobs/)
 * Giant Swarm [Open positions](https://www.giantswarm.io/careers)
