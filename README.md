@@ -325,6 +325,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Manfred [Open positions](https://github.com/getmanfred/offers/wiki) Manfred is a recruiting company. Offers marked as `FULL REMOTE` and with a salary in euro comply with the conditions stated above.
 * Remote First [Open positions](https://remotefirst.digital/empresas/ofrecen-contrato-espanol) Remote First is a Spanish remote job search site that allows filtering for offers complying with the conditions stated above.
 * Rviewer [Open positions](https://rviewer.io/jobs?workPreferences=remoteOnly) Rviewer is an IT hiring marketplace that allows filtering full-remote and hybrid positions in Spain and Europe.
+* Barcelona Engineering [Open positions](https://bcneng.slack.com/archives/C30CUFT2B) Barcelona Engineering (BcnEng) is a non-profit organization whose mission is to let Barcelona’s tech hub become one of the best tech communities around the globe. Their [#hiring-job-board](https://bcneng.slack.com/archives/C30CUFT2B) Slack channel is an automated channel where people and companies post job offers. Those with the `Remote` tag comply with the criteria of this initiative.
 
 # Related projects
 
