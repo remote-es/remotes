@@ -269,6 +269,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * sennder (All technical offers are remote) [Open positions](https://www.sennder.com/open-positions?gh_src=04e6eaae2us)
 * Sensor Tower [Open positions](https://jobs.lever.co/sensortower)
 * Seqera [Open positions](https://seqera.io/careers/)
+* SeQura (All technical offers are remote) [Open positions](https://sequra.recruitee.com/career-page-jobs)
 * Shopery [Open positions](https://www.shopery.com/jobs)
 * Shopify (Async friendly) [Open positions](https://www.shopify.com/careers)
 * SIGNA Sports United [Open positions](https://www.linkedin.com/company/signa-sports-united/jobs/)
