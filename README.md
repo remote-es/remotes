@@ -194,6 +194,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Iomob [Open positions](https://angel.co/company/iomob/jobs)
 * jobandtalent (All technical offers are remote) [Open positions](https://jobandtalent.bamboohr.com/jobs/)
 * Kahoot! [Open positions](https://apply.workable.com/kahoot/)
+* Keedio (All offers are remote) [Open positions](https://www.linkedin.com/company/keedio/jobs/)
 * Knack [Open positions](https://knack.pinpointhq.com/en?location_id=%5B9300%5D)
 * Kodify [Open positions](https://kodify.recruitee.com/#section-26652)
 * LambdaLoopers [Open positions](https://www.linkedin.com/company/lambdaloopers/jobs/)
