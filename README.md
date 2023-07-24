@@ -131,6 +131,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * CARTO [Open positions](https://carto.com/careers/)
 * cdmon [Open positions](https://www.cdmon.com/en/about-us/work-with-us)
 * Chartboost [Open positions](https://boards.greenhouse.io/chartboost)
+* Chess.com [Open positions](https://www.chess.com/jobs)
 * CitNOW [Open positions](https://www.citnow.com/about/careers/)
 * Clarity AI [Open positions](https://apply.workable.com/clarity-ai/)
 * Clarivate [Open positions](https://www.linkedin.com/jobs/search/?keywords=clarivate)
