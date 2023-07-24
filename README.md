@@ -148,7 +148,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Crisis Text Line [Open positions](https://boards.greenhouse.io/crisistextline86)
 * Datadog [Open positions](https://www.datadoghq.com/careers/)
 * Docker [Open positions](https://www.docker.com/career-openings/)
-* DocPlanner [Open positions](https://apply.workable.com/docplanner/)
+* DocPlanner [Open positions](https://www.docplanner.com/career)
 * Dragonfly [Open positions](https://www.wearedragonfly.co/careers)
 * Ebury [Open positions](https://careers.ebury.com/)
 * Edge Impulse [Open positions](https://www.edgeimpulse.com/careers#open-roles)
