@@ -169,6 +169,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * ForceManager [Open positions](https://forcemanager.bamboohr.com/jobs/)
 * Form3 [Open positions](https://form3.tech/careers)
 * fotograf.de [Open positions](https://angel.co/company/fotograf-de-1/jobs)
+* FoshTech [Open positions](https://foshtech.jobs.personio.de/)
 * FounderNest [Open positions](https://careers.foundernest.com/jobs)
 * Fresco [Open positions](https://frescocooks.com/careers#open-jobs)
 * Genially (All offers are remote) [Open positions](https://genial.ly/es/unete-al-equipo/#wearehiring)
