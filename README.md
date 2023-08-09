@@ -203,6 +203,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Landbot (All offers are remote) [Open positions](https://jobs.landbot.io/)
 * Launchmetrics (All offers are remote) [Open positions](https://careers.launchmetrics.com/)
 * Leadtech [Open positions](https://leadtech.com/work-with-us)
+* Less Than Three (View individual offers to check for remote) [Open positions](https://www.linkedin.com/company/less-than-three/jobs/)
 * Líbere [Open positions](https://liberetech.com/#open-positions)
 * Liferay [Open positions](https://jobs.jobvite.com/liferay/search?q=&r=&l=Remote%20-%20Spain&c=)
 * LIFULL Connect [Open positions](https://www.lifullconnect.com/careers/)
