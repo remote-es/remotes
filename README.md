@@ -227,6 +227,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Neutroon [Open positions](https://www.neutroon.com/career)
 * Nexiona (monthly travels to the HQ in Barcelona) [Open positions](https://angel.co/company/nexiona/jobs)
 * Nextail [Open positions](https://nextaillabs.recruitee.com/)
+* Next Digital [Open positions](https://www.linkedin.com/company/nextdigitalhub/jobs/)
 * New Relic [Open positions](https://newrelic.careers/en_US/careers/SearchJobs/?3141=162612&3141_format=2271&listFilterMode=1&jobRecordsPerPage=20&)
 * New Work SE (All offers are remote) [Open positions](https://www.new-work.se/en/career/vacancies)
 * ninety nine (All technical offers are remote) [Open positions](https://ninetynine.com/unete-al-equipo)
