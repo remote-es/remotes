@@ -105,6 +105,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * Akamai [Open positions](https://akamaicareers.inflightcloud.com/)
 * Andjaro [Open positions](https://www.welcometothejungle.com/en/companies/andjaro/jobs)
 * Apiumhub [Open positions](https://careers.apiumhub.com/jobs)
+* APIUX [Open positions](https://www.linkedin.com/company/api-ux/jobs/)
 * Aplanet [Open positions](https://aplanet.org/careers/)
 * Aplazame (All offers are remote) [Open positions](https://www.linkedin.com/company/aplazame/jobs/)
 * Aratech [Open positions](https://aratech.viterbit.site/#jobs-OUTc)
