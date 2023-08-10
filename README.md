@@ -182,6 +182,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * GoTrendier [Open positions](https://gotrendier.notion.site/Te-gustar-a-trabajar-en-GoTrendier-7d5199e5dcb348b4af2f61ddad2d73bf)
 * Habitissimo (All offers are remote) [Open positions](https://www.linkedin.com/company/habitissimo/jobs/)
 * haddock [Open positions](https://jobs.haddock.app/)
+* Hakuna (All offers are remote) [Open positions](https://hakuna.jobs.personio.de/)
 * Hopin [Open positions](https://hopin.com/careers)
 * Hotjar (All offers are remote) [Open positions](https://careers.hotjar.com/)
 * HUBUC [Open positions](https://careers.hubuc.com/)
