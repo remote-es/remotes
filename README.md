@@ -108,6 +108,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * APIUX [Open positions](https://www.linkedin.com/company/api-ux/jobs/)
 * Aplanet [Open positions](https://aplanet.org/careers/)
 * Aplazame (All offers are remote) [Open positions](https://www.linkedin.com/company/aplazame/jobs/)
+* Appwrite [Open positions](https://appwrite.io/company/careers)
 * Aratech [Open positions](https://aratech.viterbit.site/#jobs-OUTc)
 * AREX Markets (All offers are remote) [Open positions](https://apply.workable.com/arex/)
 * AtomicJar [Open positions](https://www.atomicjar.com/careers/)
