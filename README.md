@@ -95,7 +95,7 @@ longer useful (broken URL, not clearly listing remote offers which fulfill
 the criteria for the listing, etc.), please send a PR removing it (along
 with a justification) or open an issue.
 
-See [OWNERS](OWNERS.md) for details about the maintenance of the project.
+See [OWNERS](OWNERS.md) for details about the maintenance of the project
 
 # Companies
 
@@ -120,7 +120,6 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * BestSecret [Open positions](https://jobs.bestsecret.com/en/jobs.html?location=Granada)
 * Big Blue Analytics (All offers are remote) [Open positions](https://bigblueanalytics.com/hiring/)
 * Blacklane [Open positions](https://boards.greenhouse.io/blacklane)
-* Blue Telecom Consulting (All offers are remote) [Open positions](https://www.bluetc.es/en/work-with-us/job-offers)
 * BMAT [Open positions](https://www.bmat.com/careers/)
 * Boats Group [Open positions](https://www.boatsgroup.com/careers/)
 * Brainly (All offers are remote) [Open positions](https://careers.brainly.com/open-positions/)
