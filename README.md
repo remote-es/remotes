@@ -302,6 +302,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * UserZoom [Open positions](https://www.userzoom.com/careers?uuid=elia)
 * Verbio (View individual job offers to check for remote) [Open positions](https://www.verbio.com/careers/)
 * Vinissimus [Open positions](https://www.linkedin.com/company/vinissimus/jobs/)
+* ViewNext [Open positions](https://www.linkedin.com/company/viewnext/jobs/)
 * Vistaprint (All offers are remote) [Open positions](https://jobs.vista.com/Vista/go/Vista-All/8835100/?q=&q2=&alertId=&locationsearch=&title=&shifttype=&facility=Remote&department=)
 * Vitaance (Monthly trips to Barcelona/Madrid) [Open positions](https://vitaance.jobs.personio.com/)
 * Vizzuality (All offers are remote) [Open positions](https://vizzuality.bamboohr.com/jobs/)
