@@ -16,7 +16,7 @@ abroad means becoming self-employed, which has several drawbacks:
   from the government that doing the same for a foreign company is OK
 
 There is a significant amount of resources to find a remote job, but we have
-found none targetting people living in Spain. As we believe that the number of
+found none targeting people living in Spain. As we believe that the number of
 companies allowing remote work in Spain are limited, a list seems a good
 approach for those seeking a remote work; they can simply go through the list
 and look for open positions.
