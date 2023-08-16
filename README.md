@@ -289,6 +289,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project
 * TaxScouts (All offers are remote) [Open positions](https://taxscouts.es/unete-al-equipo/)
 * TBSCG [Open positions](https://www.linkedin.com/company/tbscg/jobs/)
 * Teamwire [Open positions](https://teamwire.eu/en/careers/)
+* TecnoFor [Open positions](https://tecnofor.es/trabajaconnosotros/)
 * The Hotels Network (View individual job offers to check for remote) [Open positions](https://info.thehotelsnetwork.com/en/careers)
 * The Knot Worldwide [Open positions](https://www.theknotww.com/careers-view-all-jobs/)
 * TheyDo [Open positions](https://www.theydo.com/careers)
