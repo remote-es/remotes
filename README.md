@@ -101,6 +101,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project
 
 * 11Onze [Open positions](https://11onze.breezy.hr/)
 * ABA English [Open positions](https://aba-english.factorialhr.es/)
+* Alan [Open positions](https://jobs.lever.co/alan?department=Product&team=Engineering)
 * Affirm [Open positions](https://boards.greenhouse.io/affirm/)
 * Akamai [Open positions](https://akamaicareers.inflightcloud.com/)
 * Andjaro [Open positions](https://www.welcometothejungle.com/en/companies/andjaro/jobs)
