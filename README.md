@@ -330,7 +330,11 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project
 * Remote First [Open positions](https://remotefirst.digital/empresas/ofrecen-contrato-espanol) Remote First is a Spanish remote job search site that allows filtering for offers complying with the conditions stated above.
 * Rviewer [Open positions](https://rviewer.io/jobs?workPreferences=remoteOnly) Rviewer is an IT hiring marketplace that allows filtering full-remote and hybrid positions in Spain and Europe.
 * Barcelona Engineering [Open positions](https://bcneng.slack.com/archives/C30CUFT2B) Barcelona Engineering ([BcnEng](https://bcneng.org/)) is a non-profit organization whose mission is to let Barcelona’s tech hub become one of the best tech communities around the globe. Their [#hiring-job-board](https://bcneng.slack.com/archives/C30CUFT2B) Slack channel is an automated channel where people and companies post job offers. Those with the `Remote` tag are truly remote, however some offers might be for freelancers/contractors.
-* Jobgether [Open positions](https://jobgether.com/search/remote-job-spain-remote-work-jobgether) Jobgether is a remote job aggregator. Positions that list explicitly "Spain" in the "remote from"/"remote location allowed" field, *likely* hire through permanent contracts in Spain.
+
+The following sites list remote jobs. Some offers list explicitly Spain, which likely mean hiring with permanent contracts in Spain. However, offers that do not show a location, or that list many countries, are likely freelancing roles.
+
+* Jobgether [Open positions](https://jobgether.com/search/remote-job-spain-remote-work-jobgether)
+* levels.fyi [Open positions](https://www.levels.fyi/jobs/location/spain?locationSlug=spain)
 
 # Related projects
 
