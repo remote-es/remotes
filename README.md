@@ -147,6 +147,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project
 * Confluent (All offers are remote) [Open positions](https://www.confluent.io/careers/)
 * Coopdevs (All offers are remote) [Open positions](https://odoo.coopdevs.org/jobs)
 * Copado [Open positions](https://www.copado.com/careers/#openpositions)
+* Cosuno [Open positions](https://www.cosuno.com/company#careers)
 * Crisis Text Line [Open positions](https://boards.greenhouse.io/crisistextline86)
 * Damavis (All offers are remote) [Open positions](https://damavis.com/es/jobs)
 * Datadog [Open positions](https://www.datadoghq.com/careers/)
