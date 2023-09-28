@@ -249,6 +249,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project
 * Parkos [Open positions](https://jobs.parkos.com/jobs?remote_status_id=fully&query=)
 * PayFit (All offers are remote) [Open positions](https://payfit.com/en/careers/)
 * PcComponentes [Open positions](https://www.pccomponentes.com/trabaja-con-nosotros)
+* Personio (View individual job offers to check for remote) [Open positions](https://www.personio.com/about-personio/careers/#see-our-open-roles)
 * Phiture [Open positions](https://boards.eu.greenhouse.io/phiture)
 * Plain Concepts [Open positions](https://www.plainconcepts.com/careers/)
 * Playtomic [Open positions](https://playtomic.jobs.personio.com)
