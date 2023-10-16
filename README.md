@@ -246,6 +246,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project
 * Okta/Auth0 [Open positions](https://www.okta.com/company/careers/#careers-job-postings?department=All&location=4341)
 * Oliva [Open positions](https://apply.workable.com/oliva1/)
 * Onna (All offers are remote) [Open positions](https://boards.greenhouse.io/onna)
+* OpenSistemas (All offers are remote) [Open positions] (https://opensistemas.com/category/empleo/)
 * Osoigo (All offers are remote) [Open positions](https://www.linkedin.com/company/osoigo/jobs/)
 * Parkimeter [Open positions](https://parkimeter.factorialhr.com/#jobs)
 * Parkos [Open positions](https://jobs.parkos.com/jobs?remote_status_id=fully&query=)
