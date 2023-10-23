@@ -151,6 +151,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project
 * Cosuno [Open positions](https://www.cosuno.com/company#careers)
 * Crisis Text Line [Open positions](https://boards.greenhouse.io/crisistextline86)
 * Damavis (All offers are remote) [Open positions](https://damavis.com/es/jobs)
+* damecode [Open positions](https://www.linkedin.com/company/damecode/jobs/)
 * Datadog [Open positions](https://www.datadoghq.com/careers/)
 * DealDash (Listing shows Finland, check individual offers for remote) [Open positions](https://www.linkedin.com/company/dealdash/jobs/)
 * Docker [Open positions](https://www.docker.com/career-openings/)
