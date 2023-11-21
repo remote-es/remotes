@@ -202,6 +202,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project
 * jobandtalent (All technical offers are remote) [Open positions](https://jobandtalent.bamboohr.com/jobs/)
 * JW Player [Open positions](https://jwplayer.com/careers/job-openings/)
 * Kahoot! [Open positions](https://apply.workable.com/kahoot/)
+* Kariboo (All offers are remote) [Open positions](https://kariboo.talentclue.com/es/multiposting-sl-kariboo)
 * Keedio (All offers are remote) [Open positions](https://www.linkedin.com/company/keedio/jobs/)
 * Knack [Open positions](https://knack.pinpointhq.com/en?location_id=%5B9300%5D)
 * Kodify [Open positions](https://kodify.recruitee.com/#section-26652)
