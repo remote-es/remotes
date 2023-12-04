@@ -338,6 +338,7 @@ The following companies offer remote jobs and hire in Spain:
 * Xceed [Open positions](https://angel.co/company/xceed/jobs)
 * YouGov [Open positions](https://jobs.yougov.com/jobs)
 * Z1 [Open positions](https://z1.digital/careers)
+* Zapier [Open positions](https://zapier.com/jobs#job-openings)
 * ZenRows (All offers are remote) [Open positions](https://apply.workable.com/zenrows/)
 * Zubi Group [Open positions](https://apply.workable.com/zubi-group/)
 
