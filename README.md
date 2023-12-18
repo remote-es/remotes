@@ -154,6 +154,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project
 * damecode [Open positions](https://www.linkedin.com/company/damecode/jobs/)
 * Datadog [Open positions](https://www.datadoghq.com/careers/)
 * DealDash (Listing shows Finland, check individual offers for remote) [Open positions](https://www.linkedin.com/company/dealdash/jobs/)
+* Devo (All offers are remote) [Open positions](https://www.devo.com/careers/open-positions/)
 * Docker [Open positions](https://www.docker.com/career-openings/)
 * DocPlanner [Open positions](https://www.docplanner.com/career)
 * Dragonfly [Open positions](https://www.wearedragonfly.co/careers)
