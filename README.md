@@ -149,6 +149,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project
 * Coopdevs (All offers are remote) [Open positions](https://odoo.coopdevs.org/jobs)
 * Copado [Open positions](https://www.copado.com/careers/#openpositions)
 * Cosuno [Open positions](https://www.cosuno.com/company#careers)
+* Foo
 * Crisis Text Line [Open positions](https://boards.greenhouse.io/crisistextline86)
 * Damavis (All offers are remote) [Open positions](https://damavis.com/es/jobs)
 * damecode [Open positions](https://www.linkedin.com/company/damecode/jobs/)
