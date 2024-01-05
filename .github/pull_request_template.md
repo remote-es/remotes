@@ -2,10 +2,6 @@ Remove all sections that do not apply
 
 # Adding new companies
 
-Remove all sections that do not apply
-
-# Adding new companies
-
 I know about these job offerings because (choose one):
 - [ ] I work there.
 - [ ] I applied there, and they allowed me to share this.
