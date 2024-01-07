@@ -21,7 +21,7 @@ I validate the following:
   - (View individual job offers to check for remote)  
      **if the job listing does not offer any indication that all offers are remote, nor marks clearly remote offers**, so you need to check individual offers to see if the position is remote.
 
-For instance: My Company (All offers are remote) [Open positisions](#)
+For instance: My Company (All offers are remote) [Open positions](#)
 
 # Removing companies
 
