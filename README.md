@@ -341,6 +341,8 @@ The following companies offer remote jobs and hire in Spain:
 
 # Others
 
+The following links might be useful if you are looking for a remote position in Spain.
+
 * JobFluent [Open positions](https://www.jobfluent.com/es/empleos-remoto) JobFluent is a Spanish job search site that allows filtering for 100% remote positions and only listing companies with offices in Spain.
 * Manfred [Open positions](https://www.getmanfred.com/ofertas-empleo) Manfred is a recruiting company. Offers marked as `FULL REMOTE` and with a salary in euro comply with the conditions stated above.
 * Remote First [Open positions](https://remotefirst.digital/empresas/ofrecen-contrato-espanol) Remote First is a Spanish remote job search site that allows filtering for offers complying with the conditions stated above.
