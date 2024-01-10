@@ -208,6 +208,7 @@ The following companies offer remote jobs and hire in Spain:
 * Kahoot! [Open positions](https://apply.workable.com/kahoot/)
 * Kariboo (All offers are remote) [Open positions](https://kariboo.talentclue.com/es/multiposting-sl-kariboo)
 * Keedio (All offers are remote) [Open positions](https://www.linkedin.com/company/keedio/jobs/)
+* Kelea [Open positions](https://kelea.viterbit.site/)
 * Knack [Open positions](https://knack.pinpointhq.com/en?location_id=%5B9300%5D)
 * Kodify [Open positions](https://kodify.recruitee.com/#section-26652)
 * LambdaLoopers [Open positions](https://www.linkedin.com/company/lambdaloopers/jobs/)
