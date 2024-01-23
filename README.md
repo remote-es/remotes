@@ -158,6 +158,7 @@ The following companies offer remote jobs and hire in Spain:
 * Datadog [Open positions](https://www.datadoghq.com/careers/)
 * DealDash (Listing shows Finland, check individual offers for remote) [Open positions](https://www.linkedin.com/company/dealdash/jobs/)
 * Devo (All positions in Spain are remote) [Open positions](https://www.devo.com/careers/open-positions/)
+* dLocal [Open positions](https://jobs.lever.co/dlocal?location=Spain%20%28Remote%29)
 * Docker [Open positions](https://www.docker.com/career-openings/)
 * DocPlanner [Open positions](https://www.docplanner.com/career)
 * Dragonfly [Open positions](https://www.wearedragonfly.co/careers)
