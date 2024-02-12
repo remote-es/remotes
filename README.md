@@ -119,6 +119,7 @@ The following companies offer remote jobs and hire in Spain:
 * Automattic [Open positions](https://automattic.com/work-with-us/)
 * Back Market [Open positions](https://jobs.lever.co/backmarket?location=Barcelona&commitment=PERMANENT%20CONTRACT%20%28FULL-TIME%29)
 * Bankflip (All offers are remote) [Open positions](https://www.linkedin.com/company/bankflip/jobs/)
+* BCNC Group [Open positions](https://www.linkedin.com/company/bcncgroup/jobs/)
 * BeBanjo [Open positions](https://bebanjo.com/careers)
 * Belvo [Open positions](https://angel.co/company/belvo/jobs)
 * BestSecret [Open positions](https://jobs.bestsecret.com/en/jobs.html?location=Granada)
