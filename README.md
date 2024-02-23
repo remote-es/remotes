@@ -59,6 +59,8 @@ We recommend:
 If you are a company or an individual, send a PR which adds the company to the
 list (in alphabetical order). Try to be brief to keep the list manageable.
 
+The GitHub "edit file" button automates the process of forking and submitting a PR.
+
 Please make a note in the offer if:
 
 * You have specific travel requirements (monthly onsites, etc.) which happen
