@@ -139,6 +139,7 @@ The following companies offer remote jobs and hire in Spain:
 * cdmon [Open positions](https://www.cdmon.com/en/about-us/work-with-us)
 * Chartboost [Open positions](https://boards.greenhouse.io/chartboost)
 * Chess.com [Open positions](https://www.chess.com/jobs)
+* Ciklum (View individual job offers to check for remote) [Open positions](https://jobs.ciklum.com/jobs/?country=spain&working_type=Remote)
 * CitNOW [Open positions](https://www.citnow.com/about/careers/)
 * Clarity AI [Open positions](https://apply.workable.com/clarity-ai/)
 * Clarivate [Open positions](https://www.linkedin.com/jobs/search/?keywords=clarivate)
