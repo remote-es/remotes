@@ -109,7 +109,6 @@ The following companies offer remote jobs and hire in Spain:
 * Affirm [Open positions](https://boards.greenhouse.io/affirm/)
 * Akamai [Open positions](https://akamaicareers.inflightcloud.com/)
 * Alhona (All offers are remote)[https://www.linkedin.com/company/alhona-smart-industry/jobs/]
-* Andjaro [Open positions](https://www.welcometothejungle.com/en/companies/andjaro/jobs)
 * Apiumhub [Open positions](https://careers.apiumhub.com/jobs)
 * APIUX [Open positions](https://www.linkedin.com/company/api-ux/jobs/)
 * Aplanet [Open positions](https://aplanet.org/careers/)
