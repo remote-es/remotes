@@ -242,6 +242,7 @@ The following companies offer remote jobs and hire in Spain:
 * Mixmax [Open positions](https://www.mixmax.com/careers)
 * mlean [Open positions](https://mlean.jobs.personio.com/)
 * modo [Open positions](https://doc.clickup.com/p/h/4aw7y-533/ff8c70b304156ba/4aw7y-533)
+* Mood [Open positions](https://mood.breezy.hr/)
 * MONEI [Open positions](https://monei.com/page/we-are-hiring/)
 * MongoDB (View individual job offers to check for remote) [Open positions](https://www.mongodb.com/careers/teams)
 * Mr.Milú (All offers are remote) [Open positions](https://mrmilu.com/talento)
