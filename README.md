@@ -286,6 +286,7 @@ The following companies offer remote jobs and hire in Spain:
 * RatedPower [Open positions](https://ratedpower.com/careers/)
 * Red Hat [Open positions](https://global-redhat.icims.com/jobs/search?ss=1&searchLocation=13549--Remote)
 * Red Points [Open positions](https://www.redpoints.com/jobs/)
+* Remote [Open positions](https://boards.greenhouse.io/remotecom)
 * RevenueCat [Open positions](https://www.revenuecat.com/careers/)
 * Ritmo [Open positions](https://ritmo.jobs.personio.com/?language=es)
 * SEAT:CODE [Open positions](https://code.seat/about/#open-positions)
