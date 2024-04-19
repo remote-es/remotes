@@ -168,6 +168,7 @@ The following companies offer remote jobs and hire in Spain:
 * DocPlanner [Open positions](https://www.docplanner.com/career)
 * Dragonfly [Open positions](https://www.wearedragonfly.co/careers)
 * Ebury [Open positions](https://careers.ebury.com/)
+* Eclipse Foundation [Open positions](https://eclipsefoundation.applytojob.com/apply)
 * Edge Impulse [Open positions](https://www.edgeimpulse.com/careers#open-roles)
 * Edpuzzle [Open positions](https://jobs.lever.co/edpuzzle)
 * Elastic [Open positions](https://www.elastic.co/about/careers/)
