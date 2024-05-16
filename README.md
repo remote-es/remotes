@@ -248,6 +248,7 @@ The following companies offer remote jobs and hire in Spain:
 * Mood [Open positions](https://mood.breezy.hr/)
 * MONEI [Open positions](https://monei.com/page/we-are-hiring/)
 * MongoDB (View individual job offers to check for remote) [Open positions](https://www.mongodb.com/careers/teams)
+* Monkey Taps [Open positions](https://monkeytaps.notion.site/Monkey-Taps-Job-Board-2ce7da50adff460093fd1eb46f5c9056)
 * Mr.Milú (All offers are remote) [Open positions](https://mrmilu.com/talento)
 * MURAL [Open positions](https://www.mural.co/careers/open-roles)
 * Neutroon [Open positions](https://www.neutroon.com/career)
