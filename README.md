@@ -353,6 +353,7 @@ The following companies offer remote jobs and hire in Spain:
 * World Mobile [Open positions](https://careers.worldmobile.io/?&location=Barcelona%2C%20ES#positions)
 * Wuolah (All offers are remote) [Open positions](https://wuolah.notion.site/Posiciones-abiertas-fbabecec44474f099d2f6f09d38d1282)
 * Xceed [Open positions](https://angel.co/company/xceed/jobs)
+* Yeager.ai [Open positions](https://apply.workable.com/yeager-dot-a-i/)
 * YouGov [Open positions](https://jobs.yougov.com/jobs)
 * Z1 [Open positions](https://z1.digital/careers)
 * Zapier [Open positions](https://zapier.com/jobs#job-openings)
