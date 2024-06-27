@@ -192,6 +192,7 @@ The following companies offer remote jobs and hire in Spain:
 * FoshTech [Open positions](https://foshtech.jobs.personio.de/)
 * FounderNest [Open positions](https://careers.foundernest.com/jobs)
 * Fresco [Open positions](https://frescocooks.com/careers#open-jobs)
+* Frogtek [Open positions](https://developing.frogtek.org/trabaja-con-nosotros/)
 * Genially (All offers are remote) [Open positions](https://genial.ly/es/unete-al-equipo/#wearehiring)
 * Genie [Open positions](https://genieframework.com/careers/index.html?#open-positions)
 * Giant Swarm [Open positions](https://www.giantswarm.io/careers)
