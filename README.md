@@ -346,6 +346,7 @@ The following companies offer remote jobs and hire in Spain:
 * Vitaance (Monthly trips to Barcelona/Madrid) [Open positions](https://vitaance.jobs.personio.com/)
 * Vizzuality (All offers are remote) [Open positions](https://vizzuality.bamboohr.com/jobs/)
 * VMware, Inc. (All technical offers are remote) [Open positions](https://careers.vmware.com/location/jobs?country=ESP%7CSpain)
+* Voicemod [Open positions](https://voicemod.breezy.hr/)
 * Volcanic Internet [Open positions](https://volcanicinternet.com/en/work-with-us/)
 * Voodoo [Open positions](https://www.voodoo.io/careers/jobs/?location=Barcelona&workplace=Remote)
 * Voxel (occasional travels to the office in Barcelona) (All technical offers are remote) [Open positions](https://www.voxelgroup.net/people/en/home-eng/#page6)
