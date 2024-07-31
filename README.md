@@ -269,6 +269,7 @@ The following companies offer remote jobs and hire in Spain:
 * Odilo (View individual job offers to check for remote) [Open positions](https://careers.odilo.us/jobs)
 * Okta/Auth0 [Open positions](https://www.okta.com/company/careers/#careers-job-postings?department=All&location=4341)
 * Oliva [Open positions](https://apply.workable.com/oliva1/)
+* Oneclick [Open positions](https://www.linkedin.com/company/oneclickes/jobs/)
 * Onna (All offers are remote) [Open positions](https://boards.greenhouse.io/onna)
 * OpenSistemas (All offers are remote) [Open positions](https://opensistemas.com/category/empleo/)
 * Osoigo (All offers are remote) [Open positions](https://www.linkedin.com/company/osoigo/jobs/)
