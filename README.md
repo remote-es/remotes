@@ -290,6 +290,7 @@ The following companies offer remote jobs and hire in Spain:
 * Qatium [Open positions](https://qatium.recruitee.com/)
 * QCentroid [Open positions](https://www.linkedin.com/company/qcentroidlab/jobs/)
 * Qonto [Open positions](https://jobs.lever.co/qonto?workplaceType=remote)
+* Qualifyze (View individual job offers to check for remote) [Open positions](https://qualifyzegmbh.recruitee.com/job-list)
 * QuestDB [Open positions](https://questdb.io/careers/)
 * Rand [Open positions](https://www.linkedin.com/company/rand-app/jobs/)
 * RapidAnd [Open positions](https://www.linkedin.com/company/rapidand/jobs/)
