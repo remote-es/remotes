@@ -143,6 +143,7 @@ The following companies offer remote jobs and hire in Spain:
 * Chess.com [Open positions](https://www.chess.com/jobs)
 * Ciklum (View individual job offers to check for remote) [Open positions](https://jobs.ciklum.com/jobs/?country=spain&working_type=Remote)
 * CitNOW [Open positions](https://www.citnow.com/about/careers/)
+* Civo [Open positions](https://careers.civo.com/jobs?remote_status_id=fully&query=)
 * Clarity AI [Open positions](https://apply.workable.com/clarity-ai/)
 * Clarivate [Open positions](https://www.linkedin.com/jobs/search/?keywords=clarivate)
 * Clidrive (All technical offers are remote) [Open positions](https://clidrive.jobs.personio.com/)
