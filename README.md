@@ -381,6 +381,13 @@ The following sites list remote jobs. Some offers list explicitly Spain, which l
 * Jobgether [Open positions](https://jobgether.com/search/remote-job-spain-remote-work-jobgether)
 * levels.fyi [Open positions](https://www.levels.fyi/jobs/location/spain?locationSlug=spain)
 
+You can search for legal entities in Spain using tools like <https://opendata.registradores.org/directorio>.
+This might give you some clues whether a company offers a Spanish contract.
+However:
+
+* A company offering Spanish contracts might do so under a third party or the legal entity might not match the company name in the offer.
+* Even if a company has a Spanish legal entity, they might still not offer Spanish contracts.
+
 # Related projects
 
 * Italy [Awesome Italia Remote](https://github.com/italiaremote/awesome-italia-remote)
