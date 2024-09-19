@@ -218,6 +218,7 @@ The following companies offer remote jobs and hire in Spain:
 * Intelygenz (View individual job offers to check for remote) [Open positions](https://intelygenz.com/join-us/#careers)
 * Iomob [Open positions](https://angel.co/company/iomob/jobs)
 * jobandtalent (All technical offers are remote) [Open positions](https://jobandtalent.bamboohr.com/jobs/)
+* Jotelulu [Open positions](https://www.linkedin.com/company/jotelulu/jobs/)
 * JW Player [Open positions](https://jwplayer.com/careers/job-openings/)
 * Kahoot! [Open positions](https://apply.workable.com/kahoot/)
 * Kariboo (All offers are remote) [Open positions](https://kariboo.talentclue.com/es/multiposting-sl-kariboo)
