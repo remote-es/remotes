@@ -198,6 +198,7 @@ The following companies offer remote jobs and hire in Spain:
 * Genie [Open positions](https://genieframework.com/careers/index.html?#open-positions)
 * Giant Swarm [Open positions](https://www.giantswarm.io/careers)
 * GiG [Open positions](https://apply.workable.com/gig-6/#jobs)
+* Gigson Solutions [Open positions](https://www.linkedin.com/company/gigson-solutions/jobs/)
 * GitHub [Open positions](https://github.com/about/careers)
 * Globant (offers with "Work in the city you want" are remote) [Open positions](https://career.globant.com/search/?optionsFacetsDD_country=ES)
 * Gofore (monthly travels to Madrid) (View individual job offers to check for remote) [Open positions](https://gofore.com/en/careers)
