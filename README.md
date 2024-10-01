@@ -303,6 +303,7 @@ The following companies offer remote jobs and hire in Spain:
 * Red Points [Open positions](https://www.redpoints.com/jobs/)
 * Remote [Open positions](https://boards.greenhouse.io/remotecom)
 * RevenueCat [Open positions](https://www.revenuecat.com/careers/)
+* Revolut (Remote first, fluent English required) [Open positions](https://revolut.la/es_remote_github)
 * Ritmo [Open positions](https://ritmo.jobs.personio.com/?language=es)
 * SEAT:CODE [Open positions](https://code.seat/about/#open-positions)
 * Science4Tech (All offers are remote) [Open positions](https://www.linkedin.com/company/science4tech/jobs/)
