@@ -211,6 +211,7 @@ The following companies offer remote jobs and hire in Spain:
 * Hotjar (All offers are remote) [Open positions](https://careers.hotjar.com/)
 * HUBUC [Open positions](https://careers.hubuc.com/)
 * humanITcare [Open positions](https://www.linkedin.com/company/humanitcare/jobs/)
+* Idoven [Open positions](https://apply.workable.com/idoven/)
 * ifeel [Open positions](https://www.linkedin.com/company/ifeelonline/jobs/)
 * Igalia [Open positions](https://www.igalia.com/jobs/)
 * Immfly [Open positions](https://immfly.viterbit.site/)
