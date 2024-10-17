@@ -120,7 +120,6 @@ The following companies offer remote jobs and hire in Spain:
 * AtomicJar [Open positions](https://www.atomicjar.com/careers/)
 * Audiense [Open positions](http://aboutus.audiense.com/careers)
 * Automattic [Open positions](https://automattic.com/work-with-us/)
-* Back Market [Open positions](https://jobs.lever.co/backmarket?location=Barcelona&commitment=PERMANENT%20CONTRACT%20%28FULL-TIME%29)
 * Bankflip (All offers are remote) [Open positions](https://www.linkedin.com/company/bankflip/jobs/)
 * BCNC Group [Open positions](https://www.linkedin.com/company/bcncgroup/jobs/)
 * BeBanjo [Open positions](https://bebanjo.com/careers)
