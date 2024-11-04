@@ -245,6 +245,7 @@ The following companies offer remote jobs and hire in Spain:
 * Learnlife [Open positions](https://learnlife.com/work-with-us)
 * Localistico [Open positions](https://angel.co/company/localistico)
 * Mailtrack [Open positions](https://mailtrack.io/blog/tag/jobs/)
+* maisa AI [Open positions](https://maisa.ai/careers)
 * Marsbased [Open positions](https://marsbased.com/es/jobs/)
 * Matchday [Open positions](https://matchday.notion.site/Careers-Matchday-91ca424701e446bf825c05388d638340)
 * mediasmart [Open positions](https://info.mediasmart.io/careers)
