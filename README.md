@@ -271,6 +271,7 @@ The following companies offer remote jobs and hire in Spain:
 * Noddus [Open positions](https://www.enterprise.noddus.com/careers)
 * Nuclia [Open positions](https://nuclia.com/careers/)
 * Nucoro [Open positions](https://www.nucoro.com/careers)
+* Octopus Energy [Open positions](https://octopus.energy/careers/join-us/#/?location=Remote%2C%20ES)
 * Odilo (View individual job offers to check for remote) [Open positions](https://careers.odilo.us/jobs)
 * Okta/Auth0 [Open positions](https://www.okta.com/company/careers/#careers-job-postings?department=All&location=4341)
 * Oliva [Open positions](https://apply.workable.com/oliva1/)
