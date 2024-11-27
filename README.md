@@ -194,7 +194,7 @@ The following companies offer remote jobs and hire in Spain:
 * Fresco [Open positions](https://frescocooks.com/careers#open-jobs)
 * Frogtek [Open positions](https://developing.frogtek.org/trabaja-con-nosotros/)
 * Genially (All offers are remote) [Open positions](https://genial.ly/es/unete-al-equipo/#wearehiring)
-* Genie [Open positions](https://genieframework.com/careers/index.html?#open-positions)
+* Genie [Open positions](https://www.linkedin.com/company/geniecorp/jobs/)
 * Giant Swarm [Open positions](https://www.giantswarm.io/careers)
 * GiG [Open positions](https://apply.workable.com/gig-6/#jobs)
 * Gigson Solutions [Open positions](https://www.linkedin.com/company/gigson-solutions/jobs/)
