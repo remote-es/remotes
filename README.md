@@ -339,6 +339,7 @@ The following companies offer remote jobs and hire in Spain:
 * The Knot Worldwide [Open positions](https://www.theknotww.com/careers-view-all-jobs/)
 * TheyDo [Open positions](https://www.theydo.com/careers)
 * Tinybird [Open positions](https://www.tinybird.co/about#join-us)
+* Treatwell (All techincal offers are remote) [Open positions](https://apply.workable.com/treatwell/)
 * Trialing (View individual job offers to check for remote) [Open positions](https://www.linkedin.com/company/trialing/jobs/)
 * Tribaldata [Open positions](https://www.linkedin.com/company/tribaldata/jobs/)
 * TROOP [Open positions](https://apply.workable.com/troop-1/)
