@@ -105,7 +105,6 @@ The following companies offer remote jobs and hire in Spain:
 
 * 11Onze [Open positions](https://11onze.breezy.hr/)
 * ABA English [Open positions](https://aba-english.factorialhr.es/)
-* Alan [Open positions](https://jobs.lever.co/alan?department=Product&team=Engineering)
 * Affirm [Open positions](https://boards.greenhouse.io/affirm/)
 * Akamai [Open positions](https://akamaicareers.inflightcloud.com/)
 * Alhona (All offers are remote) [Open positions](https://www.linkedin.com/company/alhona-smart-industry/jobs/)
