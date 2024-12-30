@@ -248,6 +248,7 @@ The following companies offer remote jobs and hire in Spain:
 * maisa AI [Open positions](https://maisa.ai/careers)
 * Marsbased [Open positions](https://marsbased.com/es/jobs/)
 * Matchday [Open positions](https://matchday.notion.site/Careers-Matchday-91ca424701e446bf825c05388d638340)
+* Maze [Open positions](https://jobs.ashbyhq.com/mazedesign?locationId=1553eb2e-0d49-4722-8bc6-7a850ce5d98b)
 * mediasmart [Open positions](https://info.mediasmart.io/careers)
 * Meta [Open positions](https://www.facebookcareers.com/jobs/?offices[0]=Remote%2C%20Spain)
 * Mitek [Open positions](https://jobs.lever.co/miteksystems-2)
