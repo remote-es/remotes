@@ -115,7 +115,6 @@ The following companies offer remote jobs and hire in Spain:
 * Aplanet [Open positions](https://aplanet.org/careers/)
 * Aplazame (All offers are remote) [Open positions](https://www.linkedin.com/company/aplazame/jobs/)
 * Appwrite [Open positions](https://appwrite.io/company/careers)
-* Aratech [Open positions](https://aratech.viterbit.site/#jobs-OUTc)
 * AREX Markets (All offers are remote) [Open positions](https://apply.workable.com/arex/)
 * AtomicJar [Open positions](https://www.atomicjar.com/careers/)
 * Audiense [Open positions](http://aboutus.audiense.com/careers)
