@@ -208,7 +208,6 @@ The following companies offer remote jobs and hire in Spain:
 * haddock [Open positions](https://jobs.haddock.app/)
 * Hakuna (All offers are remote) [Open positions](https://hakuna.jobs.personio.de/)
 * HelloBetter [Open positions](https://geton.jobs.personio.de/)
-* Hopin [Open positions](https://hopin.com/careers)
 * Hotjar (All offers are remote) [Open positions](https://careers.hotjar.com/)
 * HUBUC [Open positions](https://careers.hubuc.com/)
 * humanITcare [Open positions](https://www.linkedin.com/company/humanitcare/jobs/)
