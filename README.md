@@ -349,6 +349,7 @@ The following companies offer remote jobs and hire in Spain:
 * Unleash [Open positions](https://cord.co/u/13419-unleash)
 * UserZoom [Open positions](https://www.userzoom.com/careers?uuid=elia)
 * Verbio (View individual job offers to check for remote) [Open positions](https://www.verbio.com/careers/)
+* Veriff [Open positions](https://www.veriff.com/careers/open-positions)
 * VIDA.place [Open positions](https://vida-place.jobs.personio.de/)
 * VideoAsk (All offers are remote) [Open positions](https://www.linkedin.com/company/videoask/jobs/)
 * Vinissimus [Open positions](https://www.linkedin.com/company/vinissimus/jobs/)
