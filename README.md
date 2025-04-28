@@ -178,6 +178,7 @@ The following companies offer remote jobs and hire in Spain:
 * Element [Open positions](https://element.io/careers)
 * Empathy.co [Open positions](https://www.empathy.co/company/careers/)
 * Ensemble IP [Open positions](https://ensembleip.bamboohr.com/careers)
+* envelio [Open positions](https://envelio.com/career#jobs-en)
 * Eugen [Open positions](https://www.linkedin.com/company/eugen-solutions/jobs/)
 * ExpressVPN [Open positions](https://www.expressvpn.com/jobs/job-openings)
 * Eyeseetea [Open positions](https://eyeseetea.com/eyeseetea-careers-open-positions/)
