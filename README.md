@@ -338,7 +338,7 @@ The following companies offer remote jobs and hire in Spain:
 * Teamwire [Open positions](https://teamwire.eu/en/careers/)
 * TecnoFor [Open positions](https://tecnofor.es/trabajaconnosotros/)
 * The Hotels Network (View individual job offers to check for remote) [Open positions](https://info.thehotelsnetwork.com/en/careers)
-* The Knot Worldwide [Open positions](https://www.theknotww.com/careers-view-all-jobs/)
+* The Knot Worldwide [Open positions](https://job-boards.greenhouse.io/theknotworldwide?offices%5B%5D=4035807008)
 * TheyDo [Open positions](https://www.theydo.com/careers)
 * Tinybird [Open positions](https://www.tinybird.co/about#join-us)
 * Treatwell (All techincal offers are remote) [Open positions](https://apply.workable.com/treatwell/)
