@@ -268,6 +268,7 @@ The following companies offer remote jobs and hire in Spain:
 * Neutroon [Open positions](https://www.neutroon.com/career)
 * Nexiona (monthly travels to the HQ in Barcelona) [Open positions](https://angel.co/company/nexiona/jobs)
 * Nextail [Open positions](https://nextaillabs.recruitee.com/)
+* Next Matter [Open positions](https://www.nextmatter.com/careers)
 * Next Digital [Open positions](https://www.linkedin.com/company/nextdigitalhub/jobs/)
 * New Relic [Open positions](https://newrelic.careers/en_US/careers/SearchJobs/?3141=162612&3141_format=2271&listFilterMode=1&jobRecordsPerPage=20&)
 * New Work SE (All offers are remote) [Open positions](https://www.new-work.se/en/career/vacancies)
