@@ -270,7 +270,6 @@ The following companies offer remote jobs and hire in Spain:
 * New Relic [Open positions](https://newrelic.careers/en_US/careers/SearchJobs/?3141=162612&3141_format=2271&listFilterMode=1&jobRecordsPerPage=20&)
 * New Work SE (All offers are remote) [Open positions](https://www.new-work.se/en/career/vacancies)
 * Noddus [Open positions](https://www.enterprise.noddus.com/careers)
-* Nuclia [Open positions](https://nuclia.com/careers/)
 * Octopus Energy [Open positions](https://octopus.energy/careers/join-us/#/?location=Remote%2C%20ES)
 * Odilo (View individual job offers to check for remote) [Open positions](https://careers.odilo.us/jobs)
 * Okta/Auth0 [Open positions](https://www.okta.com/company/careers/#careers-job-postings?department=All&location=4341)
