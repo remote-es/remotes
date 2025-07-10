@@ -292,7 +292,7 @@ The following companies offer remote jobs and hire in Spain:
 * Psonrie [Open positions](https://www.linkedin.com/company/psonrie/jobs/) (all technical jobs are remote)
 * Product Hackers [Open positions](https://producthackers.teamtailor.com/jobs)
 * PSPDFKit [Open positions](https://pspdfkit.com/company/careers/)
-* Qatium [Open positions](https://qatium.recruitee.com/)
+* Qatium [Open positions](https://qatium.com/about/)
 * QCentroid [Open positions](https://www.linkedin.com/company/qcentroidlab/jobs/)
 * Qonto [Open positions](https://jobs.lever.co/qonto?workplaceType=remote)
 * Qualifyze (View individual job offers to check for remote) [Open positions](https://qualifyzegmbh.recruitee.com/job-list)
