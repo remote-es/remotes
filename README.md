@@ -130,7 +130,7 @@ The following companies offer remote jobs and hire in Spain:
 * BMAT [Open positions](https://www.bmat.com/careers/)
 * Boats Group [Open positions](https://www.boatsgroup.com/careers/)
 * Booksy [Open positions](https://apply.workable.com/booksy-1/)
-* Brainly (All offers are remote) [Open positions](https://careers.brainly.com/open-positions/)
+* Brainly (All offers are remote) [Open positions](https://jobs.ashbyhq.com/brainly)
 * Bravo Studio [Open positions](https://www.bravostudio.app/careers)
 * BRYTER [Open positions](https://bryter.com/careers/)
 * Cabify [Open positions](https://cabify.com/es/jobs)
