@@ -290,7 +290,7 @@ The following companies offer remote jobs and hire in Spain:
 * Plytix [Open positions](https://www.plytix.com/careers)
 * Postman [Open positions](https://www.postman.com/company/careers/open-positions/)
 * Psonrie [Open positions](https://www.linkedin.com/company/psonrie/jobs/) (all technical jobs are remote)
-* Product Hackers (All offers are remote) [Open positions](https://producthackers.recruitee.com/)
+* Product Hackers [Open positions](https://producthackers.teamtailor.com/jobs)
 * PSPDFKit [Open positions](https://pspdfkit.com/company/careers/)
 * Qatium [Open positions](https://qatium.recruitee.com/)
 * QCentroid [Open positions](https://www.linkedin.com/company/qcentroidlab/jobs/)
