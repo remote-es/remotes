@@ -263,7 +263,6 @@ The following companies offer remote jobs and hire in Spain:
 * Monkey Taps [Open positions](https://monkeytaps.notion.site/Monkey-Taps-Job-Board-2ce7da50adff460093fd1eb46f5c9056)
 * Mozilla [Open positions](https://www.mozilla.org/en-US/careers/listings/?location=Remote%20Spain)
 * Mr.Milú (All offers are remote) [Open positions](https://mrmilu.com/talento)
-* Neutroon [Open positions](https://www.neutroon.com/career)
 * Nexiona (monthly travels to the HQ in Barcelona) [Open positions](https://angel.co/company/nexiona/jobs)
 * Nextail [Open positions](https://nextaillabs.recruitee.com/)
 * Next Matter [Open positions](https://www.nextmatter.com/careers)
