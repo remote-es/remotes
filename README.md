@@ -118,7 +118,6 @@ The following companies offer remote jobs and hire in Spain:
 * Appwrite [Open positions](https://appwrite.io/company/careers)
 * Aratech [Open positions](https://aratech.viterbit.site/#jobs-OUTc)
 * AREX Markets (All offers are remote) [Open positions](https://apply.workable.com/arex/)
-* AtomicJar [Open positions](https://www.atomicjar.com/careers/)
 * Audiense [Open positions](http://aboutus.audiense.com/careers)
 * Automattic [Open positions](https://automattic.com/work-with-us/)
 * Bankflip (All offers are remote) [Open positions](https://www.linkedin.com/company/bankflip/jobs/)
