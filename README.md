@@ -279,6 +279,7 @@ The following companies offer remote jobs and hire in Spain:
 * Onna (All offers are remote) [Open positions](https://onna.com/careers#jobopenings)
 * OpenSistemas (All offers are remote) [Open positions](https://opensistemas.com/category/empleo/)
 * Osoigo (All offers are remote) [Open positions](https://www.linkedin.com/company/osoigo/jobs/)
+* Papaya [Open positions](https://apply.workable.com/papayadash/)
 * Parkos [Open positions](https://jobs.parkos.com/jobs?remote_status_id=fully&query=)
 * PayFit (All offers are remote) [Open positions](https://payfit.com/en/careers/)
 * PcComponentes [Open positions](https://www.pccomponentes.com/trabaja-con-nosotros)
