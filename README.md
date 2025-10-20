@@ -188,6 +188,7 @@ The following companies offer remote jobs and hire in Spain:
 * Fastly [Open positions](https://www.fastly.com/about/careers)
 * FCM Lab (View individual job offers to check for remote) [Open positions](https://fcm-business-travel-lab-sl.factorialhr.es/#jobs)
 * Fever [Open positions](https://careers.feverup.com/apply)
+* FitXR [Open positions](https://fitxr-1642768457.teamtailor.com/jobs
 * Flywire [Open positions](https://www.flywire.com/company/careers)
 * ForceManager [Open positions](https://forcemanager.bamboohr.com/jobs/)
 * Form3 [Open positions](https://form3.tech/careers)
