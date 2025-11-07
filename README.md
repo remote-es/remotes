@@ -248,6 +248,7 @@ The following companies offer remote jobs and hire in Spain:
 * Linux Foundation [Open positions](https://www.linuxfoundation.org/careers#positions)
 * Learnlife [Open positions](https://learnlife.com/work-with-us)
 * Localistico [Open positions](https://angel.co/company/localistico)
+* Lodgify [Open positions](https://www.lodgify.com/careers)
 * Mailtrack [Open positions](https://mailtrack.io/blog/tag/jobs/)
 * maisa AI [Open positions](https://maisa.ai/careers)
 * Marsbased [Open positions](https://marsbased.com/es/jobs/)
