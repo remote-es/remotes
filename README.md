@@ -120,7 +120,6 @@ The following companies offer remote jobs and hire in Spain:
 * AREX Markets (All offers are remote) [Open positions](https://apply.workable.com/arex/)
 * Audiense [Open positions](http://aboutus.audiense.com/careers)
 * Automattic [Open positions](https://automattic.com/work-with-us/)
-* Bankflip (All offers are remote) [Open positions](https://www.linkedin.com/company/bankflip/jobs/)
 * BCNC Group [Open positions](https://www.linkedin.com/company/bcncgroup/jobs/)
 * BeBanjo [Open positions](https://bebanjo.com/careers)
 * Belvo [Open positions](https://angel.co/company/belvo/jobs)
