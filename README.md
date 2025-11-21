@@ -133,7 +133,6 @@ The following companies offer remote jobs and hire in Spain:
 * Bravo Studio [Open positions](https://www.bravostudio.app/careers)
 * BRYTER [Open positions](https://bryter.com/careers/)
 * Cabify [Open positions](https://cabify.com/es/jobs)
-* Camaloon [Open positions](https://careers.camaloon.com/jobs?remote_status_id=fully&query=)
 * Capchase [Open positions](https://jobs.ashbyhq.com/capchase)
 * Canonical [Open positions](https://canonical.com/careers/all?location=emea)
 * CARTO [Open positions](https://carto.com/careers/)
