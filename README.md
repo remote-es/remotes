@@ -377,6 +377,26 @@ The following companies offer remote jobs and hire in Spain:
 * ZenRows (All offers are remote) [Open positions](https://apply.workable.com/zenrows/)
 * Zubi Group [Open positions](https://apply.workable.com/zubi-group/)
 
+# Role Categories
+
+> Note: Most companies don't explicitly list job titles in this README. This is research based on company types and known hiring patterns.
+
+## Sysadmin / System Administrator
+
+- Akamai, Canonical, Cloudbees, Datadog, Eclipse Foundation, Elastic, GitHub, Grafana, ING, Linux Foundation, Sysdig
+
+## Developer (General)
+
+- 11Onze, Affirm, Akamai, Alan, Appwrite, BeBanjo, Belvo, Brainly, Cabify, CARTO, Civo, Clarity AI, Cloudbees, Codurance, Copado, Docker, Elastic, Eventbrite, Factorial, Fastly, GitHub, Grafana, jobandtalent, Lang.ai, Landbot, Lingokids, Maze, Playtomic, Postman, Qonto, Red Hat, Revolut, Shopify, Sketch, Sololearn, Spotahome, Spotify, Typeform, Vizzuality, Wallbox, Wizeline, Zapier
+
+## AI / Machine Learning
+
+- 11Onze, Clarity AI, Edge Impulse, Lang.ai, Lingokids
+
+## DevOps Engineer
+
+- Akamai, Canonical, Civo, Cloudbees, Copado, Datadog, Docker, Elastic, Fastly, Giant Swarm, Grafana, Octopus Energy, Sysdig, Wizeline
+
 # Others
 
 The following links might be useful if you are looking for a remote position in Spain.
