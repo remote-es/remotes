@@ -128,7 +128,7 @@ The following companies offer remote jobs and hire in Spain:
 * Booksy [Open positions](https://apply.workable.com/booksy-1/)
 * Brainly (All offers are remote) [Open positions](https://jobs.ashbyhq.com/brainly)
 * Bravo Studio [Open positions](https://www.bravostudio.app/careers)
-* BRYTER [Open positions](https://bryter.com/careers/)
+* BRYTER [Open positions](https://bryter.com/careers/#h-open-positions)
 * Cabify [Open positions](https://cabify.com/es/jobs)
 * Capchase [Open positions](https://jobs.ashbyhq.com/capchase)
 * Canonical [Open positions](https://canonical.com/careers/all?location=emea)
