@@ -119,7 +119,7 @@ The following companies offer remote jobs and hire in Spain:
 * Automattic [Open positions](https://automattic.com/work-with-us/)
 * BCNC Group [Open positions](https://www.linkedin.com/company/bcncgroup/jobs/)
 * BeBanjo [Open positions](https://bebanjo.com/careers)
-* Belvo [Open positions](https://angel.co/company/belvo/jobs)
+* Belvo [Open positions](https://belvo.com/careers/#explore-positions)
 * BestSecret [Open positions](https://jobs.bestsecret.com/en/jobs.html?location=Granada)
 * Big Blue Analytics (All offers are remote) [Open positions](https://bigblueanalytics.com/hiring/)
 * Blacklane [Open positions](https://boards.greenhouse.io/blacklane)
