@@ -150,7 +150,7 @@ The following companies offer remote jobs and hire in Spain:
 * Codurance (View individual job offers to check for remote) (Core office hours/overlap between 10:00 and 17:00 CEST) [Open positions](https://www.codurance.com/careers/current-roles?hsCtaTracking=fd7530a4-dec7-4756-a255-81b5624a506b%7Ca53de7f3-e646-4f7b-997a-28f786445c95)
 * Colvin (All offers are remote) [Open positions](https://www.linkedin.com/company/colvin/jobs/)
 * Confluent (All offers are remote) [Open positions](https://www.confluent.io/careers/)
-* Coopdevs (All offers are remote) [Open positions](https://odoo.coopdevs.org/jobs)
+* Coopdevs (All offers are remote) [Open positions](https://coopdevs.org/en/jobs)
 * Copado [Open positions](https://www.copado.com/careers/#openpositions)
 * Cosuno [Open positions](https://www.cosuno.com/company#careers)
 * Crisis Text Line [Open positions](https://boards.greenhouse.io/crisistextline86)
