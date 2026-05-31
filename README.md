@@ -153,7 +153,7 @@ The following companies offer remote jobs and hire in Spain:
 * Coopdevs (All offers are remote) [Open positions](https://coopdevs.org/en/jobs)
 * Copado [Open positions](https://www.copado.com/careers/#openpositions)
 * Cosuno [Open positions](https://www.cosuno.com/company#careers)
-* Crisis Text Line [Open positions](https://boards.greenhouse.io/crisistextline86)
+* Crisis Text Line [Open positions](https://www.crisistextline.org/careers/)
 * Cvent [Open positions](https://careers.cvent.com/jobs?locations=Virtual,,Spain&page=1)
 * Damavis (All offers are remote) [Open positions](https://damavis.com/es/jobs)
 * damecode [Open positions](https://www.linkedin.com/company/damecode/jobs/)
