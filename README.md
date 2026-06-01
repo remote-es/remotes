@@ -162,7 +162,7 @@ The following companies offer remote jobs and hire in Spain:
 * Devo (All positions in Spain are remote) [Open positions](https://www.devo.com/careers/open-positions/)
 * dLocal [Open positions](https://jobs.lever.co/dlocal?location=Spain%20%28Remote%29)
 * Docker [Open positions](https://www.docker.com/career-openings/)
-* DocPlanner [Open positions](https://www.docplanner.com/career)
+* DocPlanner [Open positions](https://jobs.ashbyhq.com/docplanner)
 * Dragonfly [Open positions](https://www.wearedragonfly.co/careers)
 * Ebury [Open positions](https://careers.ebury.com/)
 * Eclipse Foundation [Open positions](https://eclipsefoundation.applytojob.com/apply)
