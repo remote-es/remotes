@@ -208,7 +208,7 @@ The following companies offer remote jobs and hire in Spain:
 * HolidayPirates [Open positions](https://holidaypirates.jobs.personio.de/)
 * HUBUC [Open positions](https://careers.hubuc.com/)
 * humanITcare [Open positions](https://www.linkedin.com/company/humanitcare/jobs/)
-* Idoven [Open positions](https://apply.workable.com/idoven/)
+* Idoven (View individual job offers to check for remote) [Open positions](https://apply.workable.com/idoven/)
 * ifeel [Open positions](https://www.linkedin.com/company/ifeelonline/jobs/)
 * Igalia [Open positions](https://www.igalia.com/jobs/)
 * Immfly [Open positions](https://immfly.viterbit.site/)
