@@ -226,7 +226,7 @@ The following companies offer remote jobs and hire in Spain:
 * Knack [Open positions](https://knack.pinpointhq.com/en?location_id=%5B9300%5D)
 * Kodify [Open positions](https://kodify.recruitee.com/#section-26652)
 * LambdaLoopers [Open positions](https://www.linkedin.com/company/lambdaloopers/jobs/)
-* Lana [Open positions](https://boards.greenhouse.io/lana/)
+* Lana [Open positions](https://lana.dev/careers)
 * Landbot (All offers are remote) [Open positions](https://jobs.landbot.io/)
 * Lang.ai [Open positions](https://www.linkedin.com/company/lang-ai/jobs/)
 * LanguageWire (All technical offers are remote) [Open positions](https://apply.workable.com/languagewire/)
