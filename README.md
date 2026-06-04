@@ -252,7 +252,7 @@ The following companies offer remote jobs and hire in Spain:
 * Meta [Open positions](https://www.facebookcareers.com/jobs/?offices[0]=Remote%2C%20Spain)
 * Mitek [Open positions](https://jobs.lever.co/miteksystems-2)
 * Mixmax [Open positions](https://www.mixmax.com/careers)
-* mlean [Open positions](https://mlean.jobs.personio.com/)
+* mlean [Open positions](https://www.mlean.com/careers/)
 * modo [Open positions](https://doc.clickup.com/p/h/4aw7y-533/ff8c70b304156ba/4aw7y-533)
 * Mood [Open positions](https://mood.breezy.hr/)
 * MONEI [Open positions](https://monei.com/page/we-are-hiring/)
