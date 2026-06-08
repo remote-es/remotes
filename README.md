@@ -278,7 +278,7 @@ The following companies offer remote jobs and hire in Spain:
 * Parkos [Open positions](https://jobs.parkos.com/jobs?remote_status_id=fully&query=)
 * PayFit (All offers are remote) [Open positions](https://careers.payfit.com/jobs)
 * PcComponentes [Open positions](https://www.pccomponentes.com/trabaja-con-nosotros)
-* Pearson [Open positions](https://pearson.jobs/jobs/)
+* Pearson [Open positions](https://pearson.jobs/locations/esp/workplace-type/remote/jobs/)
 * Phiture [Open positions](https://boards.eu.greenhouse.io/phiture)
 * Plain Concepts [Open positions](https://www.plainconcepts.com/careers/)
 * PlanetScale [Open positions](https://planetscale.com/careers)
