@@ -276,7 +276,7 @@ The following companies offer remote jobs and hire in Spain:
 * Osoigo (All offers are remote) [Open positions](https://www.linkedin.com/company/osoigo/jobs/)
 * Papaya [Open positions](https://papayadash.com/join-us)
 * Parkos [Open positions](https://jobs.parkos.com/jobs?remote_status_id=fully&query=)
-* PayFit (All offers are remote) [Open positions](https://payfit.com/en/careers/)
+* PayFit (All offers are remote) [Open positions](https://careers.payfit.com/jobs)
 * PcComponentes [Open positions](https://www.pccomponentes.com/trabaja-con-nosotros)
 * Pearson [Open positions](https://pearson.jobs/jobs/)
 * Phiture [Open positions](https://boards.eu.greenhouse.io/phiture)
