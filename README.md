@@ -282,7 +282,7 @@ The following companies offer remote jobs and hire in Spain:
 * Phiture [Open positions](https://boards.eu.greenhouse.io/phiture)
 * Plain Concepts [Open positions](https://www.plainconcepts.com/careers/)
 * PlanetScale [Open positions](https://planetscale.com/careers)
-* Playtomic [Open positions](https://playtomic.jobs.personio.com)
+* Playtomic [Open positions](https://playtomic.factorial.es/)
 * Plexus Tech [Open positions](https://www.plexus.es/en/join-the-team/)
 * Plytix [Open positions](https://www.plytix.com/careers)
 * Postman [Open positions](https://www.postman.com/company/careers/open-positions/)
