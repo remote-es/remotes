@@ -323,7 +323,7 @@ The following companies offer remote jobs and hire in Spain:
 * Sololearn [Open positions](https://sololearn.bamboohr.com/jobs/)
 * Spotahome (All offers are remote) [Open positions](https://rent.spotahome.com/work-with-us)
 * Spotify [Open positions](https://www.lifeatspotify.com/jobs?l=remote-emea)
-* Stayforlong (All offers are remote) [Open positions](https://www.linkedin.com/company/stayforlong/jobs/)
+* Stayforlong (All offers are remote) [Open positions](https://careers.stayforlong.com/jobs)
 * Stream [Open positions](https://jobs.ashbyhq.com/stream?locationId=02591825-8f5d-4cda-80c8-de174c7b41d6)
 * Stuart [Open positions](https://stuart.com/careers/)
 * Syntax Information Technology [Open positions](https://www.linkedin.com/jobs/search/?currentJobId=3272272809&f_C=2978930&geoId=92000000)
