@@ -307,7 +307,7 @@ The following companies offer remote jobs and hire in Spain:
 * RoomPriceGenie [Open positions](https://roompricegenie.com/careers/#jobs)
 * SEAT:CODE [Open positions](https://www.linkedin.com/company/seatcode/jobs/)
 * Science4Tech (All offers are remote) [Open positions](https://www.linkedin.com/company/science4tech/jobs/)
-* Seedtag [Open positions](https://seedtag.breezy.hr/)
+* Seedtag [Open positions](https://jobs.seedtag.com/jobs)
 * sennder (All technical offers are remote) [Open positions](https://www.sennder.com/open-positions?gh_src=04e6eaae2us)
 * Sensor Tower [Open positions](https://jobs.lever.co/sensortower)
 * Seqera [Open positions](https://seqera.io/careers/)
