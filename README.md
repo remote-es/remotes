@@ -298,7 +298,6 @@ The following companies offer remote jobs and hire in Spain:
 * rainmakers [Open positions](https://www.werainmakers.com/trabaja-en-rainmakers)
 * Rand [Open positions](https://www.linkedin.com/company/rand-app/jobs/)
 * RapidAnd [Open positions](https://www.linkedin.com/company/rapidand/jobs/)
-* RatedPower [Open positions](https://ratedpower.com/careers/)
 * Red Hat [Open positions](https://www.redhat.com/en/jobs)
 * Red Points [Open positions](https://www.redpoints.com/jobs/)
 * Remote [Open positions](https://boards.greenhouse.io/remotecom)
