@@ -319,7 +319,7 @@ The following companies offer remote jobs and hire in Spain:
 * Sketch [Open positions](https://www.sketch.com/jobs/)
 * Slite [Open positions](https://slite.com/)
 * SMART Technologies [Open positions](https://smarttech.com/careers)
-* Sngular (View individual job offers to check for remote) [Open positions](https://www.sngular.com/es/ofertas/espana/all/)
+* Sngular (View individual job offers to check for remote) [Open positions](https://www.sngular.com/talent-and-culture/jobs)
 * Sololearn [Open positions](https://sololearn.bamboohr.com/jobs/)
 * Spotahome (All offers are remote) [Open positions](https://rent.spotahome.com/work-with-us)
 * Spotify [Open positions](https://www.lifeatspotify.com/jobs?l=remote-emea)
