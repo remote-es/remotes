@@ -330,7 +330,7 @@ The following companies offer remote jobs and hire in Spain:
 * Syntax Information Technology [Open positions](https://www.linkedin.com/jobs/search/?currentJobId=3272272809&f_C=2978930&geoId=92000000)
 * Sysdig [Open positions](https://sysdig.com/jobs/)
 * Taxfix [Open positions](https://taxfix.com/es-es/unete-al-equipo/)
-* TBSCG [Open positions](https://www.linkedin.com/company/tbscg/jobs/)
+* TBSCG [Open positions](https://www.tbscg.com/about/careers.html)
 * Teamwire [Open positions](https://teamwire.eu/en/careers/)
 * TecnoFor [Open positions](https://tecnofor.es/trabajaconnosotros/)
 * The Hotels Network (View individual job offers to check for remote) [Open positions](https://info.thehotelsnetwork.com/en/careers)
