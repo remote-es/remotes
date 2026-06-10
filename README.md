@@ -349,7 +349,6 @@ The following companies offer remote jobs and hire in Spain:
 * UserTesting [Open positions](https://www.usertesting.com/company/careers)
 * Veriff [Open positions](https://www.veriff.com/careers/open-positions)
 * VIDA.place [Open positions](https://vida-place.jobs.personio.de/)
-* VideoAsk (All offers are remote) [Open positions](https://www.linkedin.com/company/videoask/jobs/)
 * Vinissimus [Open positions](https://www.linkedin.com/company/vinissimus/jobs/)
 * ViewNext [Open positions](https://www.linkedin.com/company/viewnext/jobs/)
 * Vistaprint (All offers are remote) [Open positions](https://jobs.vista.com/Vista/go/Vista-All/8835100/?q=&q2=&alertId=&locationsearch=&title=&shifttype=&facility=Remote&department=)
