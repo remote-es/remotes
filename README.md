@@ -332,7 +332,7 @@ The following companies offer remote jobs and hire in Spain:
 * Taxfix [Open positions](https://taxfix.com/es-es/unete-al-equipo/)
 * TBSCG [Open positions](https://www.tbscg.com/about/careers.html)
 * Teamwire [Open positions](https://teamwire.eu/en/careers/)
-* TecnoFor [Open positions](https://tecnofor.es/trabajaconnosotros/)
+* TecnoFor [Open positions](https://tecnofor.es/trabaja-con-nosotros/)
 * The Hotels Network (View individual job offers to check for remote) [Open positions](https://info.thehotelsnetwork.com/en/careers)
 * The Knot Worldwide [Open positions](https://job-boards.greenhouse.io/theknotworldwide?offices%5B%5D=4035807008)
 * TheyDo [Open positions](https://www.theydo.com/careers)
