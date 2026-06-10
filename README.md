@@ -352,7 +352,7 @@ The following companies offer remote jobs and hire in Spain:
 * Vinissimus [Open positions](https://www.linkedin.com/company/vinissimus/jobs/)
 * ViewNext [Open positions](https://www.linkedin.com/company/viewnext/jobs/)
 * Vistaprint (All offers are remote) [Open positions](https://jobs.vista.com/Vista/go/Vista-All/8835100/?q=&q2=&alertId=&locationsearch=&title=&shifttype=&facility=Remote&department=)
-* Vitaance (Monthly trips to Barcelona/Madrid) [Open positions](https://vitaance.jobs.personio.com/)
+* Vitaance (Monthly trips to Barcelona/Madrid) [Open positions](https://www.vitaance.com/careers/)
 * Vizzuality (All offers are remote) [Open positions](https://vizzuality.bamboohr.com/jobs/)
 * VMware, Inc. (All technical offers are remote) [Open positions](https://careers.vmware.com/location/jobs?country=ESP%7CSpain)
 * Voicemod [Open positions](https://voicemod.breezy.hr/)
