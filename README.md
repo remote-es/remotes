@@ -345,7 +345,7 @@ The following companies offer remote jobs and hire in Spain:
 * Typeform (View individual job offers to check for remote) [Open positions](https://www.typeform.com/careers/)
 * Unimedia Technology [Open positions](https://www.unimedia.tech/careers/)
 * Unleash [Open positions](https://cord.co/u/13419-unleash)
-* UserZoom [Open positions](https://www.userzoom.com/careers?uuid=elia)
+* UserTesting [Open positions](https://www.usertesting.com/company/careers)
 * Verbio (View individual job offers to check for remote) [Open positions](https://www.verbio.com/careers/)
 * Veriff [Open positions](https://www.veriff.com/careers/open-positions)
 * VIDA.place [Open positions](https://vida-place.jobs.personio.de/)
