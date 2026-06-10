@@ -145,6 +145,7 @@ The following companies offer remote jobs and hire in Spain:
 * Clarivate [Open positions](https://www.linkedin.com/jobs/search/?keywords=clarivate)
 * Clidrive (All technical offers are remote) [Open positions](https://clidrive.jobs.personio.com/)
 * Cloudbees [Open positions](https://www.cloudbees.com/careers/job)
+* CloudPay [Open positions](https://www.cloudpay.com/about/careers/)
 * Clovr Labs [Open positions](https://clovrlabs.teamtailor.com/#section-jobs)
 * Codeworks [Open positions](https://www.linkedin.com/school/codeworks/jobs/)
 * codi cooperatiu [Open positions](https://codi.coop/en/about-us/busquem-socies/)
