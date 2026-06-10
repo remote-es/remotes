@@ -355,7 +355,7 @@ The following companies offer remote jobs and hire in Spain:
 * Vistaprint (All offers are remote) [Open positions](https://jobs.vista.com/Vista/go/Vista-All/8835100/?q=&q2=&alertId=&locationsearch=&title=&shifttype=&facility=Remote&department=)
 * Vitaance (Monthly trips to Barcelona/Madrid) [Open positions](https://www.vitaance.com/careers/)
 * Vizzuality (All offers are remote) [Open positions](https://vizzuality.bamboohr.com/jobs/)
-* Voicemod [Open positions](https://voicemod.breezy.hr/)
+* Voicemod [Open positions](https://jobs.ashbyhq.com/voicemod)
 * Volcanic Internet [Open positions](https://volcanicinternet.com/careers/)
 * Voodoo [Open positions](https://www.voodoo.io/careers/jobs/?location=Barcelona&workplace=Remote)
 * Voxel (occasional travels to the office in Barcelona) (All technical offers are remote) [Open positions](https://www.voxelgroup.net/people/)
