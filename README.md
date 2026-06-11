@@ -331,7 +331,7 @@ The following companies offer remote jobs and hire in Spain:
 * Volcanic Internet [Open positions](https://volcanicinternet.com/careers/)
 * Voodoo [Open positions](https://www.voodoo.io/careers/jobs/?location=Barcelona&workplace=Remote)
 * Voxel (occasional travels to the office in Barcelona) (All technical offers are remote) [Open positions](https://www.voxelgroup.net/people/)
-* Wallbox [Open positions](https://apply.workable.com/wallbox/)
+* Wallbox [Open positions](https://www.linkedin.com/company/wallbox-chargers/jobs/)
 * Wave [Open positions](https://www.wave.com/en/careers/)
 * Welocalize [Open positions](https://jobs.lever.co/welocalize?location=Spain)
 * Wikimedia Foundation [Open positions](https://wikimediafoundation.org/jobs/)
