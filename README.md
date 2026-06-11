@@ -333,7 +333,7 @@ The following companies offer remote jobs and hire in Spain:
 * Voxel (occasional travels to the office in Barcelona) (All technical offers are remote) [Open positions](https://www.voxelgroup.net/people/)
 * Wallbox [Open positions](https://www.linkedin.com/company/wallbox-chargers/jobs/)
 * Wave [Open positions](https://www.wave.com/en/careers/)
-* Welocalize [Open positions](https://jobs.lever.co/welocalize?location=Spain)
+* Welocalize [Open positions](https://jobs.lever.co/weloglobal?department=Welocalize)
 * Wikimedia Foundation [Open positions](https://wikimediafoundation.org/jobs/)
 * Wizeline [Open positions](https://www.wizeline.com/careers/)
 * World Mobile [Open positions](https://careers.worldmobile.io/?&location=Barcelona%2C%20ES#positions)
