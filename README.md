@@ -344,7 +344,7 @@ The following companies offer remote jobs and hire in Spain:
 * Z1 [Open positions](https://z1.digital/careers)
 * Zapier [Open positions](https://zapier.com/jobs#job-openings)
 * ZenRows (All offers are remote) [Open positions](https://www.zenrows.com/careers#open-positions)
-* Zubi Group [Open positions](https://apply.workable.com/zubi-group/)
+* Zubi Group [Open positions](https://zubi.group/en/jobs/)
 
 # Others
 
