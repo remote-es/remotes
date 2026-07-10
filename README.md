@@ -301,6 +301,7 @@ The following companies offer remote jobs and hire in Spain:
 * Stayforlong (All offers are remote) [Open positions](https://careers.stayforlong.com/jobs)
 * Stream [Open positions](https://jobs.ashbyhq.com/stream?locationId=02591825-8f5d-4cda-80c8-de174c7b41d6)
 * Stuart [Open positions](https://stuart.com/careers/)
+* Surfe [Open positions](https://www.surfe.com/careers/)
 * Syntax Information Technology [Open positions](https://www.linkedin.com/jobs/search/?currentJobId=3272272809&f_C=2978930&geoId=92000000)
 * Sysdig [Open positions](https://sysdig.com/jobs/)
 * Taxfix [Open positions](https://taxfix.com/es-es/unete-al-equipo/)
