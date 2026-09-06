@@ -355,6 +355,9 @@ The following links might be useful if you are looking for a remote position in 
 * JobFluent [Open positions](https://www.jobfluent.com/es/empleos-remoto) JobFluent is a Spanish job search site that allows filtering for 100% remote positions and only listing companies with offices in Spain.
 * Manfred [Open positions](https://www.getmanfred.com/ofertas-empleo) Manfred is a recruiting company.
   Offers marked as `FULL REMOTE` and with a salary in euro comply with the conditions stated above.
+* [RadarJobs](https://radarjobs.ai/) is an AI-powered IT job discovery platform for people based in Spain.
+  It matches job offers to your CV and preferences, explains the fit, and sends a daily email digest.
+  Remote positions can be selected in your preferences; check each offer for its location and contract conditions, as the platform also includes hybrid, on-site, and freelance roles.
 * Remote First [Open positions](https://remotefirst.digital/empresas/ofrecen-contrato-espanol) Remote First is a Spanish remote job search site that allows filtering for offers complying with the conditions stated above.
 * Rviewer [Open positions](https://rviewer.io/jobs?workPreferences=remoteOnly) Rviewer is an IT hiring marketplace that allows filtering full-remote and hybrid positions in Spain and Europe.
 * Barcelona Engineering [Open positions](https://bcneng.slack.com/archives/C30CUFT2B) Barcelona Engineering ([BcnEng](https://bcneng.org/)) is a non-profit organization whose mission is to let Barcelona’s tech hub become one of the best tech communities around the globe.
