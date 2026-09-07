@@ -87,7 +87,7 @@ The following companies offer remote jobs and hire in Spain:
 * APIUX [Open positions](https://apiuxtech.na.teamtailor.com/jobs)
 * Aplanet [Open positions](https://aplanet.org/careers/)
 * Aplazame (All offers are remote) [Open positions](https://www.linkedin.com/company/aplazame/jobs/)
-* [Appfire](https://appfire.com/) (All technical offers are remote) [Open positions](https://job-boards.greenhouse.io/appfire)
+* [Appfire](https://appfire.com/) (View individual job offers to check for remote) [Open positions](https://job-boards.greenhouse.io/appfire)
 * Appwrite [Open positions](https://appwrite.io/company/careers)
 * Audiense [Open positions](http://aboutus.audiense.com/careers)
 * Automattic [Open positions](https://automattic.com/work-with-us/)
