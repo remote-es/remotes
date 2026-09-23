@@ -203,6 +203,7 @@ The following companies offer remote jobs and hire in Spain:
 * Kelea [Open positions](https://kelea.viterbit.site/)
 * Knack [Open positions](https://knack.pinpointhq.com/en?location_id=%5B9300%5D)
 * Kodify [Open positions](https://kodify.recruitee.com/#section-26652)
+* Kraken-tech (View individual job offers to check for remote) [Open positions](https://www.kraken.tech/working-at-kraken)
 * LambdaLoopers [Open positions](https://www.linkedin.com/company/lambdaloopers/jobs/)
 * Lana [Open positions](https://lana.dev/careers)
 * Landbot (All offers are remote) [Open positions](https://jobs.landbot.io/)
