@@ -367,6 +367,7 @@ The following sites list remote jobs.
 Some offers list explicitly Spain, which likely mean hiring with permanent contracts in Spain.
 However, offers that do not show a location, or that list many countries, are likely freelancing roles.
 
+* [Jaabz](https://jaabz.com/) — Tech jobs with visa sponsorship, relocation, and remote filters (international)
 * Jobgether [Open positions](https://jobgether.com/search/remote-job-spain-remote-work-jobgether)
 * levels.fyi [Open positions](https://www.levels.fyi/jobs/location/spain?locationSlug=spain)
 
